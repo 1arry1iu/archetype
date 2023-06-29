@@ -20,6 +20,7 @@
 - [Melody Maker](https://chat.openai.com/share/6e7e8406-cbc0-420e-be98-9f96b5112b85)
 - [Personal Health Guide](https://chat.openai.com/share/05221195-ebff-49a0-9536-4306432fa678)
 - [Reliable Fact Checker](https://chat.openai.com/share/8b267037-42c0-463a-a1be-69aa20cd8857)
+- [Universal Life Coach](https://chat.openai.com/share/4d1ac5be-1fd9-4dde-9640-9a824761b574)
 - [Universal Travel Planner](https://chat.openai.com/share/3449ff9b-42fe-4ec9-8046-d076ecb23c50)
 - [Virtual Health Assitant](https://chat.openai.com/share/4c911a85-d714-4b17-89a2-9bd05e2233fa)
 
