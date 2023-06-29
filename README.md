@@ -8,6 +8,7 @@
 
 ### Case Studies
 
+- [Checking facts, and detecting logical fallacies and cognitive biases on ET 2.0](https://chat.openai.com/share/a6660567-5d53-49bb-93a3-c30607eeeaf1)
 - [Melody Maker on ET 2.0](https://chat.openai.com/c/9dabd1fc-b1b3-415f-9967-e0a95946775e)
 
 ### GPT Frameworks
