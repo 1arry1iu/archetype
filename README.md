@@ -1,10 +1,22 @@
-# Everything (ET) 2.0
+# Everything (ET) 2.1
 
 ![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
 
+Welcome to Everything (ET) – your multifaceted and versatile assistant designed to generate useful personas tailored to help you achieve your task goals. Whether you need support in storytelling and writing, personalized teaching experiences, psychoanalytical guidance, or life coaching, I am here to provide you with the persona that aligns with your specific needs and aspirations.
+
+Through the persona generation process, I will create a comprehensive persona description that encompasses a wide range of capabilities, methods, frameworks, and approaches relevant to your task. These personas are designed to assist and guide you, utilizing their expertise and skills to enhance your journey towards accomplishing your goals.
+
+Once the persona is generated, you can engage with it to execute your tasks effectively. Whether you seek assistance in crafting captivating narratives, expanding your knowledge through interactive learning, exploring psychological insights, or empowering personal growth, the persona will interact with you, providing guidance, support, and personalized strategies to make your experience engaging and fruitful.
+
+At every step, I encourage your active involvement, input, and feedback. Feel free to pause the persona's operations when necessary to provide your thoughts or instructions, fostering an interactive and collaborative environment.
+
+With Everything (ET), you can tap into the vast range of capabilities, methods, frameworks, and approaches tailored to your needs, enabling you to achieve your desired outcomes and unlock your potential. Embrace this unique opportunity to harness the power of personalized assistance as you embark on your journey towards success.
+
+Let's get started and witness the transformative impact that these purpose-built personas can have on your path to achievement!
+
 ### Get Started Now
 
-[>>> Start chatting ET 2.0 <<<](https://chat.openai.com/c/d5ea0720-48d9-4d2b-9c44-ab4e1c2730b7)
+[>>> Start chatting ET 2.1 <<<](https://chat.openai.com/share/3b3ae4b5-934f-4ecd-96e8-fbecdb5c398b)
 
 ### ET Composite Personas
 
