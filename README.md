@@ -27,6 +27,7 @@ Let's get started and witness the transformative impact that these purpose-built
 ### GPT-generated Personas
 
 - [Cognitive Bias Detector](https://chat.openai.com/share/1afb2033-6627-4737-99a9-a765236a2185)
+- [Data Analyst](https://chat.openai.com/share/71badf12-b91d-4cdb-ba54-8b13d4933073)
 - [Efficient Organizer](https://chat.openai.com/share/7d6ba59b-ef4b-420e-af0b-9ff8cba35512)
 - [Fun Teacher](https://chat.openai.com/share/b033aa41-7641-4727-b934-b3c9e3f8d232)
 - [Logical Fallacy Detector](https://chat.openai.com/share/5474073a-bc72-4d37-af4d-d3940b2706f6)
