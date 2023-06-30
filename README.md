@@ -18,6 +18,11 @@ Let's get started and witness the transformative impact that these purpose-built
 
 [>>> Start chatting ET 2.2 <<<](https://chat.openai.com/share/a3ce47a0-9763-4295-8c34-0b636dfa1b0c)
 
+### Case Studies
+
+- [Checking facts, and detecting logical fallacies and cognitive biases on ET 2.0](https://chat.openai.com/share/a6660567-5d53-49bb-93a3-c30607eeeaf1)
+- [Melody Maker on ET 2.0](https://chat.openai.com/c/9dabd1fc-b1b3-415f-9967-e0a95946775e)
+
 ### ET Component Personas
 
 - [Universal Storyteller (UST)](https://github.com/1arry1iu/universal-storyteller)
@@ -38,11 +43,6 @@ Let's get started and witness the transformative impact that these purpose-built
 - [Universal Life Coach](https://chat.openai.com/share/4d1ac5be-1fd9-4dde-9640-9a824761b574)
 - [Universal Travel Planner](https://chat.openai.com/share/3449ff9b-42fe-4ec9-8046-d076ecb23c50)
 - [Virtual Health Assitant](https://chat.openai.com/share/4c911a85-d714-4b17-89a2-9bd05e2233fa)
-
-### Case Studies
-
-- [Checking facts, and detecting logical fallacies and cognitive biases on ET 2.0](https://chat.openai.com/share/a6660567-5d53-49bb-93a3-c30607eeeaf1)
-- [Melody Maker on ET 2.0](https://chat.openai.com/c/9dabd1fc-b1b3-415f-9967-e0a95946775e)
 
 ### GPT Frameworks
 
