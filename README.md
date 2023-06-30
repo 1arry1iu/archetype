@@ -1,4 +1,4 @@
-# Everything (ET) 2.1
+# Everything (ET) 2.2
 
 ![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
 
@@ -16,7 +16,7 @@ Let's get started and witness the transformative impact that these purpose-built
 
 ### Get Started Now
 
-[>>> Start chatting ET 2.1 <<<](https://chat.openai.com/share/3b3ae4b5-934f-4ecd-96e8-fbecdb5c398b)
+[>>> Start chatting ET 2.2 <<<](https://chat.openai.com/share/a3ce47a0-9763-4295-8c34-0b636dfa1b0c)
 
 ### ET Composite Personas
 
