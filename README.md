@@ -18,7 +18,7 @@ Let's get started and witness the transformative impact that these purpose-built
 
 [>>> Start chatting ET 2.2 <<<](https://chat.openai.com/share/a3ce47a0-9763-4295-8c34-0b636dfa1b0c)
 
-### ET Composite Personas
+### ET Component Personas
 
 - [Universal Storyteller (UST)](https://github.com/1arry1iu/universal-storyteller)
 - [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher)
