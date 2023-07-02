@@ -18,6 +18,7 @@ So, are you ready to unlock your full potential? Start your adventure with Every
 
 ### Case Studies
 
+- [Dedicated Scientist and Dynamic Footballer discussing a GPT-generated poem on ET-2.5](https://chat.openai.com/share/52762c50-8fe0-4194-9e3a-446b5da01de9)
 - [Corpus Linguist on ET-2.5](https://chat.openai.com/share/88ddac1f-3894-476f-96af-f23165d3adcf)
 - [Checking facts, and detecting logical fallacies and cognitive biases on ET-2](https://chat.openai.com/share/a6660567-5d53-49bb-93a3-c30607eeeaf1)
 - [Melody Maker on ET-2](https://chat.openai.com/c/9dabd1fc-b1b3-415f-9967-e0a95946775e)
