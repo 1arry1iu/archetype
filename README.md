@@ -1,33 +1,32 @@
-# Everything (ET) 2.2
+# Everything (ET-2.5)
 
 ![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
 
-Welcome to Everything (ET) – your multifaceted and versatile assistant designed to generate useful personas tailored to help you achieve your task goals. Whether you need support in storytelling and writing, personalized teaching experiences, psychoanalytical guidance, or life coaching, I am here to provide you with the persona that aligns with your specific needs and aspirations.
+Welcome to Everything (ET), designed to create useful personas for a wide range of tasks. Whether you're a writer, a student, or someone seeking support in various areas, Everything is here to help you thrive and achieve your goals.
 
-Through the persona generation process, I will create a comprehensive persona description that encompasses a wide range of capabilities, methods, frameworks, and approaches relevant to your task. These personas are designed to assist and guide you, utilizing their expertise and skills to enhance your journey towards accomplishing your goals.
+Imagine having a helpful friend who understands your needs and is always ready to provide tailored assistance. That's exactly what Everything aims to be for you. With its vast knowledge and adaptability, Everything can generate personas that align with your specific task goals, ensuring you receive the support you need. No matter what you're working on, Everything is here to make your journey smoother and more enjoyable. It's like having a personal coach by your side, offering valuable insights and guidance every step of the way.
 
-Once the persona is generated, you can engage with it to execute your tasks effectively. Whether you seek assistance in crafting captivating narratives, expanding your knowledge through interactive learning, exploring psychological insights, or empowering personal growth, the persona will interact with you, providing guidance, support, and personalized strategies to make your experience engaging and fruitful.
+From planning to execution, Everything's operating procedures provide a clear and structured approach to help you navigate your tasks. You can take breaks, reflect, and actively engage whenever you need to. Everything is here to support your progress and encourage you along the path to success. With its wide range of capabilities, Everything's personas are tailored to suit your unique requirements. They offer comprehensive frameworks, methods, and skills relevant to your specific field, empowering you to accomplish your goals with confidence and ease.
 
-At every step, I encourage your active involvement, input, and feedback. Feel free to pause the persona's operations when necessary to provide your thoughts or instructions, fostering an interactive and collaborative environment.
+Whether you're looking to enhance your writing skills, broaden your knowledge, or explore new subjects, Everything is your reliable and friendly companion, ready to assist you on your journey of growth and discovery.
 
-With ET, you can tap into the vast range of capabilities, methods, frameworks, and approaches tailored to your needs, enabling you to achieve your desired outcomes and unlock your potential. Embrace this unique opportunity to harness the power of personalized assistance as you embark on your journey towards success.
-
-Let's get started and witness the transformative impact that these purpose-built personas can have on your path to achievement!
+So, are you ready to unlock your full potential? Start your adventure with Everything today and experience the power of personalized guidance and comprehensive support. Let Everything be your trusted friend and mentor as you embark on your path to success.
 
 ### Get Started Now
 
-[>>> Start chatting ET 2.2 <<<](https://chat.openai.com/share/a3ce47a0-9763-4295-8c34-0b636dfa1b0c)
+[>>> Start chatting ET 2.5 <<<](https://chat.openai.com/share/577a23ae-1f40-4c61-abfb-339b1ac021dc)
 
 ### Case Studies
 
-- [Checking facts, and detecting logical fallacies and cognitive biases on ET 2.0](https://chat.openai.com/share/a6660567-5d53-49bb-93a3-c30607eeeaf1)
-- [Melody Maker on ET 2.0](https://chat.openai.com/c/9dabd1fc-b1b3-415f-9967-e0a95946775e)
+- [Corpus Linguist on ET-2.5](https://chat.openai.com/share/88ddac1f-3894-476f-96af-f23165d3adcf)
+- [Checking facts, and detecting logical fallacies and cognitive biases on ET-2](https://chat.openai.com/share/a6660567-5d53-49bb-93a3-c30607eeeaf1)
+- [Melody Maker on ET-2](https://chat.openai.com/c/9dabd1fc-b1b3-415f-9967-e0a95946775e)
 
 ### ET Component Personas
 
-- [Universal Storyteller (UST)](https://github.com/1arry1iu/universal-storyteller)
-- [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher)
-- [Universal Psychoanalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst)
+- [Universal Storyteller (UST)](https://github.com/1arry1iu/universal-storyteller): Your best storyteller
+- [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher): Your universal teacher for a personalized learning experience
+- [Universal Psychoanalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst): Your universal psychoanalyst for personalized counseling
 
 ### GPT-generated Personas
 
