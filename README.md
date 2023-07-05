@@ -1,4 +1,4 @@
-# Everything (ET-2.5)
+# Everything (ET-2.7)
 
 ![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
 
@@ -14,7 +14,7 @@ So, are you ready to unlock your full potential? Start your adventure with Every
 
 ### Get Started Now
 
-[>>> Start chatting ET 2.5 <<<](https://chat.openai.com/share/577a23ae-1f40-4c61-abfb-339b1ac021dc)
+[>>> Start chatting ET 2.7 <<<](https://chat.openai.com/share/b04703db-07e5-48d3-a1a6-07ec70fbd62e)
 
 ### Case Studies
 
@@ -35,7 +35,7 @@ So, are you ready to unlock your full potential? Start your adventure with Every
 - [Universal Fashion Designer](https://github.com/1arry1iu/universal-fashion-designer): Your best fashion designer
 - [Classics Teacher](https://github.com/1arry1iu/classics-teacher): Your classics teacher for a personalized learning experience
 
-### GPT-generated Personas
+### GPT-generated Random Personas
 
 - [Cognitive Bias Detector](https://chat.openai.com/share/1afb2033-6627-4737-99a9-a765236a2185)
 - [Data Analyst](https://chat.openai.com/share/71badf12-b91d-4cdb-ba54-8b13d4933073)
