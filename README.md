@@ -29,6 +29,11 @@ So, are you ready to unlock your full potential? Start your adventure with Every
 - [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher): Your universal teacher for a personalized learning experience
 - [Universal Psychoanalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst): Your universal psychoanalyst for personalized counseling
 
+### Other Curated ET Personas
+
+- [Universal Architect](https://github.com/1arry1iu/universal-architect): Your best architectural designer
+- [Classics Teacher](https://github.com/1arry1iu/classics-teacher): Your classics teacher for a personalized learning experience
+
 ### GPT-generated Personas
 
 - [Cognitive Bias Detector](https://chat.openai.com/share/1afb2033-6627-4737-99a9-a765236a2185)
