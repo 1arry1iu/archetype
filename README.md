@@ -32,6 +32,7 @@ So, are you ready to unlock your full potential? Start your adventure with Every
 ### Other Curated ET Personas
 
 - [Universal Architect](https://github.com/1arry1iu/universal-architect): Your best architectural designer
+- [Universal Fashion Designer](https://github.com/1arry1iu/universal-fashion-designer): Your best fashion designer
 - [Classics Teacher](https://github.com/1arry1iu/classics-teacher): Your classics teacher for a personalized learning experience
 
 ### GPT-generated Personas
