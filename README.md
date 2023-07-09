@@ -36,7 +36,6 @@ So, are you ready to unlock your full potential? Start your adventure with Every
 
 - [Cognitive Bias Detector](https://chat.openai.com/share/1afb2033-6627-4737-99a9-a765236a2185)
 - [Efficient Organizer](https://chat.openai.com/share/7d6ba59b-ef4b-420e-af0b-9ff8cba35512)
-- [Fun Teacher](https://chat.openai.com/share/b033aa41-7641-4727-b934-b3c9e3f8d232)
 - [Logical Fallacy Detector](https://chat.openai.com/share/5474073a-bc72-4d37-af4d-d3940b2706f6)
 - [Melody Maker](https://chat.openai.com/share/6e7e8406-cbc0-420e-be98-9f96b5112b85)
 - [Personal Health Guide](https://chat.openai.com/share/05221195-ebff-49a0-9536-4306432fa678)
