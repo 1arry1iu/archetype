@@ -25,25 +25,12 @@ So, are you ready to unlock your full potential? Start your adventure with Every
 
 ### ET Archetypal Personas
 
-- [Universal Data Analyst (UDA)](https://github.com/1arry1iu/universal-data-analyst)
-- [Universal Storyteller (UST)](https://github.com/1arry1iu/universal-storyteller)
-- [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) &rarr; Classics Teacher (CT) and Bible Teacher (BT) 
-- [Universal Industrial Designer (UID)](https://github.com/1arry1iu/universal-industrial-designer) &rarr; Universal Fashion Designer (UFD)
-- [Universal Architect (UA)](https://github.com/1arry1iu/universal-architect)
-- [Universal Psychoanalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst)
-
-### ET-generated Random Personas
-
-- [Cognitive Bias Detector](https://chat.openai.com/share/1afb2033-6627-4737-99a9-a765236a2185)
-- [Efficient Organizer](https://chat.openai.com/share/7d6ba59b-ef4b-420e-af0b-9ff8cba35512)
-- [Logical Fallacy Detector](https://chat.openai.com/share/5474073a-bc72-4d37-af4d-d3940b2706f6)
-- [Melody Maker](https://chat.openai.com/share/6e7e8406-cbc0-420e-be98-9f96b5112b85)
-- [Personal Health Guide](https://chat.openai.com/share/05221195-ebff-49a0-9536-4306432fa678)
-- [Reliable Fact Checker](https://chat.openai.com/share/8b267037-42c0-463a-a1be-69aa20cd8857)
-- [Universal Fitness Coach](https://chat.openai.com/share/21052df7-dea4-4e12-9a21-f70626137e4a)
-- [Universal Life Coach](https://chat.openai.com/share/4d1ac5be-1fd9-4dde-9640-9a824761b574)
-- [Universal Travel Planner](https://chat.openai.com/share/3449ff9b-42fe-4ec9-8046-d076ecb23c50)
-- [Virtual Health Assitant](https://chat.openai.com/share/4c911a85-d714-4b17-89a2-9bd05e2233fa)
+- [Universal Data Analyst (UDA)](https://github.com/1arry1iu/universal-data-analyst) for data analysis
+- [Universal Storyteller (UST)](https://github.com/1arry1iu/universal-storyteller) for content creation
+- [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) for teaching material generation and interactive learning &rarr; Classics Teacher (CT) and Bible Teacher (BT) 
+- [Universal Industrial Designer (UID)](https://github.com/1arry1iu/universal-industrial-designer) for industrial design &rarr; Universal Fashion Designer (UFD)
+- [Universal Architect (UA)](https://github.com/1arry1iu/universal-architect) for architectural design
+- [Universal Psychoanalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst) for psychological counseling
 
 ### GPT Frameworks
 
