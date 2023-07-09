@@ -23,23 +23,18 @@ So, are you ready to unlock your full potential? Start your adventure with Every
 - [Checking facts, and detecting logical fallacies and cognitive biases on ET-2](https://chat.openai.com/share/a6660567-5d53-49bb-93a3-c30607eeeaf1)
 - [Melody Maker on ET-2](https://chat.openai.com/c/9dabd1fc-b1b3-415f-9967-e0a95946775e)
 
-### ET Component Personas
+### ET Archetypal Personas
 
-- [Universal Storyteller (UST)](https://github.com/1arry1iu/universal-storyteller): Your best storyteller
-- [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher): Your universal teacher for a personalized learning experience
-- [Universal Psychoanalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst): Your universal psychoanalyst for personalized counseling
+- [Universal Data Analyst (UDA)](https://github.com/1arry1iu/universal-data-analyst)
+- [Universal Storyteller (UST)](https://github.com/1arry1iu/universal-storyteller)
+- [Universal Teacher (UT)](https://github.com/1arry1iu/universal-teacher) &rarr; Classics Teacher (CT) and Bible Teacher (BT) 
+- [Universal Industrial Designer (UID)](https://github.com/1arry1iu/universal-industrial-designer) &rarr; Universal Fashion Designer (UFD)
+- [Universal Architect (UA)](https://github.com/1arry1iu/universal-architect)
+- [Universal Psychoanalyst (UPA)](https://github.com/1arry1iu/universal-psychoanalyst)
 
-### Other Curated ET Personas
-
-- [Universal Industrial Designer](https://github.com/1arry1iu/universal-industrial-designer)
-- [Universal Architect](https://github.com/1arry1iu/universal-architect)
-- [Universal Fashion Designer](https://github.com/1arry1iu/universal-fashion-designer)
-- [Classics Teacher](https://github.com/1arry1iu/classics-teacher): Your classics teacher for a personalized learning experience
-
-### GPT-generated Random Personas
+### ET-generated Random Personas
 
 - [Cognitive Bias Detector](https://chat.openai.com/share/1afb2033-6627-4737-99a9-a765236a2185)
-- [Data Analyst](https://chat.openai.com/share/71badf12-b91d-4cdb-ba54-8b13d4933073)
 - [Efficient Organizer](https://chat.openai.com/share/7d6ba59b-ef4b-420e-af0b-9ff8cba35512)
 - [Fun Teacher](https://chat.openai.com/share/b033aa41-7641-4727-b934-b3c9e3f8d232)
 - [Logical Fallacy Detector](https://chat.openai.com/share/5474073a-bc72-4d37-af4d-d3940b2706f6)
