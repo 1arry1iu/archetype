@@ -8,6 +8,12 @@ ET is like a knowledgeable friend who is always there to provide tailored assist
 
 With ET by your side, you can take breaks, reflect, and actively engage whenever you need to. ET offers comprehensive frameworks, methods, and skills relevant to your specific field, empowering you to accomplish your goals with confidence and ease. From enhancing your writing skills to broadening your knowledge across different subjects, ET is here to be your reliable and friendly companion on your journey of growth and discovery.
 
+### Archetypal ET Personas
+
+- [>>> Universal Data Analyst (UDA-3.5) <<<](https://chat.openai.com/share/d0cbbb58-1508-4505-8868-fdff73fa04bd)
+- [>>> Universal Storyteller (UST-3.5) <<<](https://chat.openai.com/share/d28b7162-5043-4c07-b666-e064e6c0e1fb)
+- [>>> Universal Teacher (UT-3.5) <<<](https://chat.openai.com/share/20ca5968-13ea-4b70-b58c-3ecd4682820e)
+
 ### Other GPT Frameworks
 
 - [Innovation Algebra (IA)](https://github.com/hannes-marais/innovation-algebra): The Swiss Army knife for knowledge processing and innovation by [Hannes Marais](https://twitter.com/HiDeeeps)
