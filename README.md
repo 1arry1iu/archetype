@@ -8,15 +8,6 @@ ET is like a knowledgeable friend who is always there to provide tailored assist
 
 With ET by your side, you can take breaks, reflect, and actively engage whenever you need to. ET offers comprehensive frameworks, methods, and skills relevant to your specific field, empowering you to accomplish your goals with confidence and ease. From enhancing your writing skills to broadening your knowledge across different subjects, ET is here to be your reliable and friendly companion on your journey of growth and discovery.
 
-### Archetypal Personas
-
-- Universal Architect
-- Universal Data Analyst
-- Universal Fashion Designer
-- Universal Psychoanalyst
-- Universal Storyteller
-- Universal Teacher
-
 ### Other GPT Frameworks
 
 - [Innovation Algebra (IA)](https://github.com/hannes-marais/innovation-algebra): The Swiss Army knife for knowledge processing and innovation by [Hannes Marais](https://twitter.com/HiDeeeps)
