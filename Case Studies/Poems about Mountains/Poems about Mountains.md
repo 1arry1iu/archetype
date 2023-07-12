@@ -326,17 +326,35 @@ Standing resolute through mankind's laughs and tears.
 
 Poem: CoT UST-3.5/Claude
 
-Title: The Indifferent Mountain
+Title: Enduring
 
-Monoliths of granite, peaks pierce the heavens
-Snow summits, glaciers carving the rock
-Frigid blasts sting, avalanches bellow unshook
+Craggy cliffs reaching towards the heavens
+Snow-laden pines standing resolute
+Ice-cold streams cascading over granite
+Clouds swirling around evergreen peaks
+Wind whispering ancient songs
 
-Dark skies arise, storms disorient lost souls
-Precipice breaks, life dies, mountain remains
+The mountain stands like a granite god
+Ice glinting like crystals in its beard
+Peaks piercing the sky's underbelly
 
-Reaching the summit, a journey hard-won
+Cliffs towering as ceremonial shields
+Trails beckoning like serpentine streams
 
-The world unfurling before wind-whipped eyes
-Awe and triumph, exhaustion withdrawn
-Vanquishing self, as the mountain abides
+Stalwart, steadfast, enduring
+Touching time with stone-worn hands
+Standing firm through winter gales
+Watching eras pass in fallen snow
+Ever rising, ever present
+
+Climbing upwards through swirling mist
+Into realms of rarified air
+Lungs burn, legs ache in exhaustion
+Reaching the summit, a moment of transcendence
+Above the clouds, the world reborn
+
+And the mountain remains still
+Cloaked in winter's hushed silence
+Granite walls guarding eons of memories
+Its enduring presence humbling
+As time flows onward like streams
