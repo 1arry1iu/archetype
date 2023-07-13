@@ -11,7 +11,6 @@ With ET by your side, you can take breaks, reflect, and actively engage whenever
 ### Archetypal ET Personas
 
 - [>>> Universal Data Analyst (UDA-3.5) <<<](https://chat.openai.com/share/d0cbbb58-1508-4505-8868-fdff73fa04bd)
-- [>>> Universal Storyteller (UST-3.5) <<<](https://chat.openai.com/share/d28b7162-5043-4c07-b666-e064e6c0e1fb)
 - [>>> Universal Teacher (UT-3.5) <<<](https://chat.openai.com/share/20ca5968-13ea-4b70-b58c-3ecd4682820e)
 
 ### Other GPT Frameworks
