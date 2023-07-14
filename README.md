@@ -20,7 +20,7 @@ With ET by your side, you can take breaks, reflect, and actively engage whenever
 
 ### Case Studies
 
-- Reaching depth: [Conversation with UT-3.5/GPT-3.5 on Genesis 1](https://github.com/1arry1iu/everything/blob/main/Case%20Studies/Depth/Conversation%20with%20Bible%20Teacher.md), and [iscussion](https://twitter.com/w_liu_/status/1679690464394620929)
+- Reaching depth: [A conversation with UT-3.5/GPT-3.5 on Genesis 1](https://github.com/1arry1iu/everything/blob/main/Case%20Studies/Depth/Conversation%20with%20Bible%20Teacher.md), and [iscussion](https://twitter.com/w_liu_/status/1679690464394620929)
 
 ### Other GPT Frameworks
 
