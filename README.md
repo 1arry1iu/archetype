@@ -16,6 +16,7 @@ With ET by your side, you can take breaks, reflect, and actively engage whenever
 ### Conceptualization
 
 - [GPT: The Ultimate RPG Game](https://github.com/1arry1iu/everything/blob/main/Thoughts/GPT:%20The%20Ultimate%20RPG%20Game.md)
+- [Main Takeaways 46 Days into Prompting](https://github.com/1arry1iu/everything/blob/main/Thoughts/Main%20Takeaways%2046%20Days%20into%20Prompting.md)
 
 ### Case Studies
 
