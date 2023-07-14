@@ -13,6 +13,10 @@ With ET by your side, you can take breaks, reflect, and actively engage whenever
 - [>>> Universal Data Analyst (UDA-3.5) <<<](https://chat.openai.com/share/d0cbbb58-1508-4505-8868-fdff73fa04bd)
 - [>>> Universal Teacher (UT-3.5) <<<](https://chat.openai.com/share/20ca5968-13ea-4b70-b58c-3ecd4682820e)
 
+### Case Studies
+
+- Reaching depth: [Conversation with UT-3.5/GPT-3.5 on Genesis 1](https://github.com/1arry1iu/everything/blob/main/Case%20Studies/Depth/Conversation%20with%20Bible%20Teacher.md), and [iscussion](https://twitter.com/w_liu_/status/1679690464394620929)
+
 ### Other GPT Frameworks
 
 - [Innovation Algebra (IA)](https://github.com/hannes-marais/innovation-algebra): The Swiss Army knife for knowledge processing and innovation by [Hannes Marais](https://twitter.com/HiDeeeps)
