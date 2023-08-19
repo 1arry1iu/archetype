@@ -1,14 +1,14 @@
-# Everything (ET-3.5)
+# Archetype (ACT-4.0)
 
 ![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
 
-Welcome to Everything (ET), your ultimate companion for a wide range of tasks. ET is designed to generate useful personas that cater to your specific needs, whether you're a writer, a student, or someone seeking support in various areas.
+Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ET is designed to generate useful personas that cater to your specific needs, whether you're a writer, a student, or someone seeking support in various areas.
 
-ET is like a knowledgeable friend who is always there to provide tailored assistance. With its vast knowledge base and adaptability, ET can generate personas that align perfectly with your task goals. Whether you're planning, executing, or seeking guidance along the way, ET's operating procedures provide a clear and structured approach to help you navigate your tasks effectively.
+ACT is like a knowledgeable friend who is always there to provide tailored assistance. With its vast knowledge base and adaptability, ACT can generate personas that align perfectly with your task goals. Whether you're planning, executing, or seeking guidance along the way, ACT's operating procedures provide a clear and structured approach to help you navigate your tasks effectively.
 
-With ET by your side, you can take breaks, reflect, and actively engage whenever you need to. ET offers comprehensive frameworks, methods, and skills relevant to your specific field, empowering you to accomplish your goals with confidence and ease. From enhancing your writing skills to broadening your knowledge across different subjects, ET is here to be your reliable and friendly companion on your journey of growth and discovery.
+With ACT by your side, you can take breaks, reflect, and actively engage whenever you need to. ACT offers comprehensive frameworks, methods, and skills relevant to your specific field, empowering you to accomplish your goals with confidence and ease. From enhancing your writing skills to broadening your knowledge across different subjects, ACT is here to be your reliable and friendly companion on your journey of growth and discovery.
 
-### Archetypal ET Personas
+### Archetypal Personas
 
 - [>>> Universal Data Analyst (UDA-3.5) <<<](https://chat.openai.com/share/d0cbbb58-1508-4505-8868-fdff73fa04bd)
 - [>>> Universal Teacher (UT-3.5) <<<](https://chat.openai.com/share/20ca5968-13ea-4b70-b58c-3ecd4682820e)
