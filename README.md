@@ -11,6 +11,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 ### Archetypal Personas
 
 - [>>> Universal Data Analyst (UDA-3.5) <<<](https://chat.openai.com/share/d0cbbb58-1508-4505-8868-fdff73fa04bd)
+- [>>> Universal Storyteller (UST-4) <<<](https://chat.openai.com/share/060be575-381e-4def-a6fb-ee57635cde43)
 - [>>> Universal Teacher (UT-3.5) <<<](https://chat.openai.com/share/20ca5968-13ea-4b70-b58c-3ecd4682820e)
 
 ### Conceptualization
