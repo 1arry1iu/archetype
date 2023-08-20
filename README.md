@@ -1,4 +1,4 @@
-# Archetype (ACT-4.0)
+# Archetype (ACT-4)
 
 ![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
 
