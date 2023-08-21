@@ -22,7 +22,9 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 
 ### Case Studies
 
-- Reaching depth: [A conversation with UT-3.5/GPT-3.5 on Genesis 1](https://github.com/1arry1iu/everything/blob/main/Case%20Studies/Depth/Conversation%20with%20Bible%20Teacher.md)
+- Reaching depth
+  - [A conversation with UT-3.5/GPT-3.5 on Genesis 1](https://github.com/1arry1iu/everything/blob/main/Case%20Studies/Depth/Conversation%20with%20Bible%20Teacher.md)
+  - [Data analysis: EVPD on UDA-4/GPT-4 vs. GPT-4](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Depth/EVPD%20on%20UDA-4%20vs.%20GPT-4.md)
 
 ### Other GPT Frameworks
 
