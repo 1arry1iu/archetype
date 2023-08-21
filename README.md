@@ -8,16 +8,17 @@ ACT is like a knowledgeable friend who is always there to provide tailored assis
 
 With ACT by your side, you can take breaks, reflect, and actively engage whenever you need to. ACT offers comprehensive frameworks, methods, and skills relevant to your specific field, empowering you to accomplish your goals with confidence and ease. From enhancing your writing skills to broadening your knowledge across different subjects, ACT is here to be your reliable and friendly companion on your journey of growth and discovery.
 
-### Archetypal Personas
+### Template Archetyes
 
 - [>>> Universal Data Analyst (UDA-4) <<<](https://chat.openai.com/share/1dc65720-232b-4e2c-ba5c-a9d756f1ebdf)
 - [>>> Universal Storyteller (UST-4) <<<](https://chat.openai.com/share/060be575-381e-4def-a6fb-ee57635cde43)
-- [>>> Universal Teacher (UT-3.5) <<<](https://chat.openai.com/share/20ca5968-13ea-4b70-b58c-3ecd4682820e)
+- [>>> Universal Teacher (UT-4) <<<](https://chat.openai.com/share/4e00fd99-595d-4ae0-af80-a12b1de9537b)
 
 ### Conceptualization
 
 - [GPT: The Ultimate RPG Game](https://github.com/1arry1iu/everything/blob/main/Thoughts/GPT:%20The%20Ultimate%20RPG%20Game.md)
 - [Main Takeaways 46 Days into Prompting](https://github.com/1arry1iu/everything/blob/main/Thoughts/Main%20Takeaways%2046%20Days%20into%20Prompting.md)
+- [Personas vs. Archetypes](https://github.com/1arry1iu/archetype/blob/main/Thoughts/Personas%20vs.%20Archetypes.md)
 
 ### Case Studies
 
