@@ -17,7 +17,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 ### Additional Archetypes
 
 - [>>> Universal Economist (UE-4) <<<](https://chat.openai.com/share/cca42f39-0fc6-46e9-9301-aa31090fbff2)
-- [>>> Universal Fact Checker (UFC-4) <<<](https://chat.openai.com/share/2b09ff5d-86cd-4e81-9c0a-74782eda83e1)
+- [>>> Universal Fact Checker (UFC-4) <<<](https://chat.openai.com/share/1558c63b-218f-4b9e-a1f2-0dc1c6f803dc)
 
 ### Conceptualization
 
