@@ -12,4 +12,4 @@ The future, which is now, fills me with immense excitement!
 
 ---
 Second Edition, July 14, 2023<br>
-First Edition, [published on Twitter](https://twitter.com/w_liu_/status/1663385882152554499), March 30, 2023
+First Edition, [published on X](https://twitter.com/w_liu_/status/1663385882152554499), March 30, 2023
