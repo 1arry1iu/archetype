@@ -3,4 +3,4 @@ I distinguish between personas and archetypes in Jung's sense. A persona is "a k
 Unlike many persona prompts, Archetype (ACT) offers templates of "useful" archetypes tailored for real-world use cases. These prompts evoke the essence of archetypal personas, complete with their distinctive perspectives and expertise, guiding GPT to respond appropriately for real-world projects.
 
 ---
-First edition, [published on X](https://twitter.com/w_liu_/status/1693423352076284209), August 21, 2023
+First Edition, [published on X](https://twitter.com/w_liu_/status/1693423352076284209), August 21, 2023
