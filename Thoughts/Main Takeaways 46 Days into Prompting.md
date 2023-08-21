@@ -11,4 +11,4 @@ After 46 days of prompting LLMs and the release of Archetype 0.1, here are my ma
 - Anyone can prompt LLMs. You don't need to learn artificial languages, e.g. Python, for that. Prompts are based on natural language. In fact, the most successful prompters are domain experts. By engaging LLMs with your domain knowledge, you'll uncover avenues to explore their profound depths.
 
 ---
-First Edition, [published on Twitter](https://twitter.com/w_liu_/status/1679694520487940097), July 14, 2023
+First Edition, published on X, July 14, 2023
