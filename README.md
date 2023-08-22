@@ -19,6 +19,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 - [>>> Universal Economist (UE-4) <<<](https://chat.openai.com/share/cca42f39-0fc6-46e9-9301-aa31090fbff2)
 - [>>> Universal Fact Checker (UFC-4) <<<](https://chat.openai.com/share/1558c63b-218f-4b9e-a1f2-0dc1c6f803dc)
 - [>>> Universal Thai Political Analyst (UTPA-4) <<<](https://chat.openai.com/share/c28f6c2d-de67-44cb-9173-977f8384ddde)
+- [>>> Universal Entrepreneur (UEN-4) <<<](https://chat.openai.com/share/ad11e07e-7261-4065-8cb4-29b0bf1e282f)
 
 ### Conceptualization
 
