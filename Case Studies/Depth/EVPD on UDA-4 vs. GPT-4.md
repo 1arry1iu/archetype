@@ -18,5 +18,5 @@ UDA-4/GPT-4: https://chat.openai.com/share/8c5acb59-e1b0-4083-b589-6663121cdcbe
 GPT-4: https://chat.openai.com/share/f07b2f0a-7379-400c-93a2-def1f61b4c1d
 
 ---
-Second Edition, August 21, 2023
-First Edition, [published on X](https://twitter.com/w_liu_/status/1693112902327439455), August 20, 2023 
+- Second Edition, August 21, 2023
+- First Edition, [published on X](https://twitter.com/w_liu_/status/1693112902327439455), August 20, 2023 
