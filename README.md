@@ -36,11 +36,13 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 - Depth
   - [A conversation with UT-3.5/GPT-3.5 on Genesis 1](https://github.com/1arry1iu/everything/blob/main/Case%20Studies/Depth/Conversation%20with%20Bible%20Teacher.md)
   - [Data analysis: EVPD on UDA-4/GPT-4 vs. GPT-4](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Depth/EVPD%20on%20UDA-4%20vs.%20GPT-4.md)
+  - [Jokes about Hunter Biden on UC-4.5/GPT-4 vs. GPT-4](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Depth/Jokes%20about%20Hunter%20Biden.md)
 
 ### Other GPT Frameworks and Prompts
 
-- [Innovation Algebra (IA)](https://github.com/hannes-marais/innovation-algebra): The Swiss Army knife for knowledge processing and innovation by [Hannes Marais](https://twitter.com/HiDeeeps)
-- [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow): Prompting and research workflow for lecture building by [Advancedcskills](https://twitter.com/advancedcskills)
+- [Innovation Algebra (IA)](https://github.com/hannes-marais/innovation-algebra): The Swiss Army knife for knowledge processing and innovation, by [Hannes Marais](https://twitter.com/HiDeeeps)
+- [Brainsimming](https://github.com/hannes-marais/brainsimming): A new technique where multiple AI personas are participating in a virtual brainstorming session and coming up with ideas, by [Hannes Marais](https://twitter.com/HiDeeeps)
+- [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow): Prompting and research workflow for lecture building, by [Advancedcskills](https://twitter.com/advancedcskills)
 
 ### Contact Me
 
