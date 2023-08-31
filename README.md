@@ -18,6 +18,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 
 ### Additional Archetypes
 
+- [>>> Universal Curriculum Designer and Material Writer (UCDMW-4.5) <<<](https://chat.openai.com/share/fc1eb7f0-b8d0-4c7b-ac1a-05f7cfc35d09)
 - [>>> Universal Economist (UE-4) <<<](https://chat.openai.com/share/cca42f39-0fc6-46e9-9301-aa31090fbff2)
 - [>>> Universal Entrepreneur (UEN-4) <<<](https://chat.openai.com/share/ad11e07e-7261-4065-8cb4-29b0bf1e282f)
 - [>>> Universal Fact Checker (UFC-4) <<<](https://chat.openai.com/share/1558c63b-218f-4b9e-a1f2-0dc1c6f803dc)
