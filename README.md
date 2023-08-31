@@ -12,7 +12,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 
 - [>>> Universal Comedian (UC-4.5) <<<](https://chat.openai.com/share/a3902477-ef5e-4280-85b7-6ba9050767e2)
 - [>>> Universal Data Analyst (UDA-4) <<<](https://chat.openai.com/share/1dc65720-232b-4e2c-ba5c-a9d756f1ebdf)
-- [>>> Universal Storyteller (UST-4) <<<](https://chat.openai.com/share/060be575-381e-4def-a6fb-ee57635cde43)
+- [>>> Universal Storyteller (UST-4.5) <<<](https://chat.openai.com/share/0f320565-a7d9-4160-bb94-7cee5384a4f3)
 - [>>> Universal Researcher (UR-4) <<<](https://chat.openai.com/share/88942916-beb0-4825-8885-444421e701e9)
 - [>>> Universal Teacher (UT-4) <<<](https://chat.openai.com/share/4e00fd99-595d-4ae0-af80-a12b1de9537b)
 
