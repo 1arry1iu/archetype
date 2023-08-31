@@ -38,6 +38,9 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
   - [Data analysis: EVPD on UDA-4/GPT-4 vs. GPT-4](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Depth/EVPD%20on%20UDA-4%20vs.%20GPT-4.md)
   - [Jokes about Hunter Biden on UC-4.5/GPT-4 vs. GPT-4](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Depth/Jokes%20about%20Hunter%20Biden.md)
 
+- Hallucination
+  - [Eliot's The Waste Land](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Hallucination/The%20Waste%20Land.md)
+
 ### Other GPT Frameworks and Prompts
 
 - [Innovation Algebra (IA)](https://github.com/hannes-marais/innovation-algebra): The Swiss Army knife for knowledge processing and innovation, by [Hannes Marais](https://twitter.com/HiDeeeps)
