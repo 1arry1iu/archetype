@@ -39,7 +39,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
   - [Jokes about Hunter Biden on UC-4.5/GPT-4 vs. GPT-4](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Depth/Jokes%20about%20Hunter%20Biden.md)
 
 - Hallucination
-  - [Eliot's The Waste Land](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Hallucination/The%20Waste%20Land.md)
+  - [Eliot's The Waste Land UVR-4/GPT-4 vs. GPT-4](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Hallucination/The%20Waste%20Land.md)
 
 ### Other GPT Frameworks and Prompts
 
