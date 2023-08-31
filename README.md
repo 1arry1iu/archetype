@@ -1,4 +1,4 @@
-# Archetype (ACT-4)
+# Archetype (ACT-4.5)
 
 ![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
 
@@ -10,6 +10,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 
 ### Template Archetyes
 
+- [>>> Universal Comedian (UC-4.5) <<<](https://chat.openai.com/share/a3902477-ef5e-4280-85b7-6ba9050767e2)
 - [>>> Universal Data Analyst (UDA-4) <<<](https://chat.openai.com/share/1dc65720-232b-4e2c-ba5c-a9d756f1ebdf)
 - [>>> Universal Storyteller (UST-4) <<<](https://chat.openai.com/share/060be575-381e-4def-a6fb-ee57635cde43)
 - [>>> Universal Researcher (UR-4) <<<](https://chat.openai.com/share/88942916-beb0-4825-8885-444421e701e9)
