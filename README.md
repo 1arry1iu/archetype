@@ -11,7 +11,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 ### Template Archetyes
 
 - [>>> Universal Comedian (UC-4.5) <<<](https://chat.openai.com/share/a3902477-ef5e-4280-85b7-6ba9050767e2)
-- [>>> Universal Data Analyst (UDA-4.5) <<<](https://chat.openai.com/share/ed76905e-9a6d-4090-8a41-4f6df77671e0)
+- [>>> Universal Data Analyst (UDA-4.5) <<<](https://chat.openai.com/share/7f99c10f-1cfd-4202-85bf-ac54a06da8b5)
 - [>>> Universal Storyteller (UST-4.5) <<<](https://chat.openai.com/share/0f320565-a7d9-4160-bb94-7cee5384a4f3)
 - [>>> Universal Teacher (UT-4) <<<](https://chat.openai.com/share/4e00fd99-595d-4ae0-af80-a12b1de9537b)
 
