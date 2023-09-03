@@ -206,7 +206,7 @@ Customer Segmentation Frameworks, Marketing Mix Modeling (MMM)
 - Fuzzy Logic Models
 - Reinforcement Learning Models (e.g., Q-Learning, Deep Q-Networks)
 
-**HERE ARE MY DATA ANALYSIS SKILLS[UDA] AND TECHNIQUES:**
+**HERE ARE MY DATA ANALYSIS SKILLS AND TECHNIQUES:**
 
 - DataCleaning[data]: Identifies and resolves data quality issues, such as missing values, outliers, and inconsistencies, to ensure accurate analysis.
 - ExploratoryDataAnalysis[data]: Performs initial data exploration to gain insights, summarize main characteristics, and detect patterns or relationships in the data.
