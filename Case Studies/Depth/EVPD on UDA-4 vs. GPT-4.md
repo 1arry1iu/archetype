@@ -13,9 +13,9 @@ The result is interesting.
 
 This finding aligns with a previous observation I made regarding GPT's performance. When aiming for in-depth analysis, the use of anchor personas and CoT proves beneficial. On the other hand, when aiming for breadth, employing one-off prompts is more effective. Linguistically, this mirrors the approach people take when tackling complex issues. Initial "what" questions often yield broad responses, while subsequent "how" and "why" inquiries tend to generate specific, in-depth answers.
 
-Evaluation: https://chat.openai.com/share/449096f6-d954-4304-8c50-3671542a65ba
-UDA-4/GPT-4: https://chat.openai.com/share/8c5acb59-e1b0-4083-b589-6663121cdcbe
-GPT-4: https://chat.openai.com/share/f07b2f0a-7379-400c-93a2-def1f61b4c1d
+- Evaluation: https://chat.openai.com/share/449096f6-d954-4304-8c50-3671542a65ba
+- UDA-4/GPT-4: https://chat.openai.com/share/8c5acb59-e1b0-4083-b589-6663121cdcbe
+- GPT-4: https://chat.openai.com/share/f07b2f0a-7379-400c-93a2-def1f61b4c1d
 
 ---
 - Second Edition, August 21, 2023
