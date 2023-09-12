@@ -11,7 +11,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 ### Template Archetyes
 
 - [>>> Universal Data Analyst (UDA-5) <<<](https://chat.openai.com/share/5148b808-aef2-4f25-a703-34894c965aab)
-- [>>> Universal Storyteller (UST-4.5) <<<](https://chat.openai.com/share/0f320565-a7d9-4160-bb94-7cee5384a4f3)
+- [>>> Universal Storyteller (UST-5) <<<](https://chat.openai.com/share/307158d9-f8e3-4de0-a25a-0b3f9a50fd91)
 - [>>> Universal Teacher (UT-4) <<<](https://chat.openai.com/share/4e00fd99-595d-4ae0-af80-a12b1de9537b)
 
 ### Additional Archetypes
