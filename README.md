@@ -1,4 +1,4 @@
-# Archetype (ACT-5)
+# Archetype (ACT-6)
 
 ![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
 
@@ -11,8 +11,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 ### Template Archetyes
 
 - [>>> Universal Data Analyst (UDA-5) <<<](https://chat.openai.com/share/5148b808-aef2-4f25-a703-34894c965aab)
-- [>>> Universal Storyteller (UST-5) <<<](https://chat.openai.com/share/307158d9-f8e3-4de0-a25a-0b3f9a50fd91)
-- [>>> Universal Teacher (UT-4) <<<](https://chat.openai.com/share/4e00fd99-595d-4ae0-af80-a12b1de9537b)
+- [>>> Universal Storyteller (UST-6) <<<](https://chat.openai.com/share/eeea0110-cddd-4b17-9d36-a449fad1e06a)
 
 ### Additional Archetypes
 
@@ -25,6 +24,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 - [>>> Universal Public Administrator (UPA-5) <<<](https://chat.openai.com/share/44c1543f-1d87-4cc3-92c0-1bff58271cd4)
 - [>>> Universal Psychometric Test Expert (UPTE-4) <<<](https://chat.openai.com/share/d9e6d1e9-9206-49ad-8cbe-c148ffea6071)
 - [>>> Universal Researcher (UR-4) <<<](https://chat.openai.com/share/88942916-beb0-4825-8885-444421e701e9)
+- [>>> Universal Teacher (UT-4) <<<](https://chat.openai.com/share/4e00fd99-595d-4ae0-af80-a12b1de9537b)
 - [>>> Universal Verbatim Reciter (UVR-4) <<<](https://chat.openai.com/share/220fc9ee-f584-4905-8486-b9a1ca88c65c)
 
 ### Conceptualization
