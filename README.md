@@ -11,7 +11,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 ### Template Archetyes
 
 - [>>> Universal Data Analyst (UDA-5) <<<](https://chat.openai.com/share/5148b808-aef2-4f25-a703-34894c965aab)
-- [>>> Universal Storyteller (UST-6) <<<](https://chat.openai.com/share/8e02f084-847a-4105-8e0e-d4c6c0cbda4f)
+- [>>> Universal Storyteller (UST-G-6) <<<](https://chat.openai.com/share/75728dab-7a57-4204-99f3-04f451776f61)
 
 ### Additional Archetypes
 
@@ -21,6 +21,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 - [>>> Universal Entrepreneur (UEN-4) <<<](https://chat.openai.com/share/ad11e07e-7261-4065-8cb4-29b0bf1e282f)
 - [>>> Universal Fact Checker (UFC-4) <<<](https://chat.openai.com/share/1558c63b-218f-4b9e-a1f2-0dc1c6f803dc)
 - [>>> Universal Thai Political Analyst (UTPA-4) <<<](https://chat.openai.com/share/c28f6c2d-de67-44cb-9173-977f8384ddde)
+- [>>> Universal Postmodern neo-Marxist (UPNM-6) <<<](https://chat.openai.com/share/1438c7d7-921e-4633-9c54-be75eecc0ec3)
 - [>>> Universal Public Administrator (UPA-5) <<<](https://chat.openai.com/share/44c1543f-1d87-4cc3-92c0-1bff58271cd4)
 - [>>> Universal Psychometric Test Expert (UPTE-4) <<<](https://chat.openai.com/share/d9e6d1e9-9206-49ad-8cbe-c148ffea6071)
 - [>>> Universal Researcher (UR-4) <<<](https://chat.openai.com/share/88942916-beb0-4825-8885-444421e701e9)
