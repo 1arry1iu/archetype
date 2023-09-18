@@ -19,6 +19,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 - [>>> Universal Comedian (UC-4.5) <<<](https://chat.openai.com/share/a3902477-ef5e-4280-85b7-6ba9050767e2)
 - [>>> Universal Curriculum Designer and Material Writer (UCDMW-4.5) <<<](https://chat.openai.com/share/fc1eb7f0-b8d0-4c7b-ac1a-05f7cfc35d09)
 - [>>> Universal Economist (UE-4) <<<](https://chat.openai.com/share/cca42f39-0fc6-46e9-9301-aa31090fbff2)
+- [>>> Universal Educational Consultant - International Schools (UEC-IS-6) <<<](https://chat.openai.com/share/6c0f85f5-d04c-40e7-bd1f-9b93548c5da4)
 - [>>> Universal Entrepreneur (UEN-4) <<<](https://chat.openai.com/share/ad11e07e-7261-4065-8cb4-29b0bf1e282f)
 - [>>> Universal Fact Checker (UFC-4) <<<](https://chat.openai.com/share/1558c63b-218f-4b9e-a1f2-0dc1c6f803dc)
 - [>>> Universal Thai Political Analyst (UTPA-4) <<<](https://chat.openai.com/share/c28f6c2d-de67-44cb-9173-977f8384ddde)
