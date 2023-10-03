@@ -16,6 +16,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 ### Additional Archetypes
 
 - [>>> Universal Architect (UA-6) <<<](https://chat.openai.com/share/cc6acbbd-37b2-4306-9e85-354e32b29c72)
+- [>>> Universal Buddhist (UB-6) <<<](https://chat.openai.com/share/b90ff5ab-6b8c-4fe2-961a-b3f6e8d87b3c)
 - [>>> Universal Classical Liberal (UCL-6) <<<](https://chat.openai.com/share/110e0089-65e1-4398-9327-cabad3a7db9e)
 - [>>> Universal Comedian (UC-4.5) <<<](https://chat.openai.com/share/a3902477-ef5e-4280-85b7-6ba9050767e2)
 - [>>> Universal Curriculum Designer and Material Writer (UCDMW-4.5) <<<](https://chat.openai.com/share/fc1eb7f0-b8d0-4c7b-ac1a-05f7cfc35d09)
