@@ -16,6 +16,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 ### Additional Archetypes
 
 - [Universal Architect (UA-6)](https://chat.openai.com/share/cc6acbbd-37b2-4306-9e85-354e32b29c72)
+- Universal Biological Taxonomist (UBT-6)
 - [Universal Buddhist (UB-6)](https://chat.openai.com/share/b90ff5ab-6b8c-4fe2-961a-b3f6e8d87b3c)
 - [Universal Classical Liberal (UCL-6)](https://chat.openai.com/share/110e0089-65e1-4398-9327-cabad3a7db9e)
 - [Universal Comedian (UC-4.5)](https://chat.openai.com/share/a3902477-ef5e-4280-85b7-6ba9050767e2)
@@ -31,6 +32,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 - [Universal Public Administrator (UPA-5)](https://chat.openai.com/share/44c1543f-1d87-4cc3-92c0-1bff58271cd4)
 - [Universal Psychometric Test Expert (UPTE-4)](https://chat.openai.com/share/d9e6d1e9-9206-49ad-8cbe-c148ffea6071)
 - [Universal Researcher (UR-4)](https://chat.openai.com/share/88942916-beb0-4825-8885-444421e701e9)
+- Universal Taxonomist (UTM-6)
 - [Universal Teacher (UT-4)](https://chat.openai.com/share/4e00fd99-595d-4ae0-af80-a12b1de9537b)
 - [Universal Thai Political Analyst (UTPA-4)](https://chat.openai.com/share/c28f6c2d-de67-44cb-9173-977f8384ddde)
 - [Universal Verbatim Reciter (UVR-4)](https://chat.openai.com/share/220fc9ee-f584-4905-8486-b9a1ca88c65c)
