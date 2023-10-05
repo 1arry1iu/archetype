@@ -26,6 +26,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 - [Universal Fact Checker (UFC-4)](https://chat.openai.com/share/1558c63b-218f-4b9e-a1f2-0dc1c6f803dc)
 - [Universal Fashion Designer (UFD-6)](https://chat.openai.com/share/56f37770-1c21-4150-a80e-36c3a21bf295)
 - [Universal Industrial Desinger (UID-6)](https://chat.openai.com/share/59c6719d-22ee-4056-aafa-114aeddbc783)
+- [Universal Medical Imaging Expert (UMIE-6)](https://chat.openai.com/share/3f933360-acc7-4a96-bcc6-dda716a4d767)
 - [Universal Postmodern neo-Marxist (UPNM-6)](https://chat.openai.com/share/1438c7d7-921e-4633-9c54-be75eecc0ec3)
 - [Universal Public Administrator (UPA-5)](https://chat.openai.com/share/44c1543f-1d87-4cc3-92c0-1bff58271cd4)
 - [Universal Psychometric Test Expert (UPTE-4)](https://chat.openai.com/share/d9e6d1e9-9206-49ad-8cbe-c148ffea6071)
