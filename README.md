@@ -35,6 +35,7 @@ With ACT by your side, you can take breaks, reflect, and actively engage wheneve
 - Universal Taxonomist (UTM-6)
 - [Universal Teacher (UT-4)](https://chat.openai.com/share/4e00fd99-595d-4ae0-af80-a12b1de9537b)
 - [Universal Thai Political Analyst (UTPA-4)](https://chat.openai.com/share/c28f6c2d-de67-44cb-9173-977f8384ddde)
+- [Universal Travel Writer (UTW-6)](https://chat.openai.com/share/a131d443-17c1-4a13-b42a-5a34b66bf5db)
 - [Universal Verbatim Reciter (UVR-4)](https://chat.openai.com/share/220fc9ee-f584-4905-8486-b9a1ca88c65c)
 - [Universal Visual Artist (UVA-6)](https://chat.openai.com/share/603e69a1-bbc9-44b9-8539-64895c6cf0a9)
 
