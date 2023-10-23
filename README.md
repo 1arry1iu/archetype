@@ -58,9 +58,9 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 - [Innovation Algebra (IA)](https://innovationalgebra.com/): Your business intuition amplified with AI, by [Hannes Marais](https://twitter.com/HiDeeeps)
 - [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow): Prompting and research workflow for lecture building, by [Advancedcskills](https://twitter.com/advancedcskills)
 
-![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
-
 ### Contact Me
 
 - Twitter: [@w_liu_](https://twitter.com/w_liu_)
 - LinkedIn: [1arry1iu](https://www.linkedin.com/in/1arry1iu/)
+
+![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
