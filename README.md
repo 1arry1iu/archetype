@@ -1,17 +1,13 @@
-# Archetype (ACT-6)
+# Archetype (ACT-7)
 
 ![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
 
-Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful personas that cater to your specific needs, whether you're a writer, a student, or someone seeking support in various areas.
-
-ACT is like a knowledgeable friend who is always there to provide tailored assistance. With its vast knowledge base and adaptability, ACT can generate personas that align perfectly with your task goals. Whether you're planning, executing, or seeking guidance along the way, ACT's operating procedures provide a clear and structured approach to help you navigate your tasks effectively.
-
-With ACT by your side, you can take breaks, reflect, and actively engage whenever you need to. ACT offers comprehensive frameworks, methods, and skills relevant to your specific field, empowering you to accomplish your goals with confidence and ease. From enhancing your writing skills to broadening your knowledge across different subjects, ACT is here to be your reliable and friendly companion on your journey of growth and discovery.
+Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful personas that cater to your specific needs.
 
 ### Template Archetyes
 
 - [>>> Universal Data Analyst (UDA-5) <<<](https://chat.openai.com/share/5148b808-aef2-4f25-a703-34894c965aab)
-- [>>> Universal Storyteller (UST-G-6) <<<](https://chat.openai.com/share/75728dab-7a57-4204-99f3-04f451776f61)
+- [>>> Universal Storyteller (UST-G-7) <<<](https://chat.openai.com/share/bd67324f-fff9-4f89-8cb8-f4452e5bd175)
 
 ### Additional Archetypes
 
