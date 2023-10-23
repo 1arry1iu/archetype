@@ -31,7 +31,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 - [Universal Thai Political Analyst (UTPA-4)](https://chat.openai.com/share/c28f6c2d-de67-44cb-9173-977f8384ddde)
 - [Universal Travel Writer (UTW-6)](https://chat.openai.com/share/a131d443-17c1-4a13-b42a-5a34b66bf5db)
 - [Universal Verbatim Reciter (UVR-4)](https://chat.openai.com/share/220fc9ee-f584-4905-8486-b9a1ca88c65c)
-- [Universal Visual Artist (UVA-6)](https://chat.openai.com/share/603e69a1-bbc9-44b9-8539-64895c6cf0a9)
+- [Universal Visual Artist (UVA-7)](https://chat.openai.com/share/8655d1fa-de97-49c2-a492-f2f179017a7d)
 
 ### Conceptualization
 
