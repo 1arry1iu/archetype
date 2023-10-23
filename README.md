@@ -2,7 +2,7 @@
 
 ![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
 
-Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful personas that cater to your specific needs.
+Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful archetypal personas that cater to your specific needs.
 
 ### Template Archetyes
 
