@@ -1,7 +1,5 @@
 # Archetype (ACT-7)
 
-![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
-
 Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful archetypal personas that cater to your specific needs.
 
 ### Template Archetyes
@@ -59,6 +57,8 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 
 - [Innovation Algebra (IA)](https://innovationalgebra.com/): Your business intuition amplified with AI, by [Hannes Marais](https://twitter.com/HiDeeeps)
 - [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow): Prompting and research workflow for lecture building, by [Advancedcskills](https://twitter.com/advancedcskills)
+
+![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
 
 ### Contact Me
 
