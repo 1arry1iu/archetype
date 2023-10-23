@@ -53,8 +53,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 
 ### Other GPT Frameworks and Prompts
 
-- [Innovation Algebra (IA)](https://github.com/hannes-marais/innovation-algebra): The Swiss Army knife for knowledge processing and innovation, by [Hannes Marais](https://twitter.com/HiDeeeps)
-- [Brainsimming](https://github.com/hannes-marais/brainsimming): A new technique where multiple AI personas are participating in a virtual brainstorming session and coming up with ideas, by [Hannes Marais](https://twitter.com/HiDeeeps)
+- [Innovation Algebra (IA)](https://innovationalgebra.com/): Your business intuition amplified with AI, by [Hannes Marais](https://twitter.com/HiDeeeps)
 - [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow): Prompting and research workflow for lecture building, by [Advancedcskills](https://twitter.com/advancedcskills)
 
 ### Contact Me
