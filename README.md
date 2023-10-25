@@ -4,6 +4,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 
 ### Template Archetyes
 
+- [>>> Universal Analyst (UA-7) <<<](https://chat.openai.com/share/b6819c00-9bed-4798-aa9c-e23b79f14054)
 - [>>> Universal Data Analyst (UDA-5) <<<](https://chat.openai.com/share/5148b808-aef2-4f25-a703-34894c965aab)
 - [>>> Universal Storyteller (UST-G-7) <<<](https://chat.openai.com/share/bd67324f-fff9-4f89-8cb8-f4452e5bd175)
 
