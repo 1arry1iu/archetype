@@ -9,7 +9,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 
 ### Additional Archetypes
 
-- [Universal Architect (UA-6)](https://chat.openai.com/share/cc6acbbd-37b2-4306-9e85-354e32b29c72)
+- Universal Architect (UAT-6)
 - Universal Biological Taxonomist (UBT-6)
 - [Universal Buddhist (UB-6)](https://chat.openai.com/share/b90ff5ab-6b8c-4fe2-961a-b3f6e8d87b3c)
 - [Universal Classical Liberal (UCL-6)](https://chat.openai.com/share/110e0089-65e1-4398-9327-cabad3a7db9e)
