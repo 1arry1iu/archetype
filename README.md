@@ -16,21 +16,16 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 
 ### Conceptualization
 
-- [GPT: The Ultimate RPG Game](https://x.com/w_liu_/status/1663385882152554499)
-- [Personas vs. Archetypes](https://x.com/w_liu_/status/1717873799457296480)
+[GPT: The Ultimate RPG Game](https://x.com/w_liu_/status/1663385882152554499) | [Personas vs. Archetypes](https://x.com/w_liu_/status/1717873799457296480)
 
 ### Case Studies
 
-- Depth
-  - [Medical imaging](https://x.com/w_liu_/status/1709926206521708959)
- 
-- Strategization
-  - [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242)
+- Depth: [Medical imaging](https://x.com/w_liu_/status/1709926206521708959)
+- Strategization: [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242)
 
 ### Other GPT Frameworks
 
-- [Innovation Algebra (IA)](https://innovationalgebra.com/) by [Hannes Marais](https://twitter.com/HiDeeeps)
-- [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow) by [Advancedcskills](https://twitter.com/advancedcskills)
+[Innovation Algebra (IA)](https://innovationalgebra.com/) by [Hannes Marais](https://twitter.com/HiDeeeps) | [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow) by [Advancedcskills](https://twitter.com/advancedcskills)
 
 ### Contact Me
 
