@@ -23,9 +23,9 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 - Depth: [Medical imaging](https://x.com/w_liu_/status/1709926206521708959)
 - Strategization: [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242)
 
-### Other GPT Frameworks
+### Interesting GPT Frameworks
 
-[Innovation Algebra (IA; [Hannes Marais](https://twitter.com/HiDeeeps))](https://innovationalgebra.com/) | [Prompting Workflow (PW; [Advancedcskills](https://twitter.com/advancedcskills))](https://github.com/dgcruzing/Prompting-Workflow)
+[Innovation Algebra (IA)](https://innovationalgebra.com/) | [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow)
 
 ### Contact Me
 
