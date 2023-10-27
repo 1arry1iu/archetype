@@ -3,11 +3,12 @@
 Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful archetypal personas that cater to your specific needs.
 
 ### Construct
-- [>>> Start Creating Your Own Archetypal Persona with Construct (C-8) <<<](https://chat.openai.com/share/f4c1171f-19f2-4629-8c15-ed32cbce531f)
+
+[>>> Start Creating Your Own Archetypal Persona with Construct (C-8) <<<](https://chat.openai.com/share/f4c1171f-19f2-4629-8c15-ed32cbce531f)
 
 ### Template Archetye
 
-- [Universal Storyteller (UST-G-7)](https://chat.openai.com/share/bd67324f-fff9-4f89-8cb8-f4452e5bd175)
+[Storyteller (UST-G-7)](https://chat.openai.com/share/bd67324f-fff9-4f89-8cb8-f4452e5bd175)
 
 ### Additional Archetypes
 
