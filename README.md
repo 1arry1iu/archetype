@@ -48,7 +48,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 - Strategization
   - [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242)
 
-### Other GPT Frameworks and Prompts
+### Other GPT Frameworks
 
 - [Innovation Algebra (IA)](https://innovationalgebra.com/): Your business intuition amplified with AI, by [Hannes Marais](https://twitter.com/HiDeeeps)
 - [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow): Prompting and research workflow for lecture building, by [Advancedcskills](https://twitter.com/advancedcskills)
