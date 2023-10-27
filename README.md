@@ -25,7 +25,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 
 ### Other GPT Frameworks
 
-[Innovation Algebra (IA)](https://innovationalgebra.com/) by [Hannes Marais](https://twitter.com/HiDeeeps) | [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow) by [Advancedcskills](https://twitter.com/advancedcskills)
+[Innovation Algebra (IA; [Hannes Marais](https://twitter.com/HiDeeeps))](https://innovationalgebra.com/) | [Prompting Workflow (PW; [Advancedcskills](https://twitter.com/advancedcskills))](https://github.com/dgcruzing/Prompting-Workflow)
 
 ### Contact Me
 
