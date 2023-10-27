@@ -1,6 +1,6 @@
 # Archetype (ACT-8)
 
-Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful archetypal personas that cater to your specific needs.
+Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful archetypal personas that cater to your specific needs for academic performance, professional development, and entertainment. 
 
 ### Construct
 
