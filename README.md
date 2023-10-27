@@ -36,21 +36,15 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 ### Case Studies
 
 - Depth
-  - [A conversation with UT-3.5/GPT-3.5 on Genesis 1](https://github.com/1arry1iu/everything/blob/main/Case%20Studies/Depth/Conversation%20with%20Bible%20Teacher.md)
-  - [Data analysis: EVPD on UDA-4/GPT-4 vs. GPT-4](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Depth/EVPD%20on%20UDA-4%20vs.%20GPT-4.md)
-  - [Jokes about Hunter Biden on UC-4.5/GPT-4 vs. GPT-4](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Depth/Jokes%20about%20Hunter%20Biden.md)
   - [Medical imaging](https://x.com/w_liu_/status/1709926206521708959)
-
-- Hallucination
-  - [Eliot's The Waste Land UVR-4/GPT-4 vs. GPT-4](https://github.com/1arry1iu/archetype/blob/main/Case%20Studies/Hallucination/The%20Waste%20Land.md)
  
 - Strategization
   - [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242)
 
 ### Other GPT Frameworks
 
-- [Innovation Algebra (IA)](https://innovationalgebra.com/): Your business intuition amplified with AI, by [Hannes Marais](https://twitter.com/HiDeeeps)
-- [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow): Prompting and research workflow for lecture building, by [Advancedcskills](https://twitter.com/advancedcskills)
+- [Innovation Algebra (IA)](https://innovationalgebra.com/) by [Hannes Marais](https://twitter.com/HiDeeeps)
+- [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow) by [Advancedcskills](https://twitter.com/advancedcskills)
 
 ### Contact Me
 
