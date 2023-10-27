@@ -1,9 +1,9 @@
-# Archetype (ACT-7)
+# Archetype (ACT-8)
 
 Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful archetypal personas that cater to your specific needs.
 
 ### Construct
-- [>>> Start Creating Your Own Archetypal Persona with Construct (C-7) <<<](https://chat.openai.com/share/f4c1171f-19f2-4629-8c15-ed32cbce531f)
+- [>>> Start Creating Your Own Archetypal Persona with Construct (C-8) <<<](https://chat.openai.com/share/f4c1171f-19f2-4629-8c15-ed32cbce531f)
 
 ### Template Archetye
 
