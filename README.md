@@ -7,7 +7,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 
 ### Template Archetye
 
-- [Universal Storyteller (UST-7)](https://chat.openai.com/share/bd67324f-fff9-4f89-8cb8-f4452e5bd175)
+- [Universal Storyteller (UST-G-7)](https://chat.openai.com/share/bd67324f-fff9-4f89-8cb8-f4452e5bd175)
 
 ### Additional Archetypes
 
