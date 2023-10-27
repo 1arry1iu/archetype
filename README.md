@@ -31,7 +31,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 ### Conceptualization
 
 - [GPT: The Ultimate RPG Game](https://x.com/w_liu_/status/1663385882152554499)
-- [Personas vs. Archetypes](https://github.com/1arry1iu/archetype/blob/main/Thoughts/Personas%20vs.%20Archetypes.md)
+- [Personas vs. Archetypes](https://x.com/w_liu_/status/1717873799457296480)
 
 ### Case Studies
 
