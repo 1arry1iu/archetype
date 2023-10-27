@@ -2,20 +2,23 @@
 
 Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful archetypal personas that cater to your specific needs.
 
+### Construct
+- [>>> Start Creating Your Own Archetypal Persona with Construct (C-7) <<<](https://chat.openai.com/share/f4c1171f-19f2-4629-8c15-ed32cbce531f)
+
 ### Template Archetyes
 
-- [>>> Universal Analyst (UA-7) <<<](https://chat.openai.com/share/b6819c00-9bed-4798-aa9c-e23b79f14054)
-- [>>> Universal Data Analyst (UDA-5) <<<](https://chat.openai.com/share/5148b808-aef2-4f25-a703-34894c965aab)
-- [>>> Universal Storyteller (UST-G-7) <<<](https://chat.openai.com/share/bd67324f-fff9-4f89-8cb8-f4452e5bd175)
+- [Universal Storyteller (UST-7)](https://chat.openai.com/share/bd67324f-fff9-4f89-8cb8-f4452e5bd175)
 
 ### Additional Archetypes
 
+- [Universal Analyst (UA-7)](https://chat.openai.com/share/b6819c00-9bed-4798-aa9c-e23b79f14054)
 - Universal Architect (UAT-6)
 - Universal Biological Taxonomist (UBT-6)
 - [Universal Buddhist (UB-6)](https://chat.openai.com/share/b90ff5ab-6b8c-4fe2-961a-b3f6e8d87b3c)
 - [Universal Classical Liberal (UCL-6)](https://chat.openai.com/share/110e0089-65e1-4398-9327-cabad3a7db9e)
 - [Universal Comedian (UC-4.5)](https://chat.openai.com/share/a3902477-ef5e-4280-85b7-6ba9050767e2)
 - [Universal Curriculum Designer and Material Writer (UCDMW-4.5)](https://chat.openai.com/share/fc1eb7f0-b8d0-4c7b-ac1a-05f7cfc35d09)
+- [Universal Data Analyst (UDA-5)](https://chat.openai.com/share/5148b808-aef2-4f25-a703-34894c965aab)
 - [Universal Economist (UE-4)](https://chat.openai.com/share/cca42f39-0fc6-46e9-9301-aa31090fbff2)
 - [Universal Educational Consultant - International Schools (UEC-IS-6)](https://chat.openai.com/share/6c0f85f5-d04c-40e7-bd1f-9b93548c5da4)
 - [Universal Entrepreneur (UEN-4)](https://chat.openai.com/share/ad11e07e-7261-4065-8cb4-29b0bf1e282f)
