@@ -5,7 +5,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 ### Construct
 - [>>> Start Creating Your Own Archetypal Persona with Construct (C-7) <<<](https://chat.openai.com/share/f4c1171f-19f2-4629-8c15-ed32cbce531f)
 
-### Template Archetyes
+### Template Archetye
 
 - [Universal Storyteller (UST-7)](https://chat.openai.com/share/bd67324f-fff9-4f89-8cb8-f4452e5bd175)
 
