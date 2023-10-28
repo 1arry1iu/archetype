@@ -16,7 +16,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 
 ### For Voice Conversation
 
-[Comedian (UC-8-VC)](https://chat.openai.com/share/e55f9b79-1a45-4210-bc05-76562d1c0671)
+[Comedian (UC-8-VC)](https://chat.openai.com/share/e55f9b79-1a45-4210-bc05-76562d1c0671) | [Teacher (UC-8)](https://chat.openai.com/share/c489c530-f757-4cfe-8463-924d26f1c871)
 
 ### Conceptualization
 
