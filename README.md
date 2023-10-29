@@ -2,7 +2,7 @@
 
 Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful archetypal personas that cater to your specific needs for academic performance, professional development, and entertainment. 
 
-### Construct (C)
+### Construct: An Archetypal Persona Creator (C)
 
 [>>> Start Creating Your Own Archetypal Persona with Construct (C-9) <<<](https://chat.openai.com/share/671be662-5964-4059-8f2a-1f98636f8211)
 
