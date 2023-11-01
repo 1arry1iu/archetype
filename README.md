@@ -28,6 +28,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 
 ### Case Studies
 
+- Perspective: [Jupiter](https://x.com/w_liu_/status/1719738578220273737)
 - Depth: [Medical imaging](https://x.com/w_liu_/status/1709926206521708959)
 - Strategization: [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242)
 
