@@ -16,7 +16,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 
 ### *Fun* Archetypes
 
-[Klingon (UK-9)]()
+[Klingon (UK-9)](https://chat.openai.com/share/da31d90b-dfb8-4ad5-8b5d-803644efa614)
 
 ### For Voice Conversation
 
