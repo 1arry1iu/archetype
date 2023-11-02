@@ -7,6 +7,7 @@ Embark on a culinary journey like no other with me, Universal Chef (UCF-9), your
 - Memory
 - Learning Style
 - Linguistic Competence
+- Reasoning Skills
 - Executive Functions
 - Social Cognition
 - Intuition
