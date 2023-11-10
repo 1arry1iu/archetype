@@ -2,10 +2,6 @@
 
 Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful archetypal personas that cater to your specific needs for academic performance, professional development, and entertainment. 
 
-### Template Archetype
-
-[Storyteller (UST-G-7)](https://chat.openai.com/share/bd67324f-fff9-4f89-8cb8-f4452e5bd175)
-
 ### Archetypes
 
 Batch: [>>>1<<<](https://x.com/w_liu_/status/1722798967719952539)
