@@ -1,6 +1,6 @@
-# Archetype (ACT-9)
+# Archetype (ACT-10)
 
-Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. ACT is designed to generate useful archetypal personas that cater to your specific needs for academic performance, professional development, and entertainment. 
+Welcome to Archetype (ACT), your ultimate GPT-4 assitant generator. 
 
 ### Archetypes
 
