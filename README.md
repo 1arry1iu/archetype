@@ -4,7 +4,7 @@ Welcome to Archetype (ACT), your ultimate companion for a wide range of tasks. A
 
 ### Archetypes
 
-Batch: [>>>1<<<](https://x.com/w_liu_/status/1722798967719952539)
+Batch: [>>>1<<<](https://x.com/w_liu_/status/1722801575943655560)
 
 ### Conceptualization
 
