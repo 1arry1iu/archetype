@@ -4,7 +4,7 @@ Welcome to Archetype (ACT), your ultimate GPT-4 assitant generator.
 
 ### Archetypes
 
-Batch [>>>1<<<](https://x.com/w_liu_/status/1722801575943655560) | [Data Analyst (UDA-10)](https://x.com/w_liu_/status/1722841699687538724)
+Batch [>>>1<<<](https://x.com/w_liu_/status/1722801575943655560) | [Data Analyst (UDA-10)](https://x.com/w_liu_/status/1722841699687538724) | [Storyteller (UST-10)](https://x.com/w_liu_/status/1722853031514186136)
 
 ### Conceptualization
 
