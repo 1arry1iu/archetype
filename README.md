@@ -8,7 +8,7 @@ Welcome to Archetype (ACT), your ultimate perspective generator.
 
 ### Archetypes
 
-Batch [>>>1<<<](https://x.com/w_liu_/status/1722801575943655560) | [Data Analyst (UDA-10)](https://x.com/w_liu_/status/1722841699687538724) | [Psychologist (UPC-10)](https://x.com/w_liu_/status/1722904025535050013) | [Storyteller (UST-10)](https://x.com/w_liu_/status/1722853345369727279) | [Teacher (UT-10)](https://x.com/w_liu_/status/1722914628135682312) | [Visual Artist (UVA-10)](https://x.com/w_liu_/status/1722866177213644855)
+[Data Analyst (UDA-10)](https://x.com/w_liu_/status/1722841699687538724) | [Psychologist (UPC-10)](https://x.com/w_liu_/status/1722904025535050013) | [Storyteller (UST-10)](https://x.com/w_liu_/status/1722853345369727279) | [Teacher (UT-10)](https://x.com/w_liu_/status/1722914628135682312) | [Visual Artist (UVA-10)](https://x.com/w_liu_/status/1722866177213644855) | [Others](https://x.com/w_liu_/status/1722801575943655560)
 
 ### Conceptualization
 
