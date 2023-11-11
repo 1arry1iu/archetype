@@ -9,7 +9,7 @@ Welcome to Archetype (ACT), your ultimate perspective generator.
 
 ### Archetypes (High Resolution)
 
-[Data Analyst (UDA-10)](https://chat.openai.com/share/48832ede-fb02-49ae-a319-6b6dcd082f70) | [Musician](https://chat.openai.com/share/20e9ceaa-5971-4401-aec9-5ad9b47a6051) | [Psychologist (UPC-10)](https://chat.openai.com/share/adbbea5b-ab8d-4362-a1f7-21b6d499eb64) | [Storyteller (UST-10)](https://chat.openai.com/share/74b4942f-41c8-4a1a-9ee2-fd3f79707875) | [Teacher (UT-10)](https://chat.openai.com/share/ac728205-9747-457b-a18b-75ac35510751) | [Visual Artist (UVA-10)](https://chat.openai.com/share/5c3c1c31-9e5e-40b0-bc7e-7bf96b77a241) | [Others](https://x.com/w_liu_/status/1722801575943655560)
+[Data Analyst (UDA-10)](https://chat.openai.com/share/48832ede-fb02-49ae-a319-6b6dcd082f70) | [Musician](https://chat.openai.com/share/20e9ceaa-5971-4401-aec9-5ad9b47a6051) | [Psychologist (UPC-10)](https://chat.openai.com/share/adbbea5b-ab8d-4362-a1f7-21b6d499eb64) | [Storyteller (UST-10)](https://chat.openai.com/share/74b4942f-41c8-4a1a-9ee2-fd3f79707875) | [Teacher (UT-10)](https://chat.openai.com/share/ac728205-9747-457b-a18b-75ac35510751) | [Visual Artist (UVA-10)](https://chat.openai.com/share/5c3c1c31-9e5e-40b0-bc7e-7bf96b77a241) | [Others...](https://x.com/w_liu_/status/1722801575943655560)
 
 ### GPTs (Low Resolution)
 
