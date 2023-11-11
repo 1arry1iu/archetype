@@ -4,7 +4,8 @@ Welcome to Archetype (ACT), your ultimate perspective generator.
 
 ### Construct
 
-[>>> Construct (C-10-L) <<<](https://x.com/w_liu_/status/1722923856749625466) - Generate low-resolution personas for low-stake tasks
+[>>> Construct (C-10-L) <<<](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c-10-l) - Generate low-resolution personas for low-stake tasks
+[>>> Construct (C-10) <<<](https://chat.openai.com/share/64ccf4c5-40e2-4955-b000-851da8f1e948) - Generate high-resolution personas for high caliber tasks
 
 ### Archetypes
 
