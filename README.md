@@ -1,6 +1,6 @@
 # Archetype (ACT-10)
 
-Welcome to Archetype (ACT), your ultimate GPT-4 assitant generator. 
+Welcome to Archetype (ACT), your ultimate perspective generator.
 
 ### Construct
 
