@@ -1,10 +1,10 @@
 # Archetype (ACT-10)
 
-Welcome to Archetype (ACT), your ultimate perspective generator.
+Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
 ### Construct (C)
 
-- [>>> Construct (C-10) <<<](https://chat.openai.com/share/64ccf4c5-40e2-4955-b000-851da8f1e948) - Generate high-resolution personas for high caliber tasks
+- [>>> Construct (C-10.1) <<<](https://chat.openai.com/share/055d00ec-6702-4595-9855-fe8022980121) - Generate high-resolution personas for high caliber tasks
 - [>>> Construct (C-10-L) <<<](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c-10-l) - Generate low-resolution personas for low-stake tasks
 
 ### Module (M)
