@@ -29,6 +29,7 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 - Perspective: [Jupiter](https://x.com/w_liu_/status/1719738578220273737) | [Mollick's apple challenge](https://x.com/w_liu_/status/1722207286360506517)
 - Depth: [Medical imaging](https://x.com/w_liu_/status/1709926206521708959) | [Square the circle](https://x.com/w_liu_/status/1722583294121001119)
 - Strategization: [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242) | [Sequential images in Dalle](https://x.com/w_liu_/status/1721342781204099240)
+- LLM Difference: [A debate between GPT-4 and Claude 2](https://x.com/w_liu_/status/1725227678079598852)
 
 ### Interesting GPT Frameworks
 
