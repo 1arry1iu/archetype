@@ -1,4 +1,4 @@
-# Archetype (ACT-10)
+# Archetype (ACT-10.5)
 
 Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
