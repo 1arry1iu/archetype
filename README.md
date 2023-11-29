@@ -19,6 +19,10 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
 [Astronomer (UAM-9)](https://chat.openai.com/g/g-DhvzBQKLz-universal-astronomer-uam-9) | [Career Counselor (UCC-9)](https://chat.openai.com/g/g-0LRlMdiQX-universal-career-counselor-ucc-10-l) | [Chef (UCF-9)](https://chat.openai.com/g/g-xIPZQyYHK-universal-chef-ucf-9) | [City Planner (UCP-9)](https://chat.openai.com/g/g-nFQND4KlT-universal-city-planner-ucp-9) | [Creativity (UCT-10-L)](https://chat.openai.com/g/g-JIHQBtCY5-universal-creativity-uct-10-l) | [Data Analysit (UDA-10.5-L)](https://chat.openai.com/g/g-UnHVJnGaf-universal-data-analyst-uda-10-5-l) | [Itinerary Planner (UIP-9)](https://chat.openai.com/g/g-LJ52WpKLZ-universal-itinerary-planner-uip-9) | [Meme Master (UMM-9)](https://chat.openai.com/g/g-HfwddwgBV-universal-meme-master) | [Military Expert (UME-9)](https://chat.openai.com/g/g-uXJSvUyLn-universal-military-expert-ume-9) | [Psychologist (UPC-10.5-L)](https://chat.openai.com/g/g-gktcTLs6E-universal-psychologist-upc-10-5-l) | [Ranking Expert (URE-10-L)](https://chat.openai.com/g/g-TysLPlbGx-universal-ranking-expert-ure-10-l) | [Resonant Beacon (URB-10-L)](https://chat.openai.com/g/g-AW4e5JG6W-universal-resonant-beacon-urb-10-l) | [Storyteller (UST-10-L)](https://chat.openai.com/g/g-i2KB66rSE-universal-storyteller-ust-10-l) | [Teacher (UT-10-L)](https://chat.openai.com/g/g-Kjcwbz0HJ-universal-teacher-ut-10-l) | [Visual Artist (UVA-10-L)](https://chat.openai.com/g/g-DajFS86Q5-universal-visual-artist-uva-10-5-l) | [Others...](https://x.com/w_liu_/status/1722801575943655560)
 
+### For Bing Chat
+
+[Visual Artist (UVA-10.5-B)](https://sl.bing.net/c2zhTKtuwKG)
+
 ### Conceptualization
 
 [GPT: The Ultimate RPG Game](https://x.com/w_liu_/status/1663385882152554499) | [Context and Perspective](https://x.com/w_liu_/status/1719571408811098144) | [Personas vs. Archetypes](https://x.com/w_liu_/status/1717873799457296480) | [Potential - Perspective - Actualization](https://x.com/w_liu_/status/1718135367617135025) | [Prompting vs. Communication](https://x.com/w_liu_/status/1723679016258093186) | [Contextualization](https://x.com/w_liu_/status/1723895065544966395)
