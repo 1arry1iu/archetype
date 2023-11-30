@@ -31,7 +31,7 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
 - Capability: [GPT-4 generating video](https://x.com/w_liu_/status/1723001181927088248)
 - Depth: [Medical imaging](https://x.com/w_liu_/status/1709926206521708959) | [Square the circle](https://x.com/w_liu_/status/1722583294121001119)
-- Strategization: [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242) | [Sequential images in Dalle](https://x.com/w_liu_/status/1721342781204099240) | [Language as a map](https://x.com/w_liu_/status/1724803218893684886)
+- Strategization: [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242) | [Language as a map](https://x.com/w_liu_/status/1724803218893684886)
 - Mirror: [Mapping](https://x.com/w_liu_/status/1723895065544966395) | [ImageMagick mapped](https://x.com/w_liu_/status/1723873274957103522) | [Photoshop mapped](https://x.com/w_liu_/status/1723884204453466128)
 - Image generation: [Dalle "functions"](https://x.com/w_liu_/status/1723653559726879065)
 - GPTs: [GPT creation](https://x.com/w_liu_/status/1723408244805386320)
