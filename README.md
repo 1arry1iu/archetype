@@ -33,6 +33,9 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 - Perspective: [Mollick's apple challenge](https://x.com/w_liu_/status/1722207286360506517)
 - Depth: [Medical imaging](https://x.com/w_liu_/status/1709926206521708959) | [Square the circle](https://x.com/w_liu_/status/1722583294121001119)
 - Strategization: [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242) | [Sequential images in Dalle](https://x.com/w_liu_/status/1721342781204099240) | [Language as a map](https://x.com/w_liu_/status/1724803218893684886)
+- Mirror: [Mapping](https://x.com/w_liu_/status/1723895065544966395) | [ImageMagick mapped](https://x.com/w_liu_/status/1723873274957103522) | [Photoshop mapped](https://x.com/w_liu_/status/1723884204453466128)
+- Image generation: [Dalle "functions"](https://x.com/w_liu_/status/1723653559726879065)
+- GPTs: [GPT creation](https://x.com/w_liu_/status/1723408244805386320)
 - LLM Difference: [GPT-4 vs. Claude 2](https://x.com/w_liu_/status/1725227678079598852) | [GPT-3.5 vs. GPT-4](https://twitter.com/w_liu_/status/1725327562178793714) | [Grok's contextualized understanding](https://x.com/w_liu_/status/1727495531029835807)
 
 ### Interesting GPT Frameworks
