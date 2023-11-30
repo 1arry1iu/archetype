@@ -32,12 +32,8 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 - Capability: [GPT-4 generating video](https://x.com/w_liu_/status/1723001181927088248)
 - Perspective: [Mollick's apple challenge](https://x.com/w_liu_/status/1722207286360506517)
 - Depth: [Medical imaging](https://x.com/w_liu_/status/1709926206521708959) | [Square the circle](https://x.com/w_liu_/status/1722583294121001119)
-- Strategization: [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242) | [Sequential images in Dalle](https://x.com/w_liu_/status/1721342781204099240)
-- LLM Difference: [GPT-4 vs. Claude 2](https://x.com/w_liu_/status/1725227678079598852) | [GPT-3.5 vs. GPT-4](https://twitter.com/w_liu_/status/1725327562178793714)
-
-### Grok
-
-[Contextualized understanding](https://x.com/w_liu_/status/1727495531029835807)
+- Strategization: [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242) | [Sequential images in Dalle](https://x.com/w_liu_/status/1721342781204099240) | [Language as a map](https://x.com/w_liu_/status/1724803218893684886)
+- LLM Difference: [GPT-4 vs. Claude 2](https://x.com/w_liu_/status/1725227678079598852) | [GPT-3.5 vs. GPT-4](https://twitter.com/w_liu_/status/1725327562178793714) | [Grok's contextualized understanding](https://x.com/w_liu_/status/1727495531029835807)
 
 ### Interesting GPT Frameworks
 
