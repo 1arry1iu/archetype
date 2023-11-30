@@ -23,24 +23,6 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
 [Visual Artist (UVA-10.5-B)](https://sl.bing.net/c2zhTKtuwKG)
 
-### Conceptualization
-
-[GPT: The Ultimate RPG Game](https://x.com/w_liu_/status/1663385882152554499) | [Prompting vs. Communication](https://x.com/w_liu_/status/1723679016258093186) | [Contextualization](https://x.com/w_liu_/status/1723895065544966395)
-
-### Case Studies
-
-- Capability: [GPT-4 generating video](https://x.com/w_liu_/status/1723001181927088248)
-- Depth: [Medical imaging](https://x.com/w_liu_/status/1709926206521708959) | [Square the circle](https://x.com/w_liu_/status/1722583294121001119)
-- Strategization: [Comments on Mollick](https://x.com/w_liu_/status/1708672278618374242) | [Language as a map](https://x.com/w_liu_/status/1724803218893684886)
-- Mirror: [Mapping](https://x.com/w_liu_/status/1723895065544966395) | [ImageMagick mapped](https://x.com/w_liu_/status/1723873274957103522) | [Photoshop mapped](https://x.com/w_liu_/status/1723884204453466128)
-- Image generation: [Dalle "functions"](https://x.com/w_liu_/status/1723653559726879065)
-- GPTs: [GPT creation](https://x.com/w_liu_/status/1723408244805386320)
-- LLM Difference: [GPT-4 vs. Claude 2](https://x.com/w_liu_/status/1725227678079598852) | [GPT-3.5 vs. GPT-4](https://twitter.com/w_liu_/status/1725327562178793714) | [Grok's contextualized understanding](https://x.com/w_liu_/status/1727495531029835807)
-
-### Interesting GPT Frameworks
-
-[Innovation Algebra (IA)](https://innovationalgebra.com/) | [Prompting Workflow (PW)](https://github.com/dgcruzing/Prompting-Workflow)
-
 ### Contact Me
 
 Twitter: [@w_liu_](https://twitter.com/w_liu_) | LinkedIn: [1arry1iu](https://www.linkedin.com/in/1arry1iu/) | [Buy me a coffee if you find my work useful](https://www.buymeacoffee.com/1arry1iu)
