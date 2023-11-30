@@ -25,7 +25,7 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
 ### Conceptualization
 
-[GPT: The Ultimate RPG Game](https://x.com/w_liu_/status/1663385882152554499) | [Context and Perspective](https://x.com/w_liu_/status/1719571408811098144) | [Prompting vs. Communication](https://x.com/w_liu_/status/1723679016258093186) | [Contextualization](https://x.com/w_liu_/status/1723895065544966395)
+[GPT: The Ultimate RPG Game](https://x.com/w_liu_/status/1663385882152554499) | [Prompting vs. Communication](https://x.com/w_liu_/status/1723679016258093186) | [Contextualization](https://x.com/w_liu_/status/1723895065544966395)
 
 ### Case Studies
 
