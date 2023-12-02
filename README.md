@@ -21,7 +21,7 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
 ### For Bing Chat (4K characters, low resolution, for low-stake tasks)
 
-[Optical Illusion Expert (UOIE-10.50B)](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist (UVA-10.5-B)](https://sl.bing.net/c2zhTKtuwKG)
+[Optical Illusion Expert (UOIE-10.5-B)](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist (UVA-10.5-B)](https://sl.bing.net/dQzgJ7UQeLk)
 
 ### Contact Me
 
