@@ -25,7 +25,7 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
 [Optical Illusion Expert (UOIE-10.5-B)](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist (UVA-10.5-B)](https://sl.bing.net/dQzgJ7UQeLk)
 
-## Contact Me
+## Contact me
 
 Twitter: [@w_liu_](https://twitter.com/w_liu_) | LinkedIn: [1arry1iu](https://www.linkedin.com/in/1arry1iu/) | [Buy me a coffee if you find my work useful](https://www.buymeacoffee.com/1arry1iu)
 
