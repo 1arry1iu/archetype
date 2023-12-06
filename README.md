@@ -15,7 +15,7 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
 ### For Bard Gemini (< 30K characters, high resolution, for high-stake tasks)
 
-[Storyteller (UST-10.5-G)](https://g.co/bard/share/482febe344d5)
+[Storyteller (UST-10.5-G)](https://g.co/bard/share/482febe344d5) | [Visual Artist (UVA-10.5)](https://bard.google.com/share/30e005f355f7)
 
 ### For GPT-4 and Claude 2 (> 35K characters, high resolution, for high-stake tasks)
 
