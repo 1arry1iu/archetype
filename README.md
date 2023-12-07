@@ -15,7 +15,7 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
 ### For Bard Gemini (< 30K characters, high resolution, for high-stake tasks)
 
-[Researcher (UR-10.5-G)](https://g.co/bard/share/0dd27dc165f7) | [Storyteller (UST-10.5-G)](https://g.co/bard/share/482febe344d5) | [Visual Artist (UVA-10.5)](https://bard.google.com/share/30e005f355f7)
+[Researcher (UR-10.5-G)](https://g.co/bard/share/0dd27dc165f7) | [Storyteller (UST-10.5-G)](https://g.co/bard/share/482febe344d5) | [Visual Artist (UVA-10.5)](https://bard.google.com/share/30e005f355f7) | [prompts...](https://github.com/1arry1iu/archetype/tree/main/Bard)
 
 ### For GPT-4 and Claude 2 (> 35K characters, high resolution, for high-stake tasks)
 
@@ -27,7 +27,7 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
 ### For Bing Chat (< 4K characters, low resolution, for low-stake tasks)
 
-[Optical Illusion Expert (UOIE-10.5-B)](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist (UVA-10.5-B)](https://sl.bing.net/dQzgJ7UQeLk)
+[Optical Illusion Expert (UOIE-10.5-B)](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist (UVA-10.5-B)](https://sl.bing.net/dQzgJ7UQeLk) | [prompts...](https://github.com/1arry1iu/archetype/tree/main/Bing%20Chat)
 
 ## Contact me
 
