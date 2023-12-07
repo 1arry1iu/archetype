@@ -13,7 +13,7 @@ Welcome to Archetype (ACT), your ultimate archetype, construct, and perspective 
 
 ## Archetypes
 
-### Comparison Table
+### Comparison 
 
 | LLM | Code | Length (characters) | Resolution | Competence |
 |---|---|---|---|---|
