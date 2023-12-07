@@ -9,7 +9,7 @@ Welcome to Archetype (ACT), your ultimate construct and perspective generator.
 
 ## Module (M)
 
-- [>>> Module (M-10.5) <<<](https://chat.openai.com/share/cf8e4256-7ccb-4596-aa75-28f0ac39b637) - Generate contextualized construct definitions 
+[>>> Module (M-10.5) <<<](https://chat.openai.com/share/cf8e4256-7ccb-4596-aa75-28f0ac39b637) - Generate contextualized construct definitions | [prompt](https://github.com/1arry1iu/archetype/tree/main/Module)
 
 ## Archetypes
 
