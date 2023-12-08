@@ -32,7 +32,7 @@ Welcome to Archetype (ACT), your ultimate archetype, construct, and perspective 
 
 ### GPTs
 
-[Astronomer (UAM-10.5-L)](https://chat.openai.com/g/g-DhvzBQKLz-universal-astronomer-uam-10-5-l) | [Career Counselor (UCC-10.5-L)](https://chat.openai.com/g/g-0LRlMdiQX-universal-career-counselor-ucc-10-5-l) | [Data Analysit (UDA-10.5-L)](https://chat.openai.com/g/g-UnHVJnGaf-universal-data-analyst-uda-10-5-l) | [Psychologist (UPC-10.5-L)](https://chat.openai.com/g/g-gktcTLs6E-universal-psychologist-upc-10-5-l) | [Storyteller (UST-10.5-L)](https://chat.openai.com/g/g-i2KB66rSE-universal-storyteller-ust-10-5-l) | [Teacher (UT-10-L)](https://chat.openai.com/g/g-Kjcwbz0HJ-universal-teacher-ut-10-l) | [Visual Artist (UVA-10.5-L)](https://chat.openai.com/g/g-DajFS86Q5-universal-visual-artist-uva-10-5-l) | [prompts...](https://github.com/1arry1iu/archetype/tree/main/GPTs)
+[Astronomer (UAM-10.5-L)](https://chat.openai.com/g/g-DhvzBQKLz-universal-astronomer-uam-10-5-l) | [Career Counselor (UCC-10.5-L)](https://chat.openai.com/g/g-0LRlMdiQX-universal-career-counselor-ucc-10-5-l) | [Data Analysit (UDA-10.5-L)](https://chat.openai.com/g/g-UnHVJnGaf-universal-data-analyst-uda-10-5-l) | [Psychologist (UPC-10.5-L)](https://chat.openai.com/g/g-gktcTLs6E-universal-psychologist-upc-10-5-l) | [Storyteller (UST-10.5-L)](https://chat.openai.com/g/g-i2KB66rSE-universal-storyteller-ust-10-5-l) | [Visual Artist (UVA-10.5-L)](https://chat.openai.com/g/g-DajFS86Q5-universal-visual-artist-uva-10-5-l) | [prompts...](https://github.com/1arry1iu/archetype/tree/main/GPTs)
 
 ### Bing Chat 
 
