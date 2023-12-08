@@ -20,7 +20,8 @@ Welcome to Archetype (ACT), your ultimate archetype, construct, and perspective 
 | Bard Gemeni | G | < 30K | high | high |
 | GPT-4/Claude 2 | - | > 35K | high | high |
 | GPTs | L | < 8K | medium | medium |
-| Bing Chat | B | < 4K | low | low |
+| Bing Chat/Grok | B | < 4K | low | low |
+| Grok | K | 4-8K | low | low |
 
 ### Bard Gemini
 
@@ -37,6 +38,10 @@ Welcome to Archetype (ACT), your ultimate archetype, construct, and perspective 
 ### Bing Chat 
 
 [Optical Illusion Expert (UOIE-10.5-B)](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist (UVA-10.5-B)](https://sl.bing.net/dQzgJ7UQeLk) | [prompts...](https://github.com/1arry1iu/archetype/tree/main/Bing%20Chat)
+
+### Grok
+
+[News Researcher (UNR-10.5-K)](https://github.com/1arry1iu/archetype/blob/main/Grok/UNR-K)
 
 ## Contact me
 
