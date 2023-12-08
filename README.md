@@ -20,8 +20,7 @@ Welcome to Archetype (ACT), your ultimate archetype, construct, and perspective 
 | Bard Gemeni | G | < 30K | high | high |
 | GPT-4/Claude 2 | - | > 35K | high | high |
 | GPTs | L | < 8K | medium | medium |
-| Bing Chat | B | < 4K | low | low |
-| Grok | K | 4-8K | low | low |
+| Bing Chat/Grok | B/K | < 4K | low | low |
 
 ### Bard Gemini
 
@@ -35,13 +34,9 @@ Welcome to Archetype (ACT), your ultimate archetype, construct, and perspective 
 
 [Astronomer (UAM-10.5-L)](https://chat.openai.com/g/g-DhvzBQKLz-universal-astronomer-uam-10-5-l) | [Career Counselor (UCC-10.5-L)](https://chat.openai.com/g/g-0LRlMdiQX-universal-career-counselor-ucc-10-5-l) | [Data Analysit (UDA-10.5-L)](https://chat.openai.com/g/g-UnHVJnGaf-universal-data-analyst-uda-10-5-l) | [Psychologist (UPC-10.5-L)](https://chat.openai.com/g/g-gktcTLs6E-universal-psychologist-upc-10-5-l) | [Storyteller (UST-10.5-L)](https://chat.openai.com/g/g-i2KB66rSE-universal-storyteller-ust-10-5-l) | [Visual Artist (UVA-10.5-L)](https://chat.openai.com/g/g-DajFS86Q5-universal-visual-artist-uva-10-5-l) | [prompts...](https://github.com/1arry1iu/archetype/tree/main/GPTs)
 
-### Bing Chat 
+### Bing Chat/Grok
 
-[Optical Illusion Expert (UOIE-10.5-B)](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist (UVA-10.5-B)](https://sl.bing.net/dQzgJ7UQeLk) | [prompts...](https://github.com/1arry1iu/archetype/tree/main/Bing%20Chat)
-
-### Grok
-
-[News Researcher (UNR-10.5-K)](https://github.com/1arry1iu/archetype/blob/main/Grok/UNR-K)
+[News Researcher (UNR-10.5-K)](https://github.com/1arry1iu/archetype/blob/main/Grok/UNR-K) | [Optical Illusion Expert (UOIE-10.5-B)](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist (UVA-10.5-B)](https://sl.bing.net/dQzgJ7UQeLk) | [prompts...](https://github.com/1arry1iu/archetype/tree/main/Bing%20Chat)
 
 ## Contact me
 
