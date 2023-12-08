@@ -1,6 +1,6 @@
-# Archetype (ACT-10.5)
+# Archetype (A-10.5)
 
-Welcome to Archetype (ACT), your ultimate archetype, construct, and perspective generator on LLMs.
+Welcome to Archetype (A), your ultimate archetype, construct, and perspective generator on LLMs.
 
 ## Construct (C)
 
