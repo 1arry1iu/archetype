@@ -20,7 +20,7 @@ Welcome to Archetype (ACT), your ultimate archetype, construct, and perspective 
 | Bard Gemeni | G | < 30K | high | high |
 | GPT-4/Claude 2 | - | > 35K | high | high |
 | GPTs | L | < 8K | medium | medium |
-| Bing Chat/Grok | B | < 4K | low | low |
+| Bing Chat | B | < 4K | low | low |
 | Grok | K | 4-8K | low | low |
 
 ### Bard Gemini
