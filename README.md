@@ -42,4 +42,4 @@ Welcome to Archetype (A), your ultimate archetype, construct, and perspective ge
 
 Twitter: [@w_liu_](https://twitter.com/w_liu_) | LinkedIn: [1arry1iu](https://www.linkedin.com/in/1arry1iu/) | [Buy me a coffee if you find my work useful](https://www.buymeacoffee.com/1arry1iu)
 
-![](https://github.com/1arry1iu/everything/blob/main/ET_Avatar.png)
+![](https://github.com/1arry1iu/everything/blob/main/A_Avatar.png)
