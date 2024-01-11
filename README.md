@@ -4,7 +4,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, and perspective ge
 
 ## Construct (C)
 
-- [>>> Construct (C-11) <<<](https://chat.openai.com/share/64d4d4e6-1cf8-4479-b13f-48276452c454) - Generate high-resolution archetypes for high-stake tasks 
+- [>>> Construct (C-10.5) <<<](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34) - Generate high-resolution archetypes for high-stake tasks 
 - [>>> Construct (C-10.5-L) <<<](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c) - Generate medium- and low-resolution archetypes for low-stake tasks 
 
 ## Module (M)
