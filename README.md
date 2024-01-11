@@ -28,7 +28,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, and perspective ge
 
 ### GPTs
 
-[Astronomer (UAM-10.5-L)](https://chat.openai.com/g/g-DhvzBQKLz-universal-astronomer-uam) | [Career Counselor (UCC-10.5-L)](https://chat.openai.com/g/g-0LRlMdiQX-universal-career-counselor-ucc) | [Data Analysit (UDA-10.5-L)](https://chat.openai.com/g/g-UnHVJnGaf-universal-data-analyst-uda) | [Psychologist (UPC-10.5-L)](https://chat.openai.com/g/g-gktcTLs6E-universal-psychologist-upc) | [Storyteller (UST-10.5-L)](https://chat.openai.com/g/g-i2KB66rSE-universal-storyteller-ust) | [Visual Artist (UVA-10.5-L)](https://chat.openai.com/g/g-DajFS86Q5-universal-visual-artist-uva) | [prompts...](https://github.com/1arry1iu/archetype/tree/main/GPTs)
+[Astronomer (UAM-10.5-L)](https://chat.openai.com/g/g-DhvzBQKLz-universal-astronomer-uam) | [Career Counselor (UCC-10.5-L)](https://chat.openai.com/g/g-0LRlMdiQX-universal-career-counselor-ucc) | [Data Analysit (UDA-10.5-L)](https://chat.openai.com/g/g-UnHVJnGaf-universal-data-analyst-uda) | [Psychologist (UPC-10.5-L)](https://chat.openai.com/g/g-gktcTLs6E-universal-psychologist-upc) | [Storyteller (UST-10.5-L)](https://chat.openai.com/g/g-i2KB66rSE-universal-storyteller-ust) | [Universal Teacher (UT-10.5-L)](https://chat.openai.com/g/g-iyMu9FxdB-universal-teacher) | [Visual Artist (UVA-10.5-L)](https://chat.openai.com/g/g-DajFS86Q5-universal-visual-artist-uva) | [prompts...](https://github.com/1arry1iu/archetype/tree/main/GPTs)
 
 ### Bing Chat/Grok
 
