@@ -9,7 +9,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, and perspective ge
 
 ## Module (M)
 
-[>>> Module (M-10.5) <<<](https://chat.openai.com/share/cf8e4256-7ccb-4596-aa75-28f0ac39b637) - Generate contextualized construct and perspective definitions 
+[>>> Module (M-10.5) <<<](https://chat.openai.com/g/g-pbGPf7Dfa-module-m) - Generate contextualized construct and perspective definitions 
 
 ## Archetypes
 
