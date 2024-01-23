@@ -32,7 +32,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, and perspective ge
 
 ### Bing Chat/Grok (Version 10.5-B/K)
 
-[News Researcher (UNR)](https://github.com/1arry1iu/archetype/blob/main/Grok/UNR-K) | [Optical Illusion Expert (UOIE)](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist (UVA)](https://sl.bing.net/dQzgJ7UQeLk) | [prompts source code...](https://github.com/1arry1iu/archetype/tree/main/Bing%20Chat)
+[News Researcher (UNR)](https://github.com/1arry1iu/archetype/blob/main/Grok/UNR-K) | [Optical Illusion Expert (UOIE)](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist (UVA)](https://sl.bing.net/dQzgJ7UQeLk) | [prompt source code...](https://github.com/1arry1iu/archetype/tree/main/Bing%20Chat)
 
 ## Contact me
 
