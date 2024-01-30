@@ -29,7 +29,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, and perspective ge
 ### GPTs (Version 10.5-L)
 
 - Arts: [Fashion](https://chat.openai.com/g/g-aSgVWwHSr-universal-fashion-designer-ufd) | [Infographic Creator](https://chat.openai.com/g/g-F6UV4FOtF-universal-inforgraphic-creator-uic) | [Media Critic](https://chat.openai.com/g/g-JkERS8vzJ-universal-media-critic-umct) | [Meme Master](https://chat.openai.com/g/g-RPHDGYpZx-universal-meme-master-umm) | [Visual Artist](https://chat.openai.com/g/g-DajFS86Q5-universal-visual-artist-uva)
-- Athletics: [Archer](https://chat.openai.com/g/g-wt5xICUNE-universal-archer-uac)
+- Athletics: [Archer](https://chat.openai.com/g/g-wt5xICUNE-universal-archer-uac) | [Basketball Player](https://chat.openai.com/g/g-VO4imdZer-universal-basketball-player)
 - Business: [Career Counselor](https://chat.openai.com/g/g-0LRlMdiQX-universal-career-counselor-ucc) | [Economist](https://chat.openai.com/g/g-ZKx7oeVvs-universal-economist-uec) | [Entrepreneur](https://chat.openai.com/g/g-5j5cYSts5-universal-entrepreneur-uen) | [Financial Analyst](https://chat.openai.com/g/g-Gjnowuc3C-universal-financial-analyst-ufa)
 - Education: [Teacher](https://chat.openai.com/g/g-iyMu9FxdB-universal-teacher)
 - Great Thinkers: [Carl G. Jung](https://chat.openai.com/g/g-S6aMsDoYi-carl-g-jung-cgj) | 
