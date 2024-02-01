@@ -4,7 +4,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, and p
 
 ## Block (B-10.7) - formerly Module (M)
 
-[>>> Module (M-10.5) <<<](https://chat.openai.com/g/g-pbGPf7Dfa-module-m) - Generate contextualized construct definitions 
+- [>>> Module (M-10.5) <<<](https://chat.openai.com/g/g-pbGPf7Dfa-module-m) - Generate contextualized construct definitions 
 
 ## Construct (C-10.5)
 
