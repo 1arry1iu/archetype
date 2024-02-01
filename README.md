@@ -1,6 +1,6 @@
 # Archetype (A-11)
 
-Welcome to Archetype (A), your ultimate archetype, construct, perspective, and process generator on LLMs.
+Welcome to Archetype (A), your ultimate archetype, construct, perspective, persona, and process generator on LLMs.
 
 ## Block (B-10.7) - formerly Module (M)
 
