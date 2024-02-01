@@ -2,7 +2,7 @@
 
 Welcome to Archetype (A), your ultimate archetype, construct, perspective, and process generator on LLMs.
 
-## Block (B-10.5) - formerly Module (M)
+## Block (B-10.7) - formerly Module (M)
 
 [>>> Module (M-10.5) <<<](https://chat.openai.com/g/g-pbGPf7Dfa-module-m) - Generate contextualized construct definitions 
 
