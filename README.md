@@ -1,15 +1,19 @@
 # Archetype (A-11)
 
-Welcome to Archetype (A), your ultimate archetype, construct, and perspective generator on LLMs.
+Welcome to Archetype (A), your ultimate archetype, construct, perspective, and process generator on LLMs.
 
 ## Block (B-10.5) - formerly Module (M)
 
-[>>> Module (M-10.5) <<<](https://chat.openai.com/g/g-pbGPf7Dfa-module-m) - Generate contextualized construct and perspective definitions 
+[>>> Module (M-10.5) <<<](https://chat.openai.com/g/g-pbGPf7Dfa-module-m) - Generate contextualized construct definitions 
 
 ## Construct (C-10.5)
 
 - [>>> Construct (C-10.5) <<<](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34) - Generate high-resolution archetypes for high-stake tasks 
-- [>>> Construct (C-10.5-L) <<<](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c) - Generate medium- and low-resolution archetypes for low-stake tasks 
+- [>>> Construct (C-10.5-L) <<<](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c) - Generate medium- and low-resolution archetypes for low-stake tasks
+
+## Evaluation (E-10.5)
+
+- [>>> Evaluation (E-10.5-L) <<<](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) - Evaluate prompts and prompt output
 
 ## Archetypes
 
