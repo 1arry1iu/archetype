@@ -13,7 +13,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ## Driver (D)
 
-- [>>> Driver (C-10.5-L) <<<](https://chat.openai.com/g/g-WbRnrrmS4-universal-team-leader-utl) - Generate workflows to engage with effective GPTs
+- [>>> Driver (C-10.5-L) <<<](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) - Generate workflows to engage with effective GPTs
 
 ## Evaluation (E)
 
