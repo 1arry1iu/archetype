@@ -2,13 +2,13 @@
 
 Welcome to Archetype (A), your ultimate archetype, construct, perspective, persona, and process generator on LLMs.
 
-| Prompt | Function | Code | Version |
-|---|---|---|---|
-| [Block](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Generate contextualized construct definitions | B | 10.7 |
-| [Construct](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34) | Generate high-resolution archetypes for high-stake tasks | C | 10.5 |
-| [Construct GPT](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c) | Generate medium- and low-resolution archetypes for low-stake tasks | C-L | 10.5 |
-| [Driver GPT](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Generate effective workflows to involving multiple GPTs in teamwork | D-L | 10.5 |
-| [Evaluation GPT](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Evaluate prompts and prompt output | E-L | 10.5 |
+| Prompt | Function | Code | Version | Length (characters) |
+|---|---|---|---|---|
+| [Block](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Generate contextualized construct definitions | B | 10.7 | < 8K |
+| [Construct](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34) | Generate high-resolution archetypes for high-stake tasks | C | 10.5 | > 35K |
+| [Construct GPT](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c) | Generate medium- and low-resolution archetypes for low-stake tasks | C-L | 10.5 | < 8K |
+| [Driver GPT](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Generate effective workflows to involving multiple GPTs in teamwork | D-L | 10.5 | < 8K |
+| [Evaluation GPT](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Evaluate prompts and prompt output | E-L | 10.5 | < 8K |
 
 ## Archetypes (A's)
 
