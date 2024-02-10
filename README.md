@@ -15,12 +15,12 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ### Comparison 
 
-| LLM | Code | Length (characters) | Resolution | Competence |
-|---|---|---|---|---|
-| Gemeni | G | < 30K | high | high |
-| GPT-4/Claude 2 | - | > 35K | high | high |
-| GPTs | L | < 8K | medium | medium |
-| Bing Chat/Grok | B/K | < 4K | low | low |
+| LLM | Code | Length (characters) | 
+|---|---|---|
+| Gemeni | G | < 30K | 
+| GPT-4/Claude 2 | - | > 35K |
+| GPTs | L | < 8K | 
+| Bing Chat/Grok | B/K | < 4K | 
 
 ### GPTs (Version 10.5-L)
 
