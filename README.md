@@ -4,7 +4,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 | Prompt | Function | Length (characters) |
 |---|---|---|
-| [Block (B-10.7)](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Generate contextualized construct definitions | < 8K |
+| [Block (B-10.7)](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Generate contextualized construct definitions | < 4K |
 | [Construct (C-10.5)](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34) | Generate high-resolution archetypes for high-stake tasks | > 35K |
 | [Construct (C-10.5-L)](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c) | Generate medium- and low-resolution archetypes for low-stake tasks | < 8K |
 | [Driver (D-10.5-L)](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Generate effective workflows to involving multiple GPTs in teamwork | < 8K |
