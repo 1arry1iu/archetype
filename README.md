@@ -17,9 +17,9 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 | LLM | Code | Length (characters) | Compatibility |
 |---|---|---|---|
-| GPT-4/Claude 2 | - | > 35K | GPT-4/Claude 2 |
-| Gemeni | G | < 30K | GPT-4/Gemeni/Claude 2 |
-| GPTs | L | < 8K | GPT-4/GPTs/Gemeni/Claude 2 |
+| GPT-4/Claude 2 | - | > 35K | - |
+| Gemeni | G | < 30K | + GPT-4/Claude 2 |
+| GPTs | L | < 8K | + GPT-4/Claude 2/Gemeni |
 | Bing Chat/Grok | B/K | < 4K | all |
 
 ### GPTs (Version 10.5-L)
