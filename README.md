@@ -5,7 +5,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | Prompt | Function |
 |---|---|
 | [Block (B-10.7)](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Generate contextualized construct definitions | 
-| Construct ([C-10.5](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34)/[-L](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c) | Generate archetypes for different tasks | 
+| Construct ([C-10.5](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34)/[-L](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c)) | Generate archetypes for different tasks | 
 | [Driver (D-10.5-L)](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Generate effective workflows to involving multiple GPTs in teamwork | 
 | [Evaluation (E-10.5-L)](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Evaluate prompts and prompt output | 
 | [Gist (G-10.5-L)](https://chat.openai.com/g/g-9xUwQl1C2-gist-g) | Generate the best three-point summaries | 
