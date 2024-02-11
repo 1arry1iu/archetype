@@ -19,7 +19,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 |---|---|---|---|
 | GPT-4/Claude 2 | - | > 35K | - |
 | Gemeni | G | < 30K | + GPT-4/Claude 2 |
-| GPTs | L | < 8K | + GPT-4/Claude 2/Gemeni |
+| GPTs | L | < 8K | + Gemeni/Claude 2 |
 | Bing Chat/Grok | B/K | < 4K | all |
 
 ### GPTs (10.5-L)
