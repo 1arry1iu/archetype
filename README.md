@@ -52,7 +52,7 @@ Click on the links below to load the prompts into Gemini automatically.
 
 Click on the links below to load the prompts into Bing Chat automatically.
 
-- Arts: [Optical Illusion Expert](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist](https://sl.bing.net/dQzgJ7UQeLk)
+[Optical Illusion Expert](https://sl.bing.net/9jMAiyDRfg) | [Visual Artist](https://sl.bing.net/dQzgJ7UQeLk)
 
 ### GPT-4 (Archetypes)
 
