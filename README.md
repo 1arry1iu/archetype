@@ -1,6 +1,6 @@
 # Archetype (A-11)
 
-Welcome to Archetype (A), your ultimate archetype, construct, perspective, persona, and process generator on LLMs. The Archetype toolkit includes the following prompts.
+Welcome to Archetype (A), your ultimate archetype, construct, perspective, persona, and process generator on LLMs. The Archetype toolkit includes the following prompts. Click on the links to open them as GPTs; meanwhile, they can also be loaded manually in LLMs of your choice.
 
 | Prompt | Function |
 |---|---|
