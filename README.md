@@ -1,9 +1,10 @@
 # Archetype (A-11)
 
-Welcome to Archetype (A), your ultimate archetype, construct, perspective, persona, and process generator on LLMs.
+Welcome to Archetype (A), your ultimate archetype, construct, perspective, persona, and process generator on LLMs. The Archetype toolkit includes the following prompts.
 
 | Prompt | Function |
 |---|---|
+| Archetypes (A's) | Useful/fun personas |
 | [Block (B)](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Construct definition generation | 
 | Construct ([C](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34)/[-L](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c)) | Archetype generation for task needs | 
 | [Driver (D-L)](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow generation to involve GPTs in teamwork | 
