@@ -40,7 +40,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ### Gemini (10.5-L)
 
-Great Thinkers: [Carl G. Jung](https://g.co/gemini/share/bfd3deb12f4e)
+- Great Thinkers: [Carl G. Jung](https://g.co/gemini/share/bfd3deb12f4e)
 
 ### GPT-3.5 (10.5-L)
 
