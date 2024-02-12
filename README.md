@@ -42,6 +42,8 @@ Click on the links below to open the GPTs. Have them in your sidebar to call the
 
 ### Gemini (10.5-L)
 
+Click on the links below to load the prompts into Gemini automatically. 
+
 - Great Thinkers: [Carl G. Jung](https://g.co/gemini/share/bfd3deb12f4e)
 
 ### Gemini, GPT-4, and Claude 2 (10/10.5/11)
