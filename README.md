@@ -16,12 +16,12 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ### Comparison 
 
-| LLM | Code | Length (characters) | Compatibility (click for source code) |
-|---|---|---|---|
-| GPT-4/Claude 2 | - | > 35K | [GPT-3.5/GPT-4/Claude 2](https://github.com/1arry1iu/archetype/tree/main/Archetypes) |
-| Gemini | G | < 30K | GPT-3.5/GPT-4/Glaude 2/[Gemini](https://github.com/1arry1iu/archetype/tree/main/LLMs/Gemeni) |
-| GPTs | L | < 8K | GPT-3.5/[GPT-4](https://github.com/1arry1iu/archetype/tree/main/GPTs)/Claude 2/Gemini |
-| Bing Chat/Grok | B/K | < 4K | GPT-3.5/GPT-4/Claude 2/Gemini/[Bing Chat](https://github.com/1arry1iu/archetype/tree/main/LLMs/Bing%20Chat)/[Grok](https://github.com/1arry1iu/archetype/tree/main/LLMs/Grok) |
+| Code | Length (characters) | Compatibility (click for source code) |
+|---|---|---|
+| - | > 35K | [GPT-3.5/GPT-4/Claude 2](https://github.com/1arry1iu/archetype/tree/main/Archetypes) |
+| G | < 30K | GPT-3.5/GPT-4/Glaude 2/[Gemini](https://github.com/1arry1iu/archetype/tree/main/LLMs/Gemeni) |
+| L | < 8K | GPT-3.5/[GPT-4](https://github.com/1arry1iu/archetype/tree/main/GPTs)/Claude 2/Gemini |
+| B/K | < 4K | GPT-3.5/GPT-4/Claude 2/Gemini/[Bing Chat](https://github.com/1arry1iu/archetype/tree/main/LLMs/Bing%20Chat)/[Grok](https://github.com/1arry1iu/archetype/tree/main/LLMs/Grok) |
 
 ### GPTs
 
