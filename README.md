@@ -16,6 +16,8 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ### Comparison 
 
+The L-series prompts, primarily for GPTs, are under active development and can be loaded in GPT-3.5, GPT-4, Claude 2, and Gemini. 
+
 | Code | Length (characters) | Compatibility (click for source code) |
 |---|---|---|
 | L | < 8K | GPT-3.5/[GPT-4](https://github.com/1arry1iu/archetype/tree/main/GPTs)/Claude 2/Gemini |
