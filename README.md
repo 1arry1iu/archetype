@@ -20,10 +20,10 @@ The L-series prompts, primarily for GPTs, are under active development and can b
 
 | Code | Length (characters) | Compatibility (click for source code) |
 |---|---|---|
-| L | < 8K | GPT-3.5/[GPT-4](https://github.com/1arry1iu/archetype/tree/main/GPTs)/Claude 2/Gemini |
+| L | < 8K | GPT-3.5/[GPT-4](https://github.com/1arry1iu/archetype/tree/main/GPTs)/Claude 2/Gemini/Groq |
 | - | > 35K | [GPT-3.5/GPT-4/Claude 2](https://github.com/1arry1iu/archetype/tree/main/Archetypes) |
 | G | < 30K | GPT-3.5/GPT-4/Glaude 2/[Gemini](https://github.com/1arry1iu/archetype/tree/main/LLMs/Gemeni) |
-| B/K | < 4K | GPT-3.5/GPT-4/Claude 2/Gemini/[Bing Chat](https://github.com/1arry1iu/archetype/tree/main/LLMs/Bing%20Chat)/[Grok](https://github.com/1arry1iu/archetype/tree/main/LLMs/Grok) |
+| B/K | < 4K | GPT-3.5/GPT-4/Claude 2/Gemini/[Bing Chat](https://github.com/1arry1iu/archetype/tree/main/LLMs/Bing%20Chat)/[Grok](https://github.com/1arry1iu/archetype/tree/main/LLMs/Grok)/Groq |
 
 ### Categories
 
