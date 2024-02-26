@@ -5,8 +5,8 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | Prompt | Function |
 |---|---|
 | Archetypes (A's) | Useful/fun personas |
-| [Block (B)](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Construct definition generation | 
-| Construct ([C](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34)/[C-L](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c)) | Archetype generation for task needs | 
+| Block (B) - [GPT](https://chat.openai.com/g/g-pbGPf7Dfa-block-b)/[Gemini](https://g.co/gemini/share/11d5d0bfaea8) | Construct definition generation | 
+| Construct (C) - [GPT](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c)/[GPT-4](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34) | Archetype generation for task needs | 
 | [Driver (D-L)](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow generation to involve GPTs in teamwork | 
 | [Evaluation (E-L)](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Prompt evaluation | 
 | [Format (F-L)](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
