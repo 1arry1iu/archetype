@@ -45,6 +45,6 @@ Click on the links below to open the GPTs or load the prompts in Gemini/GPT-4/Bi
 
 ## Contact me
 
-Twitter: [@w_liu_](https://twitter.com/w_liu_) | [Buy me a coffee if you find my work useful](https://www.buymeacoffee.com/1arry1iu)
+Twitter: [@w_liu_](https://twitter.com/w_liu_) | [Buy me a coffee if you find my work useful](https://www.buymeacoffee.com/w_liu_)
 
 ![](https://github.com/1arry1iu/everything/blob/main/A_Avatar.png)
