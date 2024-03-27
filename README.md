@@ -2,7 +2,7 @@
 
 Welcome to Archetype (A), your ultimate archetype, construct, perspective, persona, and process generator on LLMs. The Archetype toolkit includes the following prompts. Click on the links to open them as GPTs; meanwhile, they can also be loaded manually in LLMs of your choice.
 
-| Abbreviation | Prompt | Function |
+| Shorthand | Prompt | Function |
 |---|---|---|
 | A | Archetypes (A's) | Useful/fun personas |
 | B | Block (B) - [GPT](https://chat.openai.com/g/g-pbGPf7Dfa-block-b)/[Gemini](https://g.co/gemini/share/11d5d0bfaea8) | Construct definition generation | 
