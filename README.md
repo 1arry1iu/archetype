@@ -4,13 +4,13 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 | Shorthand | Prompt | Function |
 |---|---|---|
-| A | Archetypes (A's) | Useful/fun personas |
+| A's | Archetypes | Useful/fun personas |
 | B | Block (B) - [GPT](https://chat.openai.com/g/g-pbGPf7Dfa-block-b)/[Gemini](https://g.co/gemini/share/11d5d0bfaea8) | Definition generation | 
 | C | Construct (C) - [GPT](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c)/[GPT-4](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34) | Archetype generation | 
-| D | [Driver (D-L)](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow generation to involve GPTs in teamwork | 
-| E | [Evaluation (E-L)](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Prompt evaluation | 
-| F | [Format (F-L)](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
-| G | [Gist (G-L)](https://chat.openai.com/g/g-9xUwQl1C2-gist-g) | Three-point summation | 
+| D | Driver - [GPT](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow generation to involve GPTs in teamwork | 
+| E | Evaluation - [GPT](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Prompt evaluation | 
+| F | Format - [GPT](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
+| G | Gist - [GPT](https://chat.openai.com/g/g-9xUwQl1C2-gist-g) | Three-point summation | 
 
 ## Archetypes (A's)
 
