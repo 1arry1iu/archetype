@@ -16,14 +16,14 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ### Comparison 
 
-The L-series prompts, primarily for GPTs, are under active development and can be loaded in GPT-3.5, GPT-4, Claude 2, Gemini, and Groq. 
+The L-series prompts, primarily for GPTs, are under active development and can be loaded in GPT-3.5, GPT-4, Copilot Notebook, Claude 2, Gemini, and Groq. 
 
 | Code | Length (characters) | Compatibility (click for source code) |
 |---|---|---|
-| L | < 8K | GPT-3.5/[GPT-4](https://github.com/1arry1iu/archetype/tree/main/GPTs)/Claude 2/Gemini/Groq |
+| L | < 8K | GPT-3.5/[GPT-4](https://github.com/1arry1iu/archetype/tree/main/GPTs)/Copilot Notebook/Claude 2/Gemini/Groq |
 | - | > 35K | [GPT-3.5/GPT-4/Claude 2/Groq](https://github.com/1arry1iu/archetype/tree/main/Archetypes) |
 | G | < 30K | GPT-3.5/GPT-4/Glaude 2/[Gemini](https://github.com/1arry1iu/archetype/tree/main/LLMs/Gemeni)/Groq |
-| B/K | < 4K | GPT-3.5/GPT-4/Claude 2/Gemini/[Bing Chat](https://github.com/1arry1iu/archetype/tree/main/LLMs/Bing%20Chat)/[Grok](https://github.com/1arry1iu/archetype/tree/main/LLMs/Grok)/Groq |
+| B/K | < 4K | GPT-3.5/GPT-4/Copilot Notebook/Claude 2/Gemini/[Bing Chat](https://github.com/1arry1iu/archetype/tree/main/LLMs/Bing%20Chat)/[Grok](https://github.com/1arry1iu/archetype/tree/main/LLMs/Grok)/Groq |
 
 ### Categories
 
