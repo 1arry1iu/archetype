@@ -11,6 +11,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | E | Evaluation - [GPT](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Prompt evaluation | 
 | F | Format - [GPT](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
 | G | Gist - [GPT](https://chat.openai.com/g/g-9xUwQl1C2-gist-g) | Three-point summation | 
+| H | Hack | Circumventing LLM censorship |
 
 ## Archetypes (A's)
 
