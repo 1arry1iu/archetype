@@ -46,6 +46,6 @@ Click on the links below to open the GPTs or load the prompts in Gemini/GPT-4/Bi
 
 ## Contact me
 
-Twitter: [@w_liu_](https://twitter.com/w_liu_) | LinkedIn: [1arry1iu](https://www.linkedin.com/in/1arry1iu/) | Linktree: [w_liu](https://linktr.ee/w_liu_) | [Support my work](https://www.buymeacoffee.com/w_liu_)
+Twitter: [@w_liu_](https://twitter.com/w_liu_) | LinkedIn: [1arry1iu](https://www.linkedin.com/in/1arry1iu/) | Linktree: [w_liu](https://linktr.ee/w_liu_)
 
 ![](https://github.com/1arry1iu/everything/blob/main/A_Avatar.png)
