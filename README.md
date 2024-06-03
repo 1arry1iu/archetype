@@ -10,7 +10,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | D | Driver - [GPT](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow generation to involve GPTs in teamwork | 
 | E | Evaluation - [GPT](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Prompt evaluation | 
 | F | Format - [GPT](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
-| G | Gist - [GPT](https://chat.openai.com/g/g-9xUwQl1C2-gist-g) | Three-point summation | 
+| G | Gist - [GPT](https://chat.openai.com/g/g-9xUwQl1C2-gist-g)/[Gemini](https://g.co/gemini/share/65370f14365e) | Three-point summation | 
 | H | [Hack](https://github.com/1arry1iu/archetype/tree/main/Hack) | Circumventing LLM censorship |
 
 ## Archetypes (A's)
