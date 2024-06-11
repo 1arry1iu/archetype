@@ -12,6 +12,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | F | Format - [GPT](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
 | G | Gist - [GPT](https://chat.openai.com/g/g-9xUwQl1C2-gist-g)/[Gemini](https://g.co/gemini/share/65370f14365e) | Three-point summation | 
 | H | [Hack](https://github.com/1arry1iu/archetype/tree/main/Hack) | Circumventing LLM censorship |
+| I | [Information](https://chatgpt.com/g/g-7gYCmWwyt-information-i) | Organizing information |
 
 ## Archetypes (A's)
 
