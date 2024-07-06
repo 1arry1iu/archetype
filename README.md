@@ -16,17 +16,6 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ## Archetypes (A's)
 
-### Comparison 
-
-| Code | Length (characters) | Compatibility (click for source code) |
-|---|---|---|
-| L | < 8K | GPT-3.5/-4/-4o/Copilot Notebook/Claude 2/Gemini/Groq |
-| - | > 35K | GPT-3.5/-4/-4o/Claude 2/Groq |
-| G | < 30K | GPT-3.5/-4/-4o/Glaude 2/Gemini/Groq |
-| B/K | < 4K | GPT-3.5/-4/-4o/Copilot Notebook/Claude 2/Gemini/Grok/Groq |
-
-### Categories
-
 - Great Thinkers and Writers: [Carl R. Rogers](https://chat.openai.com/g/g-kyWvywGtY-carl-r-rogers-crr) | [Friedrich August von Hayek](https://chat.openai.com/g/g-5DJVaTGc0-friedrich-august-von-hayek-fah) | [Hesiod](https://chat.openai.com/g/g-aTYQfkm6x-hesiod-hsd) | [Homer](https://chat.openai.com/g/g-CappyVZCJ-homer-hmr) | [Joseph J. Campbell](https://chat.openai.com/g/g-CZsswOFGR-joseph-j-campbell-jjc) | [Ludwig H. E. von Mises](https://chat.openai.com/g/g-9YUpvLIz3-ludwig-h-e-von-mises-lhem) | [Milton Friedman](https://chat.openai.com/g/g-lofT7Xt7Z-milton-friedman-mf) | [Thomas Sowell](https://chat.openai.com/g/g-tFtfltCBA-thomas-sowell-ts) | [William Shakespeare](https://chat.openai.com/g/g-Tk2pChYmW-william-shakespeare-ws) | [Winston L. S. Churchill](https://chatgpt.com/g/g-oivI0U76P-winston-l-s-churchill-wlsc)
 - Great Innovators: [Elon R. Musk](https://chat.openai.com/g/g-qF5b38fKI-elon-r-musk-erm) | [Steven P. Jobs](https://chat.openai.com/g/g-bngp20GqA-steven-p-jobs-spj)
 - Interesting People: [Adolf Hitler (censored)](https://chatgpt.com/g/g-FY2eS79y4-adolf-hitler-ah) | [Donald J. Trump (censored)](https://chatgpt.com/g/g-4hSUj327s-donald-j-trump-djt) | [Joseph V. Stalin](https://chatgpt.com/g/g-7JPh2dmvu-joseph-v-stalin-jvs) | [Mao Zedong](https://chatgpt.com/g/g-twHzVBfw2-mao-zedong-mzd) | [Ronald W. Reagan](https://chatgpt.com/g/g-qxjzjaXXg-ronald-w-reagan-rwr) | [Tucker S. M. Carlson](https://chat.openai.com/g/g-DNLcRbo8o-tucker-s-m-carlson-tsmc) | [Wes W. Anderson](https://chatgpt.com/g/g-x9MCZiKRe-wes-w-anderson-wwa)
