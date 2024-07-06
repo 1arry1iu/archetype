@@ -5,12 +5,12 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | Shorthand | Prompt | Function |
 |---|---|---|
 | A's | Archetypes | Useful/fun personas |
-| B | Block (B) - [GPT](https://chat.openai.com/g/g-pbGPf7Dfa-block-b)/[Gemini](https://g.co/gemini/share/11d5d0bfaea8) | Definition generation | 
-| C | Construct (C) - [GPT](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c)/[GPT-4](https://chat.openai.com/share/74206dc9-50ce-4716-99dc-04015d102b34) | Archetype generation | 
-| D | Driver - [GPT](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow generation to involve GPTs in teamwork | 
-| E | Evaluation - [GPT](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Prompt evaluation | 
-| F | Format - [GPT](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
-| G | Gist - [GPT](https://chat.openai.com/g/g-9xUwQl1C2-gist-g)/[Gemini](https://g.co/gemini/share/65370f14365e) | Three-point summation | 
+| B | [Block](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Definition generation | 
+| C | [Construct(https://chat.openai.com/g/g-ZR3w4e0RR-construct-c) | Archetype generation | 
+| D | [Driver](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow generation to involve GPTs in teamwork | 
+| E | [Evaluation](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Prompt evaluation | 
+| F | [Format](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
+| G | [Gist](https://chat.openai.com/g/g-9xUwQl1C2-gist-g) | Three-point summation | 
 | H | [Hack](https://github.com/1arry1iu/archetype/tree/main/Hack) | Circumventing LLM censorship |
 | I | [Information](https://chatgpt.com/g/g-7gYCmWwyt-information-i) | Organizing information |
 
