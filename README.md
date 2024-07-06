@@ -1,6 +1,6 @@
 # Archetype (A-11)
 
-Welcome to Archetype (A), your ultimate archetype, construct, perspective, persona, and process generator on LLMs. The Archetype toolkit includes the following prompts. Click on the links to open them as GPTs; meanwhile, they can also be loaded manually in LLMs of your choice.
+Welcome to Archetype (A), your ultimate archetype, construct, perspective, persona, and process generator on LLMs.
 
 | Shorthand | Prompt | Function |
 |---|---|---|
@@ -18,14 +18,12 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ### Comparison 
 
-The L-series prompts, primarily for GPTs, are under active development and can be loaded in GPT-3.5, GPT-4, Copilot Notebook, Claude 2, Gemini, and Groq. 
-
 | Code | Length (characters) | Compatibility (click for source code) |
 |---|---|---|
-| L | < 8K | GPT-3.5/[GPT-4](https://github.com/1arry1iu/archetype/tree/main/GPTs)/Copilot Notebook/Claude 2/Gemini/Groq |
-| - | > 35K | [GPT-3.5/GPT-4/Claude 2/Groq](https://github.com/1arry1iu/archetype/tree/main/Archetypes) |
-| G | < 30K | GPT-3.5/GPT-4/Glaude 2/[Gemini](https://github.com/1arry1iu/archetype/tree/main/LLMs/Gemeni)/Groq |
-| B/K | < 4K | GPT-3.5/GPT-4/Copilot Notebook/Claude 2/Gemini/[Bing Chat](https://github.com/1arry1iu/archetype/tree/main/LLMs/Bing%20Chat)/[Grok](https://github.com/1arry1iu/archetype/tree/main/LLMs/Grok)/Groq |
+| L | < 8K | GPT-3.5/-4/-4o/Copilot Notebook/Claude 2/Gemini/Groq |
+| - | > 35K | GPT-3.5/-4/-4o/Claude 2/Groq |
+| G | < 30K | GPT-3.5/-4/-4o/Glaude 2/Gemini/Groq |
+| B/K | < 4K | GPT-3.5/-4/-4o/Copilot Notebook/Claude 2/Gemini/Grok/Groq |
 
 ### Categories
 
