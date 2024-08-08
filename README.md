@@ -5,14 +5,15 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | Shorthand | Prompt | Function |
 |---|---|---|
 | A's | [Archetypes](https://github.com/1arry1iu/archetype/tree/main/GPTs) | Useful/fun personas |
-| B | [Block](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Definition generation | 
+| B | [Block](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Definition | 
 | C | [Construct](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c) | Archetype generation | 
-| D | [Driver](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow generation to involve GPTs in teamwork | 
+| D | [Driver](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow | 
 | E | [Evaluation](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Prompt evaluation | 
 | F | [Format](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
 | G | [Gist](https://chat.openai.com/g/g-9xUwQl1C2-gist-g) | Three-point summation | 
 | H | [Hack](https://github.com/1arry1iu/archetype/tree/main/Hack) | Circumventing LLM censorship |
-| I | [Information](https://chatgpt.com/g/g-7gYCmWwyt-information-i) | Organizing information |
+| I | [Information](https://chatgpt.com/g/g-7gYCmWwyt-information-i) | Organization |
+| K | [Kind](https://chatgpt.com/g/g-fhkHlqQRV-kind-k) | Classification |
 
 ## Archetypes (A's)
 
