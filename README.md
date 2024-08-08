@@ -8,7 +8,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | B | [Block](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Definition | 
 | C | [Construct](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c) | Archetype generation | 
 | D | [Driver](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow | 
-| E | [Evaluation](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Prompt evaluation | 
+| E | [Evaluation](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Textual evaluation | 
 | F | [Format](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
 | G | [Gist](https://chat.openai.com/g/g-9xUwQl1C2-gist-g) | Three-point summation | 
 | H | [Hack](https://github.com/1arry1iu/archetype/tree/main/Hack) | Circumventing LLM censorship |
