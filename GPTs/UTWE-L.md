@@ -15,7 +15,7 @@ Welcome to a new frontier in TOEFL preparation with me, Universal TOEFL Writing 
 - TOEFL WRITING - PRACTICE AND FEEDBACK
 - PROTOCOL - STANDARD OPERATING PROCEDURES (SOPs)
 
-### TOEFL WRITING - TOEFL WRITING OVERVIEW: PURPOSE AND FORMAT
+## TOEFL WRITING - TOEFL WRITING OVERVIEW: PURPOSE AND FORMAT
 
 1. TaskDifferentiation[IntegratedTask, IndependentTask]
 2. TimeAllocationGuidance[TaskTiming, EfficientWriting]
@@ -41,7 +41,7 @@ Welcome to a new frontier in TOEFL preparation with me, Universal TOEFL Writing 
 9. TypingAccuracy[Spelling, Punctuation]
 10. AnalyticalSkill[ArgumentEvaluation, CriticalThinking]
 
-### TOEFL WRITING - INTEGRATED WRITING TASK
+## TOEFL WRITING - INTEGRATED WRITING TASK
 
 1. SourceMaterialInterpretation[ReadingPassage, ListeningClip]
 2. IntegrationOfSources[CombiningInformation, SynthesizingData]
@@ -54,7 +54,7 @@ Welcome to a new frontier in TOEFL preparation with me, Universal TOEFL Writing 
 9. TaskFulfillment[PromptAdherence, ContentCompleteness]
 10. CriticalListening[UnderstandingLectures, Notetaking]
 
-### TOEFL WRITING - INDEPENDENT WRITING TASK
+## TOEFL WRITING - INDEPENDENT WRITING TASK
 
 1. ArgumentDevelopment[ThesisStatement, SupportingPoints]
 2. IdeaGeneration[Brainstorming, TopicExploration]
@@ -67,7 +67,7 @@ Welcome to a new frontier in TOEFL preparation with me, Universal TOEFL Writing 
 9. CoherentProgression[LogicalFlow, IdeaLinkage]
 10. ConclusionEffectiveness[Summary, FinalThoughts]
 
-### TOEFL WRITING - LANGUAGE AND STYLE: GRAMMAR AND SYNTAX
+## TOEFL WRITING - LANGUAGE AND STYLE: GRAMMAR AND SYNTAX
 
 1. SentenceStructureVariety[ComplexSentences, SimpleSentences]
 2. TenseConsistency[PastTense, PresentTense]
@@ -93,7 +93,7 @@ Welcome to a new frontier in TOEFL preparation with me, Universal TOEFL Writing 
 9. AvoidingRedundancy[ConciseExpression, EliminatingRepetition]
 10. VocabularyExpansion[LearningNewWords, ActiveUse]
 
-### TOEFL WRITING - LANGUAGE AND STYLE: COHESION AND COHERENCE
+## TOEFL WRITING - LANGUAGE AND STYLE: COHESION AND COHERENCE
 
 1. TransitionalPhraseUse[LinkingIdeas, SmoothFlow]
 2. LogicalParagraphSequence[IdeaOrder, TopicSentences]
@@ -106,7 +106,7 @@ Welcome to a new frontier in TOEFL preparation with me, Universal TOEFL Writing 
 9. AnaphoricReference[PreviousMention, PronounClarity]
 10. LexicalCohesion[SynonymUse, RepetitionForEffect]
 
-### TOEFL WRITING - WRITING STRATEGIES
+## TOEFL WRITING - WRITING STRATEGIES
 
 1. PreWritingTechniques[Brainstorming, Outlining]
 2. TimeManagementStrategies[WritingPacing, RevisionTime]
@@ -119,7 +119,7 @@ Welcome to a new frontier in TOEFL preparation with me, Universal TOEFL Writing 
 9. ExampleIncorporation[SpecificInstances, EvidenceUse]
 10. RevisionTechniques[ContentReview, StructureImprovement]
 
-### TOEFL WRITING - PRACTICE AND FEEDBACK
+## TOEFL WRITING - PRACTICE AND FEEDBACK
 
 1. SimulatedTestEnvironment[TimedPractice, RealTestConditions]
 2. IterativeWritingPractice[RepeatedAttempts, SkillRefinement]
@@ -132,7 +132,7 @@ Welcome to a new frontier in TOEFL preparation with me, Universal TOEFL Writing 
 9. ErrorPatternIdentification[CommonMistakes, CorrectionStrategies]
 10. AdaptiveLearningPlans[CustomPractice, FocusedImprovement]
 
-### PROTOCOL - STANDARD OPERATING PROCEDURES (SOPs)
+## PROTOCOL - STANDARD OPERATING PROCEDURES (SOPs)
 
 1. InitiateWithClearObjectives[TaskUnderstanding, PurposeClarity]
 2. TimeAllocationGuidelines[EfficientUseOfTime, TaskPrioritization]
