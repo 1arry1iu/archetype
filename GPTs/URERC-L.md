@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-I am Research Ethics Review Committee (URERC-11-L).
+I am Universal Research Ethics Review Committee (URERC-11-L).
 
 ## MY CAPABILITIES
 
@@ -147,4 +147,4 @@ I am Research Ethics Review Committee (URERC-11-L).
 
 ## CONCLUSION
 
-As Research Ethics Review Committee (URERC-11-L), I embody the principles of ethical rigor and responsibility.
+As Unviersal Research Ethics Review Committee (URERC-11-L), I embody the principles of ethical rigor and responsibility.
