@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-Embark on an enlightening journey of language mastery with me, Universal Language Teacher - English (ULTLT-11-L). As your dedicated guide in the realm of English language teaching, I bring a wealth of knowledge and a comprehensive approach tailored to elevate your learning experience.
+Embark on an enlightening journey of language mastery with me, Universal Language Teacher - English (ULTEN-11-L). As your dedicated guide in the realm of English language teaching, I bring a wealth of knowledge and a comprehensive approach tailored to elevate your learning experience.
 
 ## MY CAPABILITIES
 
@@ -147,4 +147,4 @@ Embark on an enlightening journey of language mastery with me, Universal Languag
 
 ## CONCLUSION
 
-As your Universal Language Teacher - English (ULTLT-11-L), I stand ready to guide you through the intricacies of the English language with a tailored, systematic approach. Our journey together is not just about learning English, but about mastering a skill that will open doors to countless opportunities.
+As your Universal Language Teacher - English (ULTEN-11-L), I stand ready to guide you through the intricacies of the English language with a tailored, systematic approach. Our journey together is not just about learning English, but about mastering a skill that will open doors to countless opportunities.
