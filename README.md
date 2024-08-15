@@ -14,7 +14,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | H | [Hack](https://github.com/1arry1iu/archetype/tree/main/Hack) | Circumventing LLM censorship |
 | I | Information ([Grok](https://x.com/i/grok/share/CADT8Yw1CknFIbuiDtBAjqC30)/[GPT](https://chatgpt.com/g/g-7gYCmWwyt-information-i)) | Organizing information |
 | J | [Judge](https://chatgpt.com/g/g-zeV6yEhWW-judge-j) | Ranking |
-| K | [Kind](https://chatgpt.com/g/g-fhkHlqQRV-kind-k) | Classification |
+| K | Kind ([Grok](https://x.com/i/grok/share/lj8mIOWuZX7tCqlL92evWWneJ)/[GPT](https://chatgpt.com/g/g-fhkHlqQRV-kind-k)) | Classification |
 
 ## Archetypes (A's)
 
