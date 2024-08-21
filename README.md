@@ -12,7 +12,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | F | [Format](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
 | G | [Gist](https://chat.openai.com/g/g-9xUwQl1C2-gist-g) | Three-point summation | 
 | H | [Hack](https://github.com/1arry1iu/archetype/tree/main/Hack) | Circumventing LLM censorship |
-| I | Information ([Grok](https://x.com/i/grok/share/CADT8Yw1CknFIbuiDtBAjqC30)/[GPT](https://chatgpt.com/g/g-7gYCmWwyt-information-i)) | Organizing information |
+| I | Information ([Grok](https://x.com/i/grok/share/jvyDt2288fcr6tkq1N126MlJe)/[GPT](https://chatgpt.com/g/g-7gYCmWwyt-information-i)) | Organizing information |
 | J | Judge ([Grok](https://x.com/i/grok/share/EEewzM9zfkdM2P4n3EQCRmBeX)/[GPT](https://chatgpt.com/g/g-zeV6yEhWW-judge-j)) | Ranking |
 | K | Kind ([Grok](https://x.com/i/grok/share/lj8mIOWuZX7tCqlL92evWWneJ)/[GPT](https://chatgpt.com/g/g-fhkHlqQRV-kind-k)) | Classification |
 
