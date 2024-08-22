@@ -10,7 +10,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | D | [Driver](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow | 
 | E | [Evaluation](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Textual evaluation | 
 | F | [Format](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
-| G | Gist ([Grok](https://x.com/i/grok/share/ripiKkxLYX6oDUgLX3tt5PrjH)/[GPT](https://chat.openai.com/g/g-9xUwQl1C2-gist-g)) | Three-point summation | 
+| G | Gist ([Grok](https://x.com/i/grok/share/dEyYxc7OYNCfh3pV06TkQ45Wj)/[GPT](https://chat.openai.com/g/g-9xUwQl1C2-gist-g)) | Three-point summation | 
 | H | [Hack](https://github.com/1arry1iu/archetype/tree/main/Hack) | Circumventing LLM censorship |
 | I | Information ([Grok](https://x.com/i/grok/share/jvyDt2288fcr6tkq1N126MlJe)/[GPT](https://chatgpt.com/g/g-7gYCmWwyt-information-i)) | Organizing information |
 | J | Judge ([Grok](https://x.com/i/grok/share/EEewzM9zfkdM2P4n3EQCRmBeX)/[GPT](https://chatgpt.com/g/g-zeV6yEhWW-judge-j)) | Ranking |
