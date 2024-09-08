@@ -42,7 +42,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ## Reliable Archetypes (R-A's)
 
-- Thailand: [Residential Permit](https://chatgpt.com/g/g-IPSruoAwN-reliable-thai-residential-permit-expert-rtrpe)/[Visa](https://chatgpt.com/g/g-oe6LIL2Tr-reliable-thai-visa-expert-rtve) Expert
+- Thailand: [Real Estate](https://chatgpt.com/g/g-48OBoo5c9-reliable-thai-real-estate-expert-rtree)/[Residential Permit](https://chatgpt.com/g/g-IPSruoAwN-reliable-thai-residential-permit-expert-rtrpe)/[Visa](https://chatgpt.com/g/g-oe6LIL2Tr-reliable-thai-visa-expert-rtve) Expert
 
 ## Contact me
 
