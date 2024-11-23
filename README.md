@@ -47,6 +47,6 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ## Contact me
 
-X: [@w_liu_](https://twitter.com/1arry1iu)
+X: [@1arry1iu](https://twitter.com/1arry1iu)
 
 ![](https://github.com/1arry1iu/everything/blob/main/A_Avatar.png)
