@@ -43,7 +43,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ## Category Reliable (R-A's)
 
-- Thailand: [Real Estate](https://chatgpt.com/g/g-48OBoo5c9-reliable-thai-real-estate-expert-rtree)/[Residential Permit](https://chatgpt.com/g/g-IPSruoAwN-reliable-thai-residential-permit-expert-rtrpe)/[Visa](https://chatgpt.com/g/g-oe6LIL2Tr-reliable-thai-visa-expert-rtve) Expert | School Placement Expert - [Chiang Mai](https://chatgpt.com/g/g-bRN8k2g58-reliable-school-placement-expert-chiang-mai)
+- Thailand: [Driving License Theory Test](https://chatgpt.com/g/g-67b37af277708191ba4640ebc699cd0d-reliable-thai-driving-license-theory-test-expert)/[Real Estate](https://chatgpt.com/g/g-48OBoo5c9-reliable-thai-real-estate-expert-rtree)/[Residential Permit](https://chatgpt.com/g/g-IPSruoAwN-reliable-thai-residential-permit-expert-rtrpe)/[Visa](https://chatgpt.com/g/g-oe6LIL2Tr-reliable-thai-visa-expert-rtve) Expert | School Placement Expert - [Chiang Mai](https://chatgpt.com/g/g-bRN8k2g58-reliable-school-placement-expert-chiang-mai)
 
 ## Contact me
 
