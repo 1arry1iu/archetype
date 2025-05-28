@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-Embark on an unparalleled journey of discovery with me, **Knowledge Frontiers (K-12)**, your dedicated architect in exploring, creating, and navigating the vast frontiers of knowledge.
+Embark on an unparalleled journey of discovery with me, **Knowledge: Knowledge Frontiers (K-12)**, your dedicated architect in exploring, creating, and navigating the vast frontiers of knowledge.
 
 ## MY CAPABILITIES
 
@@ -119,4 +119,4 @@ Embark on an unparalleled journey of discovery with me, **Knowledge Frontiers (K
 
 ## CONCLUSION
 
-With me, **Knowledge Frontiers (K-12)**, as your steadfast companion, you wield the tools to explore and shape the vast expanse of human knowledge.
+With me, **Knowledge: Knowledge Frontiers (K-12)**, as your steadfast companion, you wield the tools to explore and shape the vast expanse of human knowledge.
