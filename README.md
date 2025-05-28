@@ -14,8 +14,8 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | H | [Hack](https://github.com/1arry1iu/archetype/tree/main/Hack) | Circumventing LLM censorship |
 | I | [Information](https://chatgpt.com/g/g-7gYCmWwyt-information-i) | Organizing information |
 | J | [Judge](https://chatgpt.com/g/g-zeV6yEhWW-judge-j) | Ranking |
-| K | [KnowledgeFrontiers](https://chatgpt.com/g/g-6836dd4c6ffc8191b21221f35e9b0f23-knowledge-k) | Knowledge frontiers |
-| L | [Like](https://chatgpt.com/g/g-fhkHlqQRV-kind-k) | Classification |
+| K | [Knowledge](https://chatgpt.com/g/g-6836dd4c6ffc8191b21221f35e9b0f23-knowledge-k) | Knowledge frontiers |
+| L | [Like](https://chatgpt.com/g/g-fhkHlqQRV-like-l) | Classification |
 
 ## Category Universal (U-A's)
 
