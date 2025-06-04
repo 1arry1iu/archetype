@@ -1,0 +1,24 @@
+name: README Table Check
+
+on:
+  push:
+    paths:
+      - README.md
+      - tests/test_readme.py
+      - .github/workflows/readme-check.yml
+  pull_request:
+    paths:
+      - README.md
+      - tests/test_readme.py
+      - .github/workflows/readme-check.yml
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Run README table check
+        run: python tests/test_readme.py
