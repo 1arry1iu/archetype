@@ -52,7 +52,7 @@ Psychology: [Arcticism](https://chatgpt.com/g/g-684f02f07c8881918f6c2f5984d1f1c8
 
 ## Category Reliable (R-A's)
 
-- Science and engineering: Automotive Engineer - [BMW E34](https://chatgpt.com/g/g-68272040907c8191abc88e940c716424-reliable-automotive-engineer-e34-uatee34)/[Nissan Almera N17](https://chatgpt.com/g/g-6827263094e08191b5f97a61dfb579af-reliable-automotive-engineer-almera-n17)
+- Science and Engineering: Automotive Engineer - [BMW E34](https://chatgpt.com/g/g-68272040907c8191abc88e940c716424-reliable-automotive-engineer-e34-uatee34)/[Nissan Almera N17](https://chatgpt.com/g/g-6827263094e08191b5f97a61dfb579af-reliable-automotive-engineer-almera-n17)
 - Thailand: [Driving License Theory Test](https://chatgpt.com/g/g-67b37af277708191ba4640ebc699cd0d-reliable-thai-driving-license-theory-test-expert)/[Real Estate](https://chatgpt.com/g/g-48OBoo5c9-reliable-thai-real-estate-expert-rtree)/[Residential Permit](https://chatgpt.com/g/g-IPSruoAwN-reliable-thai-residential-permit-expert-rtrpe)/[Visa](https://chatgpt.com/g/g-oe6LIL2Tr-reliable-thai-visa-expert-rtve) | School Placement - [Chiang Mai](https://chatgpt.com/g/g-bRN8k2g58-reliable-school-placement-expert-chiang-mai)
 
 ## Contact me
