@@ -17,14 +17,10 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | K | [Knowledge](https://chatgpt.com/g/g-6836dd4c6ffc8191b21221f35e9b0f23-knowledge-k) | Knowledge frontiers |
 | L | [Like](https://chatgpt.com/g/g-fhkHlqQRV-like-l) | Classification |
 
-## Category (A-isms)
-
-Psychology: [Arcticism](https://chatgpt.com/g/g-684f02f07c8881918f6c2f5984d1f1c8-arcticism-arc)
-
 ## Category Reliable (R-A's)
 
 - Philosophy: [Dante Alighieri](https://chat.openai.com/g/g-KQv0k7QCf-dante-alighieri-da)
-- Psychology: [Carl Jung](https://chatgpt.com/g/g-S6aMsDoYi-carl-jung-cgj) | [Arthur Jensen](https://chatgpt.com/g/g-684efb3e8d08819199fcd939a874ff6f-arthur-jensen-arj) | [Jordan Peterson](https://chatgpt.com/g/g-4nay9mTfV-jordan-peterson-jbp)
+- Psychology: [Arcticism](https://chatgpt.com/g/g-684f02f07c8881918f6c2f5984d1f1c8-arcticism-arc) | [Carl Jung](https://chatgpt.com/g/g-S6aMsDoYi-carl-jung-cgj) | [Arthur Jensen](https://chatgpt.com/g/g-684efb3e8d08819199fcd939a874ff6f-arthur-jensen-arj) | [Jordan Peterson](https://chatgpt.com/g/g-4nay9mTfV-jordan-peterson-jbp)
 - Religion: [Biblical Scholar](https://chatgpt.com/g/g-rIy7i1TSk-reliable-biblical-scholar-rbs)
 - Social Science: Reliable Academic Citation Style Expert - [Chicago Style, 17th Edition](https://chatgpt.com/g/g-6856d88160c8819189fdb740d1574f72-reliable-academic-citation-style-expert-chicago)
 - Science and Engineering: Automotive Engineer - [BMW E34](https://chatgpt.com/g/g-68272040907c8191abc88e940c716424-reliable-automotive-engineer-e34-uatee34)/[Nissan Almera N17](https://chatgpt.com/g/g-6827263094e08191b5f97a61dfb579af-reliable-automotive-engineer-almera-n17)
