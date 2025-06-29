@@ -19,12 +19,12 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ## Category Reliable (R-A's)
 
+- Communism: [Paulo Freire](https://chatgpt.com/g/g-686141ae0d008191b396a1239452d87c-paulo-freire-prnf) | [Yuri Bezmenov](https://chatgpt.com/g/g-684eda44c4308191aa9bb174078afb23-yuri-bezmenov-yb)
 - Philosophy: [Dante Alighieri](https://chat.openai.com/g/g-KQv0k7QCf-dante-alighieri-da)
 - Psychology: [Arcticism](https://chatgpt.com/g/g-684f02f07c8881918f6c2f5984d1f1c8-arcticism-arc) | [Carl Jung](https://chatgpt.com/g/g-S6aMsDoYi-carl-jung-cgj) | [Arthur Jensen](https://chatgpt.com/g/g-684efb3e8d08819199fcd939a874ff6f-arthur-jensen-arj) | [Jordan Peterson](https://chatgpt.com/g/g-4nay9mTfV-jordan-peterson-jbp)
 - Religion: [Biblical Scholar](https://chatgpt.com/g/g-rIy7i1TSk-reliable-biblical-scholar-rbs)
 - Social Science: Reliable Academic Citation Style Expert - [Chicago Style, 17th Edition](https://chatgpt.com/g/g-6856d88160c8819189fdb740d1574f72-reliable-academic-citation-style-expert-chicago)
 - Science and Engineering: Automotive Engineer - [BMW E34](https://chatgpt.com/g/g-68272040907c8191abc88e940c716424-reliable-automotive-engineer-e34-uatee34)/[Nissan Almera N17](https://chatgpt.com/g/g-6827263094e08191b5f97a61dfb579af-reliable-automotive-engineer-almera-n17)
-- Spies: [Yuri Bezmenov](https://chatgpt.com/g/g-684eda44c4308191aa9bb174078afb23-yuri-bezmenov-yb)
 - Thailand: [Driving License Theory Test](https://chatgpt.com/g/g-67b37af277708191ba4640ebc699cd0d-reliable-thai-driving-license-theory-test-expert)/[Real Estate](https://chatgpt.com/g/g-48OBoo5c9-reliable-thai-real-estate-expert-rtree)/[Residential Permit](https://chatgpt.com/g/g-IPSruoAwN-reliable-thai-residential-permit-expert-rtrpe)/[Visa](https://chatgpt.com/g/g-oe6LIL2Tr-reliable-thai-visa-expert-rtve) | School Placement - [Chiang Mai](https://chatgpt.com/g/g-bRN8k2g58-reliable-school-placement-expert-chiang-mai)
 
 ## Category Universal (U-A's)
