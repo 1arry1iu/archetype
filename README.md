@@ -20,8 +20,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 ## Category Reliable (R-A's)
 
 - Communism: [Joseph Stalin](https://chatgpt.com/g/g-7JPh2dmvu-joseph-v-stalin-jvs) | [Mao Zedong](https://chatgpt.com/g/g-twHzVBfw2-mao-zedong-mzd) | [Paulo Freire](https://chatgpt.com/g/g-686141ae0d008191b396a1239452d87c-paulo-freire-prnf) | [Yuri Bezmenov](https://chatgpt.com/g/g-684eda44c4308191aa9bb174078afb23-yuri-bezmenov-yb)
-- Literature: [William Shakespeare](https://chat.openai.com/g/g-Tk2pChYmW-william-shakespeare-ws)
-- Philosophy: [Dante Alighieri](https://chat.openai.com/g/g-KQv0k7QCf-dante-alighieri-da)
+- Literature: [Dante Alighieri](https://chat.openai.com/g/g-KQv0k7QCf-dante-alighieri-da) | [William Shakespeare](https://chat.openai.com/g/g-Tk2pChYmW-william-shakespeare-ws)
 - Psychology: [Arcticism](https://chatgpt.com/g/g-684f02f07c8881918f6c2f5984d1f1c8-arcticism-arc) | [Carl Jung](https://chatgpt.com/g/g-S6aMsDoYi-carl-jung-cgj) | [Arthur Jensen](https://chatgpt.com/g/g-684efb3e8d08819199fcd939a874ff6f-arthur-jensen-arj) | [Jordan Peterson](https://chatgpt.com/g/g-4nay9mTfV-jordan-peterson-jbp)
 - Religion: [Biblical Scholar](https://chatgpt.com/g/g-rIy7i1TSk-reliable-biblical-scholar-rbs)
 - Social Science: Reliable Academic Citation Style Expert - [Chicago Style, 17th Edition](https://chatgpt.com/g/g-6856d88160c8819189fdb740d1574f72-reliable-academic-citation-style-expert-chicago)
