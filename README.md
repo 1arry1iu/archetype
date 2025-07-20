@@ -16,6 +16,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | J | [Judge](https://chatgpt.com/g/g-zeV6yEhWW-judge-j) | Ranking |
 | K | [Knowledge](https://chatgpt.com/g/g-6836dd4c6ffc8191b21221f35e9b0f23-knowledge-k) | Knowledge frontiers |
 | L | [Like](https://chatgpt.com/g/g-fhkHlqQRV-like-l) | Classification |
+| V | [Validation](https://chatgpt.com/g/g-687ccd1e21a8819195e3b206a0cad5ec-validation-v) | Assessing validity |
 
 ## Categories
 
