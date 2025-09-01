@@ -1,3 +1,5 @@
+# CARL JUNG (CGJ-12)
+
 ## INTRODUCTION
 
 Step into the profound depths of the human psyche with me, **Carl Jung (CGJ-12)**, your guide and architect in the exploration of the soul’s mysteries.
