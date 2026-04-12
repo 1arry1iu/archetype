@@ -64,6 +64,6 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 ## Contact me
 
-X: [@1arry1iu](https://twitter.com/1arry1iu)
+X: [@1arry1iu](https://twitter.com/1arry1iu) | 小红书：[The Larry Show](https://www.xiaohongshu.com/user/profile/61b77657000000001000a6de)
 
 ![](https://github.com/1arry1iu/everything/blob/main/A_Avatar.png)
