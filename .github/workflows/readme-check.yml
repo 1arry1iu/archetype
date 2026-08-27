@@ -4,11 +4,13 @@ on:
   push:
     paths:
       - README.md
+      - GPTs/**
       - tests/test_readme.py
       - .github/workflows/readme-check.yml
   pull_request:
     paths:
       - README.md
+      - GPTs/**
       - tests/test_readme.py
       - .github/workflows/readme-check.yml
 
