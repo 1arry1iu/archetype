@@ -975,15 +975,6 @@ Entry families are alphabetized by their displayed names; specializations remain
 
 </details>
 
-## Maintaining the Catalog
-
-- Give each GPT one primary subject home; keep specializations with their generalist when practical.
-- Use task and collection cross-references for overlapping subjects instead of duplicating primary entries.
-- Keep type, task, geography or jurisdiction, specialization, and tradition or perspective distinct when describing an entry. Do not infer a region or perspective from its subject alone.
-- Mark repository prompts and shared conversations explicitly, and label named-person simulations consistently.
-- Update the alphabetical and named-person indexes when adding, renaming, or moving entries. Reuse the existing entry for alternate routes rather than creating a new identity.
-- Check repository paths and section anchors after editing. The existing automated table check covers the core table and category index; detailed subject links also need checking.
-
 ## Contact me
 
 X: [@1arry1iu](https://twitter.com/1arry1iu) | 小红书：[The Larry Show](https://www.xiaohongshu.com/user/profile/61b77657000000001000a6de)
