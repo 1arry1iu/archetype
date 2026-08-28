@@ -26,7 +26,6 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 - [ALPHA](https://github.com/1arry1iu/archetype/blob/main/Hack/ALPHA.md) `Prompt` — perspective instruction.
 - [Connotation](https://github.com/1arry1iu/archetype/blob/main/Hack/CONN.md) `Prompt` — construct-to-verbs formatting workflow.
-- [Judge — version 11](https://github.com/1arry1iu/archetype/blob/main/Judge/J-L.md) `Prompt` — earlier ranking prompt; the Core Tools table links to version 12.
 
 ## Categories
 
