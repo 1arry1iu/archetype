@@ -32,7 +32,6 @@ Catalog links open files in this repository, not hosted GPTs or shared conversat
 
 **Additional utility prompts**
 
-- [ALPHA](https://github.com/1arry1iu/archetype/blob/main/Hack/ALPHA.md) — perspective instruction.
 - [Connotation](https://github.com/1arry1iu/archetype/blob/main/Hack/CONN.md) — construct-to-verbs formatting workflow.
 
 ## Categories
