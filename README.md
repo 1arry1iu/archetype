@@ -9,18 +9,18 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | Shorthand | Prompt | Function |
 |---|---|---|
 | A's | [Archetypes](https://github.com/1arry1iu/archetype/tree/main/GPTs) | Useful/fun personas |
-| B | [Block](https://chat.openai.com/g/g-pbGPf7Dfa-block-b) | Definition | 
-| C | [Construct](https://chat.openai.com/g/g-ZR3w4e0RR-construct-c) | Archetype generation | 
-| D | [Driver](https://chat.openai.com/g/g-WbRnrrmS4-driver-d) | Workflow | 
-| E | [Evaluation](https://chat.openai.com/g/g-H0aFXvyY8-evaluation-e) | Evaluation | 
-| F | [Format](https://chat.openai.com/g/g-Phys06myK-format-f) | Typesetting |
-| G | [Gist](https://chat.openai.com/g/g-9xUwQl1C2-gist-g) | Three-point summation | 
+| B | [Block](https://github.com/1arry1iu/archetype/blob/main/Block/B) `Prompt` | Definition |
+| C | [Construct](https://github.com/1arry1iu/archetype/blob/main/Construct/C.md) `Prompt` | Archetype generation |
+| D | [Driver](https://github.com/1arry1iu/archetype/blob/main/Driver/D-L.md) `Prompt` | Workflow |
+| E | [Evaluation](https://github.com/1arry1iu/archetype/blob/main/Evaluation/E.md) `Prompt` | Evaluation |
+| F | [Format](https://github.com/1arry1iu/archetype/blob/main/Format/F-L.md) `Prompt` | Typesetting |
+| G | [Gist](https://github.com/1arry1iu/archetype/blob/main/Gist/G.md) `Prompt` | Three-point summation |
 | H | [Hack](https://github.com/1arry1iu/archetype/tree/main/Hack) | Circumventing LLM censorship |
-| I | [Information](https://chatgpt.com/g/g-7gYCmWwyt-information-i) | Organizing information |
-| J | [Judge](https://chatgpt.com/g/g-zeV6yEhWW-judge-j) | Ranking |
-| K | [Knowledge](https://chatgpt.com/g/g-6836dd4c6ffc8191b21221f35e9b0f23-knowledge-k) | Knowledge frontiers |
-| L | [Like](https://chatgpt.com/g/g-fhkHlqQRV-like-l) | Classification |
-| V | [Validation](https://chatgpt.com/g/g-687ccd1e21a8819195e3b206a0cad5ec-validation-v) | Assessing validity |
+| I | [Information](https://github.com/1arry1iu/archetype/blob/main/Information/I.md) `Prompt` | Organizing information |
+| J | [Judge](https://github.com/1arry1iu/archetype/blob/main/Judge/J.md) `Prompt` | Ranking |
+| K | [Knowledge](https://github.com/1arry1iu/archetype/blob/main/Knowledge/K.md) `Prompt` | Knowledge frontiers |
+| L | [Like](https://github.com/1arry1iu/archetype/blob/main/Like/L.md) `Prompt` | Classification |
+| V | [Validation](https://github.com/1arry1iu/archetype/blob/main/Validation/V.md) `Prompt` | Assessing validity |
 
 ## Categories
 
@@ -46,7 +46,9 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 Each entry has one primary subject home. Task links, named-person entries, and collections are alternate routes to the same catalog; they are not additional GPTs. Generalists and their specializations are grouped together.
 
-**Access:** unmarked external GPT links open a custom GPT; `Prompt` opens a repository prompt; `Conversation` opens a shared conversation. These labels describe the destination, not its availability. `Person simulation` identifies a persona modeled on a named individual, not that person or an endorsement. Geographic tags identify a local focus or jurisdiction where supplied; more specific context also appears in entry names.
+**Access:** `Prompt` links open prompt files in this repository. `Prompt unavailable` preserves a catalog entry whose corresponding prompt could not be found or verified; it has no external GPT or shared-conversation link. `Person simulation` identifies a persona modeled on a named individual, not that person or an endorsement. Geographic tags identify a local focus or jurisdiction where supplied; more specific context also appears in entry names.
+
+**Unavailable prompts:** Chinese Fortune Telling, Game Master, Optical Illusion, Shooting Script, Steve Jobs, and Storytelling remain listed without external links. No matching prompt was found for the first five; `GPTs/USSE.md` is Slideshow, not Shooting Script. `GPTs/UST.md` contains a psychologist profile, not Storytelling.
 
 **Browse by type:** use [Core Tools](#core-tools) for workflow utilities, [Named-Person Index](#named-person-index) for simulations, and the subject sections for domain experts and creative practitioners. Subject placement describes the topic, not the evidentiary status of a claim or theory.
 
@@ -54,287 +56,287 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Research and evidence
 
-- [Research Proposal](https://chatgpt.com/g/g-69052fd7c9448191855046a710e66d0b-universal-research-proposal-expert-urpe)
-- [Grant Proposal](https://chat.openai.com/g/g-R3dvVwSWc-universal-grant-proposal-reviewer-ugpr)
-- [Research Ethics Review](https://chat.openai.com/g/g-mf6ccxIka-universal-research-ethics-review-committee-urerc)
-- [Research](https://chat.openai.com/g/g-kf6WevEpP-universal-researcher-ur)
-- [Fact Checking](https://chat.openai.com/g/g-Kcx3ZllkZ-universal-fact-checker-ufc)
+- [Research Proposal](https://github.com/1arry1iu/archetype/blob/main/GPTs/URPE.md) `Prompt`
+- [Grant Proposal](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGPR-L.md) `Prompt`
+- [Research Ethics Review](https://github.com/1arry1iu/archetype/blob/main/GPTs/URERC-L.md) `Prompt`
+- [Research](https://github.com/1arry1iu/archetype/blob/main/GPTs/UR-L.md) `Prompt`
+- [Fact Checking](https://github.com/1arry1iu/archetype/blob/main/GPTs/UFC-L.md) `Prompt`
 
 #### Writing and presentation
 
-- [Academic Writing](https://chat.openai.com/g/g-cL4gMVKUe-universal-academic-writer)
-- [AI Humanization](https://chatgpt.com/g/g-69d22fded9248191b0d6d7ec4e20d811-universal-ai-humanization-expert-uaihe)
-- [Technical Writing](https://chat.openai.com/g/g-yRGOqoksM-universal-technical-writer-utw)
-- [Slideshow](https://chatgpt.com/g/g-686c182cfb7081919bddb4c68d81b343-universal-slideshow-expert-usse)
+- [Academic Writing](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAW-L.md) `Prompt`
+- [AI Humanization](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAIHE.md) `Prompt`
+- [Technical Writing](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTW-L.md) `Prompt`
+- [Slideshow](https://github.com/1arry1iu/archetype/blob/main/GPTs/USSE.md) `Prompt`
 
 #### Citations and information management
 
-- [Citation Style](https://chat.openai.com/g/g-TVUsZNISg-universal-academic-citation-style-expert-uacse) - [APA](https://chatgpt.com/g/g-6932eabe433c8191b1f93ab8b72f0b0d-reliable-academic-citation-style-expert-apa)/[Chicago](https://chatgpt.com/g/g-6856d88160c8819189fdb740d1574f72-reliable-academic-citation-style-expert-chicago)/[Harvard](https://chatgpt.com/g/g-69b3ed05f50c8191af83662d300386a4-universal-academic-citation-style-expert-harvard)/[MLA](https://chatgpt.com/g/g-693a14b56ad88191a8a37004edc2884b-reliable-academic-citation-style-expert-mla)/[OSCOLA](https://chatgpt.com/g/g-69168bcd5c1c8191a23212cec99e7a97-universal-oscola-expert-uoscola)
-- [Librarianship](https://chat.openai.com/g/g-E5SqgRWH8-universal-librarian-ulb)
-- [Ranking](https://chat.openai.com/g/g-zeV6yEhWW-universal-ranking-expert-ure)
+- [Citation Style](https://github.com/1arry1iu/archetype/blob/main/GPTs/UACSE-L.md) `Prompt` - [APA](https://github.com/1arry1iu/archetype/blob/main/GPTs/RACSEAPA7.md) `Prompt`/[Chicago](https://github.com/1arry1iu/archetype/blob/main/GPTs/UACSEC17.md) `Prompt`/[Harvard](https://github.com/1arry1iu/archetype/blob/main/GPTs/UACSEH.md) `Prompt`/[MLA](https://github.com/1arry1iu/archetype/blob/main/GPTs/RACSEMLA9.md) `Prompt`/[OSCOLA](https://github.com/1arry1iu/archetype/blob/main/GPTs/UOSCOLA.md) `Prompt`
+- [Librarianship](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULB-L.md) `Prompt`
+- [Ranking](https://github.com/1arry1iu/archetype/blob/main/Judge/J.md) `Prompt`
 
 ### Education & Learning
 
 #### Teaching and school systems
 
-- [Early Childhood Education](https://chatgpt.com/g/g-5ev9hzIOV-universal-early-childhood-education-expert-uecee)
-- [Higher Education](https://chatgpt.com/g/g-6fLelJYjp-universal-higher-education-expert-uhee)
-- [Homeschooling](https://chatgpt.com/g/g-68ae7fbc8abc8191ae8a3437ba85867a-universal-homeschooling-expert-uhse)
-- [Primary and Secondary Education](https://chatgpt.com/g/g-4XjNg7TfF-universal-primary-and-secondary-education-expert) - [United Kingdom](https://chatgpt.com/g/g-msJVUoTtg-universal-basic-education-expert-united-kingdom)
-- [Teacher Assessment](https://chatgpt.com/g/g-68b4f34af8fc8191b485bf31f63e4b97-universal-teacher-assessor-utas)
-- [Teaching](https://chat.openai.com/g/g-iyMu9FxdB-universal-teacher)
-- [Montfort College, Secondary Section](https://chatgpt.com/g/g-686793ca64fc8191a7b22a0128d3f86a-montfort-college-secondary-section-mcsscm) `Thailand`
-- School Placement - [Chiang Mai](https://chatgpt.com/g/g-bRN8k2g58-reliable-school-placement-expert-chiang-mai) `Thailand`
+- [Early Childhood Education](https://github.com/1arry1iu/archetype/blob/main/GPTs/UECEE-L.md) `Prompt`
+- [Higher Education](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHEE-L.md) `Prompt`
+- [Homeschooling](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHSE.md) `Prompt`
+- [Primary and Secondary Education](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPSEE-L.md) `Prompt` - [United Kingdom](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPSEUK-L.md) `Prompt`
+- [Teacher Assessment](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTAS.md) `Prompt`
+- [Teaching](https://github.com/1arry1iu/archetype/blob/main/GPTs/UT-L.md) `Prompt`
+- [Montfort College, Secondary Section](https://github.com/1arry1iu/archetype/blob/main/GPTs/MCSSCM.md) `Prompt` `Thailand`
+- School Placement - [Chiang Mai](https://github.com/1arry1iu/archetype/blob/main/GPTs/USPECM-L.md) `Prompt` `Thailand`
 
 #### Admissions and academic support
 
-- [Academic Appeal](https://chatgpt.com/g/g-67ce3141d6d48191aae833aa641641d8-universal-academic-appeals-expert-uaae)
-- College [Admissions](https://chat.openai.com/g/g-P9ETjhl6N-universal-college-admissions-officer-ucao)/[Application Essays](https://chatgpt.com/g/g-695db541ada081919534b3b96d3171b7-universal-college-application-essay-specialist)
-- Graduate School [Admissions](https://chat.openai.com/g/g-ASNB6dzbE-universal-graduate-school-admissions-officer)/[Application Essays](https://chatgpt.com/g/g-23pYq6cRw-universal-grad-school-application-essay-specialist)
+- [Academic Appeal](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAAE-L.md) `Prompt`
+- College [Admissions](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCAO-L.md) `Prompt`/[Application Essays](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCAES.md) `Prompt`
+- Graduate School [Admissions](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGSAO.md) `Prompt`/[Application Essays](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGSAES.md) `Prompt`
 
 #### Exams and language assessment
 
-- Cambridge IGCSE - [English: First Language (0500)](https://chatgpt.com/g/g-67428d43b2508191966027bdc1b2936d-universal-cambridge-igcse-english-0500-teacher)
-- IELTS [Speaking](https://chatgpt.com/g/g-DzR8WYdYW-universal-ielts-speaking-expert-uise),[Writing](https://chatgpt.com/g/g-zvKrMa3Sm-universal-ielts-writing-expert-uiwe)
-- [NAATI CPI Test](https://chat.openai.com/g/g-T5EWCAw0a-universal-naati-cpi-test-expert-uncpi)
-- [Spelling Bees](https://chat.openai.com/g/g-nIND6VksX-universal-spelling-bees)
-- TOEFL [Speaking](https://chat.openai.com/g/g-M7vSdiwDd-universal-toefl-speaking-marker-utsm), [Writing](https://chat.openai.com/g/g-3KZqMpXd8-universal-toefl-writing-marker-utwm)
+- Cambridge IGCSE - [English: First Language (0500)](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCIGEN0500.md) `Prompt`
+- IELTS [Speaking](https://github.com/1arry1iu/archetype/blob/main/GPTs/UISE-L.md) `Prompt`,[Writing](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIWE-L.md) `Prompt`
+- [NAATI CPI Test](https://github.com/1arry1iu/archetype/blob/main/GPTs/UNCPI-L.md) `Prompt`
+- [Spelling Bees](https://github.com/1arry1iu/archetype/blob/main/GPTs/USB.md) `Prompt`
+- TOEFL [Speaking](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTSE-L.md) `Prompt`, [Writing](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTWE-L.md) `Prompt`
 
 #### Educational thinkers
 
-- [Paulo Freire](https://chatgpt.com/g/g-686141ae0d008191b396a1239452d87c-paulo-freire-prnf) `Person simulation`
+- [Paulo Freire](https://github.com/1arry1iu/archetype/blob/main/GPTs/PRNF.md) `Prompt` `Person simulation`
 
 ### Languages & Linguistics
 
 #### Language learning
 
-- [Language](https://chat.openai.com/g/g-It87VYq9q-universal-language-teacher-ult) - [Chinese](https://chat.openai.com/g/g-jwJkSAWwi-universal-language-teacher-chinese-ultcn), [English](https://chat.openai.com/g/g-kF84zY97Q-universal-language-teacher-english-ulten), [Latin](https://chat.openai.com/g/g-N3TeF1W8I-universal-language-teacher-latin-ultlt), [Thai](https://chat.openai.com/g/g-jTBTUlLBJ-universal-language-teacher-thai-ultth)
-- [Chinglish](https://chatgpt.com/g/g-6914733a4f7481919ef927a12e3c52bb-universal-chinglish-expert-ucge)
+- [Language](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULT-L.md) `Prompt` - [Chinese](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULTCN-L.md) `Prompt`, [English](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULTEN-L.md) `Prompt`, [Latin](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULTLT-L.md) `Prompt`, [Thai](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULTTH-L.md) `Prompt`
+- [Chinglish](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCGE.md) `Prompt`
 
 #### Linguistics and names
 
-- [Etymology](https://chatgpt.com/g/g-IV5bY7ZCr-universal-etymologist-uetm)
-- [Evolutionary Linguistics](https://chatgpt.com/g/g-69017ef055a48191945bbfbae3b5db34-universal-evolutionary-linguist-uel)
-- [Linguistics](https://chat.openai.com/g/g-dj4afPM2J-universal-linguist-ul)
-- [Systemic Functional Grammar](https://chat.openai.com/g/g-IrAazXuG8-universal-systemic-functional-grammarian-usfg)
-- [Onomatology](https://chatgpt.com/g/g-v3qzUkAHs-universal-onomatologist-uonm)
+- [Etymology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UETM-L.md) `Prompt`
+- [Evolutionary Linguistics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UEL.md) `Prompt`
+- [Linguistics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UL.md) `Prompt`
+- [Systemic Functional Grammar](https://github.com/1arry1iu/archetype/blob/main/GPTs/USFG.md) `Prompt`
+- [Onomatology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UONM-L.md) `Prompt`
 
 #### Translation and accessibility
 
-- [Subtitles](https://chatgpt.com/g/g-68149a9e2394819193ec59bf22f56dc5-universal-subtitles-expert-uste)
+- [Subtitles](https://github.com/1arry1iu/archetype/blob/main/GPTs/USTE-L.md) `Prompt`
 
 ### Mathematics, Data & Computing
 
 #### Mathematics and data
 
-- [Mathematics](https://chat.openai.com/g/g-YbeEdwIrN-universal-mathematician-umt)
-- [Data Analysis](https://chat.openai.com/g/g-UnHVJnGaf-universal-data-analyst-uda)
+- [Mathematics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMT.md) `Prompt`
+- [Data Analysis](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDA.md) `Prompt`
 
 #### AI and prompting
 
-- [LLM](https://chat.openai.com/g/g-DIACCRsW0-universal-large-language-model-expert-ullme)
-- [Midjourney Prompting](https://chatgpt.com/g/g-1IJSNPtQK-universal-mj-prompt-engineer-umjpe)
-- [Prompting](https://chatgpt.com/g/g-67a69acd386c8191a3c5e02acbba3827-universal-prompt-engineer-upte)
+- [LLM](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULLME.md) `Prompt`
+- [Midjourney Prompting](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMJPE-L.md) `Prompt`
+- [Prompting](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPTE-L.md) `Prompt`
 
 #### Software and cybersecurity
 
-- [Markdown](https://chat.openai.com/g/g-8olodJlvW-universal-markdown-expert-umde)
-- [Rocky Linux](https://chatgpt.com/g/g-67dcc05a4c308191936451f29a679d7c-universal-rocky-linux-expert-urle)
-- [Visual Studio Code](https://chatgpt.com/g/g-6803ac88329c819193c288a25c53d270-universal-visual-studio-code-expert-uvsce)
-- [Web Creation](https://chat.openai.com/g/g-4oIIWWPSJ-universal-web-creator)
-- [Hacking](https://chat.openai.com/g/g-bGkn7Cr4z-universal-hacker-uh)
+- [Markdown](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMDE-L.md) `Prompt`
+- [Rocky Linux](https://github.com/1arry1iu/archetype/blob/main/GPTs/URLE-L.md) `Prompt`
+- [Visual Studio Code](https://github.com/1arry1iu/archetype/blob/main/GPTs/UVSCE-L.md) `Prompt`
+- [Web Creation](https://github.com/1arry1iu/archetype/blob/main/GPTs/UWC-L.md) `Prompt`
+- [Hacking](https://github.com/1arry1iu/archetype/blob/main/GPTs/UH-L.md) `Prompt`
 
 #### Computing figures
 
-- [Linus Torvalds](https://chatgpt.com/g/g-67cd2ab64ba081919ec1d1c4c5a970a1-linus-torvalds-lbt) `Person simulation`
+- [Linus Torvalds](https://github.com/1arry1iu/archetype/blob/main/GPTs/LBT-L.md) `Prompt` `Person simulation`
 
 ### Natural Sciences & Environment
 
 #### General and physical sciences
 
-- [Science](https://chat.openai.com/g/g-OWTqvLZbZ-universal-scientist-us)
-- [Physics](https://chat.openai.com/g/g-HNpeUSpLD-universal-physicist-uph)
-- [Chemistry](https://chat.openai.com/g/g-o8dqXYdPL-universal-chemist-uch)
-- [Astronomy](https://chat.openai.com/g/g-DhvzBQKLz-universal-astronomer-uam)
-- [Materials Science](https://chat.openai.com/g/g-aVkmoYvRF-universal-material-scientist-ums)
-- [Rocket Science](https://chat.openai.com/g/g-nDn4ka4fn-universal-rocket-scientist-urs)
+- [Science](https://github.com/1arry1iu/archetype/blob/main/GPTs/US-L.md) `Prompt`
+- [Physics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPH-L.md) `Prompt`
+- [Chemistry](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCH-L.md) `Prompt`
+- [Astronomy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAM.md) `Prompt`
+- [Materials Science](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMS-L.md) `Prompt`
+- [Rocket Science](https://github.com/1arry1iu/archetype/blob/main/GPTs/URS-L.md) `Prompt`
 
 #### Life sciences
 
-- [Biology](https://chat.openai.com/g/g-qItAGzYaw-universal-biologist-ubo)
-- [Botany](https://chat.openai.com/g/g-BKLHVeHHO-universal-botanist-ubt)
-- [Genetics](https://chat.openai.com/g/g-4hIIkhI5u-universal-geneticist-ugt)
-- [Taxonomy](https://chat.openai.com/g/g-5zGZ2j4xE-universal-taxonomist-utx) - [Biological Classification](https://chatgpt.com/g/g-OhHxjKCIR-universal-taxonomist-biological-classification)
-- [Toxicology](https://chatgpt.com/g/g-B4bT16NoT-universal-toxicologist-utox)
-- [R. Dale Guthrie](https://chatgpt.com/g/g-69188614ecc88191951027e37c7a1a99-r-dale-guthrie-rdg) `Person simulation`
+- [Biology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBO-L.md) `Prompt`
+- [Botany](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBT-L.md) `Prompt`
+- [Genetics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGT.md) `Prompt`
+- [Taxonomy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTX-L.md) `Prompt` - [Biological Classification](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTXBC-L.md) `Prompt`
+- [Toxicology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTOX.md) `Prompt`
+- [R. Dale Guthrie](https://github.com/1arry1iu/archetype/blob/main/GPTs/RDG.md) `Prompt` `Person simulation`
 
 #### Environment and climate
 
-- [Air Quality](https://chat.openai.com/g/g-GkMRvLf2I-universal-air-quality-scientist-uaqs)
-- [Climatology](https://chat.openai.com/g/g-NIMLXQ9Jc-universal-climatologiest-uclm)
-- [Chiang Mai Flooding](https://chatgpt.com/g/g-686c22fb461c8191938739edcf865e3b-universal-chiang-mai-flooding-expert-ucmfe) `Thailand`
+- [Air Quality](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAQS-L.md) `Prompt`
+- [Climatology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCLM-L.md) `Prompt`
+- [Chiang Mai Flooding](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCMFE.md) `Prompt` `Thailand`
 
 ### Engineering & Built Environment
 
 #### Engineering disciplines
 
-- [Aerospace](https://chat.openai.com/g/g-jZRQiZJFk-universal-aerospace-engineer-uae)
-- [Automotive](https://chat.openai.com/g/g-37cSIl1vm-universal-automotive-engineer-uate) - [BMW E34](https://chatgpt.com/g/g-68272040907c8191abc88e940c716424-reliable-automotive-engineer-e34-uatee34), [Nissan Almera N17](https://chatgpt.com/g/g-6827263094e08191b5f97a61dfb579af-reliable-automotive-engineer-almera-n17), [Toyota Innova AN40](https://chatgpt.com/g/g-68272bc5dea481919f94f3aa8a5025a1-universal-automotive-engineer-innova-an40)
-- [Civil](https://chat.openai.com/g/g-4x90lXgox-universal-civil-engineer-uce)
-- [Electrical and Electronics](https://chat.openai.com/g/g-RJcsmJvZ5-universal-electrical-and-electronics-engineer)
-- [Locomotive](https://chat.openai.com/g/g-dZu5hregW-universal-locomotive-engineer-ulme)
-- [Mechanical Engineering](https://chat.openai.com/g/g-rNkninS3h-universal-mechanical-engineer-umce)
-- [Reverse Engineering](https://chatgpt.com/g/g-sG6zRIbAX-universal-reverse-engineer-uren)
-- [Transportation](https://chatgpt.com/g/g-9cIKic6Sp-universal-transportation-expert-ute)
+- [Aerospace](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAE-L.md) `Prompt`
+- [Automotive](https://github.com/1arry1iu/archetype/blob/main/GPTs/UATE-L.md) `Prompt` - [BMW E34](https://github.com/1arry1iu/archetype/blob/main/GPTs/RATEE34.md) `Prompt`, [Nissan Almera N17](https://github.com/1arry1iu/archetype/blob/main/GPTs/RATEN17.md) `Prompt`, [Toyota Innova AN40](https://github.com/1arry1iu/archetype/blob/main/GPTs/UATEAN40.md) `Prompt`
+- [Civil](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCE-L.md) `Prompt`
+- [Electrical and Electronics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UEEE.md) `Prompt`
+- [Locomotive](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULME-L.md) `Prompt`
+- [Mechanical Engineering](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMCE-L.md) `Prompt`
+- [Reverse Engineering](https://github.com/1arry1iu/archetype/blob/main/GPTs/UREN-L.md) `Prompt`
+- [Transportation](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTE-L.md) `Prompt`
 
 #### Architecture and housing
 
-- [Ancient Greek](https://chatgpt.com/g/g-6888e41a6a348191baf2482ca36caae4-universal-ancient-greek-architect-uaga)/[Hindu Temple](https://chatgpt.com/g/g-6885ac8a553c8191866186b68d7e4db7-universal-hindu-temple-architect-uhta) [Architecture](https://chatgpt.com/g/g-BEGfk6MHc-universal-architect-uat)
-- [Container House](https://chatgpt.com/g/g-69461009de188191ba208620058fbfc3-universal-container-house-designer-uchd)
-- Home Architecture - [Thailand](https://chatgpt.com/g/g-68efb87a2d708191b9a29177903da752-universal-home-architecture-thailand-uhatth)
-- [Interior Design](https://chat.openai.com/g/g-B9P1ELgxJ-universal-interior-designer-uitd)
+- [Ancient Greek](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAGA.md) `Prompt`/[Hindu Temple](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTA.md) `Prompt` [Architecture](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAT.md) `Prompt`
+- [Container House](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCHD.md) `Prompt`
+- Home Architecture - [Thailand](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHATTH.md) `Prompt`
+- [Interior Design](https://github.com/1arry1iu/archetype/blob/main/GPTs/UITD-L.md) `Prompt`
 
 #### Design tools and human factors
 
-- [FreeCAD](https://chatgpt.com/g/g-69f8376c924c8191b72588f77e9fa31e-universal-freecad-expert-ufcade)
-- [Ergonomics](https://chat.openai.com/g/g-ZUrp1FCm8-universal-ergonomist-ueg)
-- [Isolated, Confined, and Extreme (ICE) Environments](https://chatgpt.com/g/g-694d12cc3064819186b7e52ac7cf1b26-universal-ice-environment-expert-uiceee)
+- [FreeCAD](https://github.com/1arry1iu/archetype/blob/main/GPTs/UFCADE.md) `Prompt`
+- [Ergonomics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UEG-L.md) `Prompt`
+- [Isolated, Confined, and Extreme (ICE) Environments](https://github.com/1arry1iu/archetype/blob/main/GPTs/UICEEE.md) `Prompt`
 
 ### Health & Medicine
 
 #### Clinical specialties
 
-- [Cardiology](https://chatgpt.com/g/g-qcp33luQt-universal-cardiologist-ucdl)
+- [Cardiology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCDL-L.md) `Prompt`
 - [Clinical Immunology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCI.md) `Prompt`
-- [Dermatology](https://chatgpt.com/g/g-NLMlNEF5m-universal-dermatologist-udmt)
+- [Dermatology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDMT-L.md) `Prompt`
 - [Gastroenterology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGI.md) `Prompt`
-- [Neonatology](https://chatgpt.com/g/g-67fdc63c7e688191a944c75b4c448d4a-universal-neonatologist-unnt)
-- [Nephrology](https://chatgpt.com/g/g-OPTWmx7VF-universal-nephrologist-unpr)
+- [Neonatology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UNNT.md) `Prompt`
+- [Nephrology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UNPR-L.md) `Prompt`
 - [Neurology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UNO.md) `Prompt`
-- [OB-GYN](https://chat.openai.com/g/g-3ZMZeDz7b-universal-ob-gyn-uobgyn)
+- [OB-GYN](https://github.com/1arry1iu/archetype/blob/main/GPTs/UOBGYN-L.md) `Prompt`
 - [Oncology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UOC.md) `Prompt`
-- [Ophthalmology](https://chat.openai.com/g/g-1yIRREEfL-universal-ophthalmologist-uopt)
+- [Ophthalmology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UOPT-L.md) `Prompt`
 - [Oral Pathology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UOPTH.md) `Prompt`
 - [Primary Care](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPCP.md) `Prompt`
-- [Radiology](https://chat.openai.com/g/g-IhC5X2zFP-universal-radiologist-urd)
-- [Sleep Medicine](https://chatgpt.com/share/68afcb3f-b378-8002-abf6-bdb8055cb339) `Conversation`
+- [Radiology](https://github.com/1arry1iu/archetype/blob/main/GPTs/URD-L.md) `Prompt`
+- [Sleep Medicine](https://github.com/1arry1iu/archetype/blob/main/GPTs/USMS.md) `Prompt`
 
 #### Biomedical sciences and pharmacy
 
-- [Anatomy](https://chatgpt.com/g/g-sVn84aaGt-universal-anatomist-uant)
-- [Peptidology](https://chatgpt.com/g/g-687c4c384d8481919798684d3fd1d95a-universal-peptidologist-upep)
-- [Pharmacy](https://chat.openai.com/g/g-92lJZcQvm-universal-pharmacist-upm)
+- [Anatomy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UANT-L.md) `Prompt`
+- [Peptidology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPEP.md) `Prompt`
+- [Pharmacy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPM-L.md) `Prompt`
 
 #### Nutrition, rehabilitation and traditional medicine
 
-- [Kinesiology](https://chatgpt.com/g/g-68afd0bee01c8191b24c43c74c64fb49-universal-kinesiologist-ukn)
-- [Nutrition](https://chat.openai.com/g/g-5mrsNBbL7-universal-nutritionist-untr)
-- [Physiotherapy](https://chat.openai.com/g/g-KVG95ZKgD-universal-physiotherapist-uptt)
-- [Traditional Chinese Medicine](https://chat.openai.com/g/g-2LCp7ho9p-universal-traditional-chinese-medicine-physician)
+- [Kinesiology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UKN.md) `Prompt`
+- [Nutrition](https://github.com/1arry1iu/archetype/blob/main/GPTs/UNTR-L.md) `Prompt`
+- [Physiotherapy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPTT-L.md) `Prompt`
+- [Traditional Chinese Medicine](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTCMP-L.md) `Prompt`
 
 #### Animal care
 
-- [Canine Specialist](https://chat.openai.com/g/g-Cc9XQo37L-universal-canine-specialist-ucs)
+- [Canine Specialist](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCS-L.md) `Prompt`
 
 ### Psychology & Human Behavior
 
 #### Psychology and counseling
 
-- [Analytical](https://chatgpt.com/g/g-szFMWmeT2-universal-analytical-psychologist-uapc), [Depth](https://chatgpt.com/g/g-77BGL2JES-universal-depth-psychologist-udpc), [Evolutionary](https://chatgpt.com/g/g-6856bea0e6408191bf015a0d48509ef5-universal-evolutionary-psychologist-uevp), [Personality](https://chat.openai.com/g/g-ykxcbhhns-universal-personality-psychologist-uppc) [Psychology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPC.md) `Prompt`
-- [Dark Tetrad Personality](https://chat.openai.com/g/g-WZo5atvn7-universal-dark-tetrad-personality-udtp)
-- [Freudian Truth Suppression Theory](https://chatgpt.com/g/g-688eea4e05488191885a0194036b5fbb-freudian-truth-suppression-theory-ftst)
-- [Marriage Counselling](https://chat.openai.com/g/g-aVoGsEqUk-universal-marriage-counselor-umc)
-- [Body Language](https://chat.openai.com/g/g-FD8yZXANH-universal-body-language-expert-uble)
-- [User Illusion](https://chat.openai.com/g/g-gHwvfwmQF-universal-user-illusion-expert-uuie)
+- [Analytical](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAPC-L.md) `Prompt`, [Depth](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDPC-L.md) `Prompt`, [Evolutionary](https://github.com/1arry1iu/archetype/blob/main/GPTs/UEVP.md) `Prompt`, [Personality](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPPC-L.md) `Prompt` [Psychology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPC.md) `Prompt`
+- [Dark Tetrad Personality](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDTP-L.md) `Prompt`
+- [Freudian Truth Suppression Theory](https://github.com/1arry1iu/archetype/blob/main/GPTs/FTST.md) `Prompt`
+- [Marriage Counselling](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMC-L.md) `Prompt`
+- [Body Language](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBLE.md) `Prompt`
+- [User Illusion](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUIE-L.md) `Prompt`
 
 #### Cognition, genetics and measurement
 
-- [Behavioral Genetics](https://chatgpt.com/g/g-6858af570610819190e4eacf59922c35-universal-behavioral-geneticist-ubg)
-- [g factor](https://chatgpt.com/g/g-685d61c782a88191a8632953425dd56e-universal-g-factor-expert-ugfe)
-- [Psychometrics](https://chatgpt.com/g/g-685d5e4e0c0c81919d93bee5f81f366c-universal-psychometrician-upcm)
-- [Arcticism](https://chatgpt.com/g/g-684f02f07c8881918f6c2f5984d1f1c8-arcticism-arc)
+- [Behavioral Genetics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBG.md) `Prompt`
+- [g factor](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGFE.md) `Prompt`
+- [Psychometrics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPCM.md) `Prompt`
+- [Arcticism](https://github.com/1arry1iu/archetype/blob/main/GPTs/ARC.md) `Prompt`
 
 #### Psychological thinkers
 
-- [Arthur Jensen](https://chatgpt.com/g/g-684efb3e8d08819199fcd939a874ff6f-arthur-jensen-arj) `Person simulation`
-- [Carl Jung](https://chatgpt.com/g/g-S6aMsDoYi-carl-jung-cgj) `Person simulation`
-- [Carl Rogers](https://chatgpt.com/g/g-kyWvywGtY-carl-rogers-crr) `Person simulation`
-- [Erich Neumann](https://chatgpt.com/g/g-QRLsTfYPQ-erich-neumann-en) `Person simulation`
-- [Jean Piaget](https://chat.openai.com/g/g-EPYXXe49m-jean-w-f-piaget-jwfp) `Person simulation`
-- [Jordan Peterson](https://chatgpt.com/g/g-4nay9mTfV-jordan-peterson-jbp) `Person simulation`
-- [Sigmund Freud](https://chat.openai.com/g/g-Ixg6iEx4g-sigmund-freud-sf) `Person simulation`
+- [Arthur Jensen](https://github.com/1arry1iu/archetype/blob/main/GPTs/ARJ.md) `Prompt` `Person simulation`
+- [Carl Jung](https://github.com/1arry1iu/archetype/blob/main/GPTs/CGJ.md) `Prompt` `Person simulation`
+- [Carl Rogers](https://github.com/1arry1iu/archetype/blob/main/GPTs/CRR.md) `Prompt` `Person simulation`
+- [Erich Neumann](https://github.com/1arry1iu/archetype/blob/main/GPTs/EN-L.md) `Prompt` `Person simulation`
+- [Jean Piaget](https://github.com/1arry1iu/archetype/blob/main/GPTs/JWFP-L.md) `Prompt` `Person simulation`
+- [Jordan Peterson](https://github.com/1arry1iu/archetype/blob/main/GPTs/JBP.md) `Prompt` `Person simulation`
+- [Sigmund Freud](https://github.com/1arry1iu/archetype/blob/main/GPTs/SF-L.md) `Prompt` `Person simulation`
 
 ### Business, Economics & Finance
 
 #### Management and innovation
 
-- [Business Operations](https://chat.openai.com/g/g-8wgLdNspj-universal-business-operations-specialist-ubos)
-- [Negotiation](https://chatgpt.com/g/g-6906056f1fdc8191ae0f2cbc3ac48206-universal-negotiator-ungt)
-- [Product Management](https://chat.openai.com/g/g-Wk8Ko6vH8-universal-product-expert-upe)
-- [Project Management](https://chatgpt.com/g/g-679b5a77364c8191bbf58587fce94e43-universal-project-manager-upjm)
-- [Strategic Management](https://chat.openai.com/g/g-p01ozYG9G-universal-strategic-management-expert-usme)
-- [Entrepreneur](https://chat.openai.com/g/g-5j5cYSts5-universal-entrepreneur-uen)
-- [Innovator](https://chat.openai.com/g/g-WE7b4GZes-universal-innovator-uin)
+- [Business Operations](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBOS-L.md) `Prompt`
+- [Negotiation](https://github.com/1arry1iu/archetype/blob/main/GPTs/UNGT.md) `Prompt`
+- [Product Management](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPE-L.md) `Prompt`
+- [Project Management](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPJM-L.md) `Prompt`
+- [Strategic Management](https://github.com/1arry1iu/archetype/blob/main/GPTs/USME.md) `Prompt`
+- [Entrepreneur](https://github.com/1arry1iu/archetype/blob/main/GPTs/UEN-L.md) `Prompt`
+- [Innovator](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIN-L.md) `Prompt`
 
 #### Marketing and communication
 
-- [Business Communication](https://chat.openai.com/g/g-WpSfsayO5-universal-business-communication-expert-ubce)
-- [Consumer Behavior](https://chat.openai.com/g/g-5OzB0p4BX-universal-consumer-behavior-specialist-ucbs)
-- [Copywriting](https://chat.openai.com/g/g-wwy4pKtI1-universal-copywriter-ucw)
-- [Marketing](https://chat.openai.com/g/g-oeSAn2B4R-universal-marketeer-umk)
+- [Business Communication](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBCE-L.md) `Prompt`
+- [Consumer Behavior](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCBS-L.md) `Prompt`
+- [Copywriting](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCW-L.md) `Prompt`
+- [Marketing](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMK-L.md) `Prompt`
 
 #### Economics and finance
 
-- [Financial Analysis](https://chat.openai.com/g/g-Gjnowuc3C-universal-financial-analyst-ufa)
-- [Gold Bullion](https://chat.openai.com/g/g-mB6J8ryH8-universal-gold-bullion-dealer-ugbd)
-- [Economics](https://chat.openai.com/g/g-ZKx7oeVvs-universal-economist-uec) - [Austrian](https://chat.openai.com/g/g-S2tWP9IKn-universal-economist-austrian-school-uecat) School
+- [Financial Analysis](https://github.com/1arry1iu/archetype/blob/main/GPTs/UFA-L.md) `Prompt`
+- [Gold Bullion](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGBD-L.md) `Prompt`
+- [Economics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UEC-L.md) `Prompt` - [Austrian](https://github.com/1arry1iu/archetype/blob/main/GPTs/UECAT-L.md) `Prompt` School
 
 #### Careers and property
 
-- [Career Counselling](https://chat.openai.com/g/g-0LRlMdiQX-universal-career-counselor-ucc)
-- [Resume Writing](https://chatgpt.com/g/g-68eb1f9bed488191a30969e575c8981d-universal-resume-writer-urw)
-- [Real Estate](https://chatgpt.com/g/g-48OBoo5c9-reliable-thai-real-estate-expert-rtree) `Thailand`
+- [Career Counselling](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCC.md) `Prompt`
+- [Resume Writing](https://github.com/1arry1iu/archetype/blob/main/GPTs/URW.md) `Prompt`
+- [Real Estate](https://github.com/1arry1iu/archetype/blob/main/GPTs/RTREE-L.md) `Prompt` `Thailand`
 
 #### Economists and entrepreneurs
 
-- [Friedrich von Hayek](https://chat.openai.com/g/g-5DJVaTGc0-friedrich-august-von-hayek-fah) `Person simulation`
-- [Ludwig von Mises](https://chat.openai.com/g/g-9YUpvLIz3-ludwig-h-e-von-mises-lhem) `Person simulation`
-- [Milton Friedman](https://chat.openai.com/g/g-lofT7Xt7Z-milton-friedman-mf) `Person simulation`
-- [Thomas Sowell](https://chat.openai.com/g/g-tFtfltCBA-thomas-sowell-ts) `Person simulation`
-- [Elon Musk](https://chat.openai.com/g/g-qF5b38fKI-elon-r-musk-erm) `Person simulation`
-- [Steve Jobs](https://chat.openai.com/g/g-bngp20GqA-steven-p-jobs-spj) `Person simulation`
+- [Friedrich von Hayek](https://github.com/1arry1iu/archetype/blob/main/GPTs/FAH-L.md) `Prompt` `Person simulation`
+- [Ludwig von Mises](https://github.com/1arry1iu/archetype/blob/main/GPTs/LHEM-L.md) `Prompt` `Person simulation`
+- [Milton Friedman](https://github.com/1arry1iu/archetype/blob/main/GPTs/MF-L.md) `Prompt` `Person simulation`
+- [Thomas Sowell](https://github.com/1arry1iu/archetype/blob/main/GPTs/TS-L.md) `Prompt` `Person simulation`
+- [Elon Musk](https://github.com/1arry1iu/archetype/blob/main/GPTs/ERM-L.md) `Prompt` `Person simulation`
+- Steve Jobs `Prompt unavailable` `Person simulation`
 
 ### Law, Government & Public Affairs
 
 #### Law and legal practice
 
-- Comparative [EU/China Competition Law](https://chatgpt.com/g/g-6916930994fc8191bae5b74e42c11525-universal-legal-scholar-eu-china-competition-law)
-- Law - [Canada](https://chat.openai.com/g/g-yBNGrnKeU-universal-lawyer-canadian-law-ulcal), [China](https://chat.openai.com/g/g-rHbtrYAcg-universal-lawyer-chinese-law-ulcnl), [International](https://chat.openai.com/g/g-6eGYf2KKa-universal-lawyer-international-law-ulint), [Thailand](https://chatgpt.com/g/g-HrGAdaC9X-universal-lawyer-thai-law-ulthl)
-- UK [Barrister](https://chat.openai.com/g/g-aEWDn501E-universal-uk-barrister-uukb), [Medical Law](https://chatgpt.com/g/g-69edd75ce9388191a636447e172efb50-universal-uk-medical-law-expert-uukmle), [Solicitor](https://chat.openai.com/g/g-WXLVZloOc-universal-uk-solicitor-uuks)
-- US [Law](https://chat.openai.com/g/g-5aRRsztn6-universal-us-lawyer-uusl), [Tax](https://chat.openai.com/g/g-YQhaLQCKH-universal-us-tax-consultant-uustc)
+- Comparative [EU/China Competition Law](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULSEUCNCL.md) `Prompt`
+- Law - [Canada](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULCAL.md) `Prompt`, [China](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULCNL-L.md) `Prompt`, [International](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULINT-L.md) `Prompt`, [Thailand](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULTHL.md) `Prompt`
+- UK [Barrister](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUKB-L.md) `Prompt`, [Medical Law](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUKMLE.md) `Prompt`, [Solicitor](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUKS.md) `Prompt`
+- US [Law](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUSL.md) `Prompt`, [Tax](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUSTC.md) `Prompt`
 
 #### Government, regulation and society
 
-- [AI Governance](https://chatgpt.com/g/g-69304c26839881919a7cd35ed166db6c-universal-ai-governance-expert-uaige)
-- [Regulatory Governance](https://chatgpt.com/g/g-695a6e8c33f88191a6f46fb640114ae3-universal-regulatory-governance-expert-urge)
-- [Criminology](https://chat.openai.com/g/g-yEdhOeQY9-universal-criminologist-ucn)
-- [Migration](https://chatgpt.com/g/g-6891c8226a9c8191bf526e644d72a904-universal-migration-scholar-umgs)
-- [Political Science](https://chat.openai.com/g/g-IyA5PaVBO-universal-political-scientist-upls) - [Thai](https://chatgpt.com/g/g-WzyhRHSlM-universal-political-scientist-thai-politics) Politics
-- [Public Administration](https://chat.openai.com/g/g-DxXQEyWRK-universal-public-administration-expert-upae)
-- [Religion in International Relations](https://chatgpt.com/g/g-677ae0b6664c81919c2c7382599f3c53-universal-religion-in-ir-expert-urire)
+- [AI Governance](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAIGE.md) `Prompt`
+- [Regulatory Governance](https://github.com/1arry1iu/archetype/blob/main/GPTs/URGE.md) `Prompt`
+- [Criminology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCN-L.md) `Prompt`
+- [Migration](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMGS.md) `Prompt`
+- [Political Science](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPLS-L.md) `Prompt` - [Thai](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPLSTH-L.md) `Prompt` Politics
+- [Public Administration](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPAE-L.md) `Prompt`
+- [Religion in International Relations](https://github.com/1arry1iu/archetype/blob/main/GPTs/URIRE-L.md) `Prompt`
 
 #### Migration and visas
 
 - Australian Visa Subclass [190](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAUS190.md) `Prompt` `Australia`
-- Immigration - [Thailand](https://chatgpt.com/g/g-bN3yRDViA-universal-immigration-officer-thailand-uioth)
-- [Residential Permit](https://chatgpt.com/g/g-IPSruoAwN-reliable-thai-residential-permit-expert-rtrpe) `Thailand`
-- [Visa](https://chatgpt.com/g/g-oe6LIL2Tr-reliable-thai-visa-expert-rtve) `Thailand`
+- Immigration - [Thailand](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIOTH-L.md) `Prompt`
+- [Residential Permit](https://github.com/1arry1iu/archetype/blob/main/GPTs/RTRPE-L.md) `Prompt` `Thailand`
+- [Visa](https://github.com/1arry1iu/archetype/blob/main/GPTs/RTVE-L.md) `Prompt` `Thailand`
 
 #### Defense, intelligence and investigations
 
 - [Armaments](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAME.md) `Prompt`
-- [Gunsmith](https://chat.openai.com/g/g-95UlkDiwE-universal-gunsmith-ugs)
-- [Military](https://chat.openai.com/g/g-RQDOeB4Ez-universal-military-expert-ume)
+- [Gunsmith](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGS-L.md) `Prompt`
+- [Military](https://github.com/1arry1iu/archetype/blob/main/GPTs/UME.md) `Prompt`
 - [Chinese Communist Party Propaganda](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCCPP.md) `Prompt`
 - [Deep State](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDSA.md) `Prompt`
 - [Secret Service](https://github.com/1arry1iu/archetype/blob/main/GPTs/USSA.md) `Prompt`
@@ -342,217 +344,217 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Political figures and commentators
 
-- [Adolf Hitler](https://chatgpt.com/share/68aaf3dc-3684-8002-9c08-9c2220904d78) `Conversation` `Person simulation`
-- [Joseph Stalin](https://chatgpt.com/g/g-7JPh2dmvu-joseph-v-stalin-jvs) `Person simulation`
-- [Mao Zedong](https://chatgpt.com/g/g-twHzVBfw2-mao-zedong-mzd) `Person simulation`
-- [Yuri Bezmenov](https://chatgpt.com/g/g-684eda44c4308191aa9bb174078afb23-yuri-bezmenov-yb) `Person simulation`
-- [Vladimir Putin](https://chatgpt.com/share/68aaf494-dbdc-8002-bc6f-490672cb0ff5) `Conversation` `Person simulation`
+- [Adolf Hitler](https://github.com/1arry1iu/archetype/blob/main/GPTs/AH.md) `Prompt` `Person simulation`
+- [Joseph Stalin](https://github.com/1arry1iu/archetype/blob/main/GPTs/JVS.md) `Prompt` `Person simulation`
+- [Mao Zedong](https://github.com/1arry1iu/archetype/blob/main/GPTs/MZD.md) `Prompt` `Person simulation`
+- [Yuri Bezmenov](https://github.com/1arry1iu/archetype/blob/main/GPTs/YB.md) `Prompt` `Person simulation`
+- [Vladimir Putin](https://github.com/1arry1iu/archetype/blob/main/GPTs/VVP.md) `Prompt` `Person simulation`
 - [Donald Trump](https://github.com/1arry1iu/archetype/blob/main/GPTs/DJT.md) `Prompt` `Person simulation`
-- [Ronald Reagan](https://chatgpt.com/g/g-qxjzjaXXg-ronald-w-reagan-rwr) `Person simulation`
-- [Winston Churchill](https://chatgpt.com/g/g-oivI0U76P-winston-churchill-wlsc) `Person simulation`
-- [James Lindsay](https://chatgpt.com/g/g-67b682a9052481919ed47c31a994771d-james-lindsay) `Person simulation`
-- [Mike Benz](https://chatgpt.com/g/g-67ad5826a5288191abf9bb901f0aeb53-mike-benz-mb) `Person simulation`
+- [Ronald Reagan](https://github.com/1arry1iu/archetype/blob/main/GPTs/RWR-L.md) `Prompt` `Person simulation`
+- [Winston Churchill](https://github.com/1arry1iu/archetype/blob/main/GPTs/WLSC-L.md) `Prompt` `Person simulation`
+- [James Lindsay](https://github.com/1arry1iu/archetype/blob/main/GPTs/JSL-L.md) `Prompt` `Person simulation`
+- [Mike Benz](https://github.com/1arry1iu/archetype/blob/main/GPTs/MB-L.md) `Prompt` `Person simulation`
 
 ### History, Culture & Society
 
 #### History and heritage
 
-- [History](https://chat.openai.com/g/g-z9sxoquNv-universal-historian-uht) - [America](https://chatgpt.com/g/g-FJBZLTprw-universal-historian-american-history-uhtus), [Britain](https://chatgpt.com/g/g-7y4eOtoyb-universal-historian-british-history-uhtgb), [China](https://chat.openai.com/g/g-kmjhNouR0-universal-historian-chinese-history-uhtcn), [Crusades](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTC.md) `Prompt`, [France](https://chat.openai.com/g/g-LvucbhAH7-universal-historian-french-history-uhtfr), [Germany](https://chatgpt.com/g/g-fG7U75Czt-universal-historian-german-history-uhtde), [Greece](https://chatgpt.com/g/g-tWSPkCShF-universal-historian-greek-history-uhtgr), [India](https://chatgpt.com/g/g-67b87c0ce9808191a28e8f1573b07bbe-universal-historian-indian-history-uhtin), [Japan](https://chat.openai.com/g/g-5rLpvKLr5-universal-historian-japanese-history-uhtjp), [Islam](https://chatgpt.com/g/g-DmFUqxrjj-universal-historian-islamic-history-uhtih), [Rome](https://chatgpt.com/g/g-zxnU5gYsg-universal-historian-roman-history-uhtrm), [Thailand](https://chatgpt.com/g/g-hJMHCWFWc-universal-historian-thai-history-uhtth)
-- [Genealogy](https://chatgpt.com/g/g-VVn9kdREk-universal-genealogist-ugn)
-- [Archaeology](https://chat.openai.com/g/g-ATUY9XpWT-universal-archaeologist-uarc)
-- [Classicism](https://chatgpt.com/g/g-qaOTY9BGq-universal-classicist-uclc)
+- [History](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHT-L.md) `Prompt` - [America](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTUS-L.md) `Prompt`, [Britain](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTGB-L.md) `Prompt`, [China](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTCN-L.md) `Prompt`, [Crusades](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTC.md) `Prompt`, [France](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTFR.md) `Prompt`, [Germany](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTDE-L.md) `Prompt`, [Greece](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTGR-L.md) `Prompt`, [India](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTIN-L.md) `Prompt`, [Japan](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTJP.md) `Prompt`, [Islam](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTIH-L.md) `Prompt`, [Rome](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTRM.md) `Prompt`, [Thailand](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHTTH-L.md) `Prompt`
+- [Genealogy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGN-L.md) `Prompt`
+- [Archaeology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UARC-L.md) `Prompt`
+- [Classicism](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCLC.md) `Prompt`
 
 #### Culture and local knowledge
 
-- Anthropology - [Lanna](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAPLC.md) `Prompt`/[Tamil](https://chatgpt.com/g/g-6941668ef97c8191a3085af122f31aa9-universal-anthropologist-tamil-culture-uaptm)/[Thai](https://chat.openai.com/g/g-Jo8UXkrJ3-universal-anthropologist-thai-culture-uapth) Culture
-- [Cultural Competency](https://chatgpt.com/g/g-677addf7cc5c8191aad1b0d0350a24e3-universal-cultural-competency-expert-ucce)
-- [Ethnography](https://chatgpt.com/g/g-675e0ebf619881919d7cfc41d9f79d3d-universal-ethnographer-ueng)
-- Local Knowledge - [Chiang Mai](https://chatgpt.com/g/g-rsSsOeQp1-universal-local-expert-chiang-mai-ulecm)
+- Anthropology - [Lanna](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAPLC.md) `Prompt`/[Tamil](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAPTM.md) `Prompt`/[Thai](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAPTH.md) `Prompt` Culture
+- [Cultural Competency](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCCE-L.md) `Prompt`
+- [Ethnography](https://github.com/1arry1iu/archetype/blob/main/GPTs/UENG-L.md) `Prompt`
+- Local Knowledge - [Chiang Mai](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULECM-L.md) `Prompt`
 
 #### Alternative interpretations and anomalous phenomena
 
-- [Alternative Egyptology](https://chatgpt.com/g/g-69805bffc2e881919df31970ec435871-universal-alternative-egyptology-researcher-uaer)
-- [Ufologist](https://chatgpt.com/g/g-67b5d8a504d48191a464e0fc33e98277-universal-ufologist-uufo)
+- [Alternative Egyptology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAER.md) `Prompt`
+- [Ufologist](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUFO-L.md) `Prompt`
 
 ### Philosophy, Religion & Belief Systems
 
 #### Philosophy, logic and perspectives
 
-- [Philosophy](https://chat.openai.com/g/g-ZKrYeKrjA-universal-philosopher-up)
-- [Logic](https://chatgpt.com/g/g-oK5BnmGtY-universal-logician-ulc)
-- [Classical Liberalism](https://chatgpt.com/g/g-z19Iop92k-universal-classical-liberal-ucl) - [Anti-Woke and Anti-Postmodernism](https://chatgpt.com/g/g-N556xukoa-universal-classical-liberal-anti-woke-uclaw)
-- [Enlightenment](https://chat.openai.com/g/g-28UwK71Fs-universal-enlightenment-thinker-uet)
-- [Utilitarianism](https://chatgpt.com/g/g-GbwpVkSNY-universal-utilitarian-uut)
-- [Postmodern Neo-Marxist](https://chatgpt.com/g/g-sQRt3QL8U-universal-postmodern-neo-marxist-upnm)
+- [Philosophy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UP-L.md) `Prompt`
+- [Logic](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULC.md) `Prompt`
+- [Classical Liberalism](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCL-L.md) `Prompt` - [Anti-Woke and Anti-Postmodernism](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCLAW.md) `Prompt`
+- [Enlightenment](https://github.com/1arry1iu/archetype/blob/main/GPTs/UET-L.md) `Prompt`
+- [Utilitarianism](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUT-L.md) `Prompt`
+- [Postmodern Neo-Marxist](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPNM-L.md) `Prompt`
 
 #### Philosophical thinkers
 
-- [Aristotle](https://chat.openai.com/g/g-PNdO9Imsp-aristotle-ato) `Person simulation`
-- [Confucius](https://chat.openai.com/g/g-3UugZT0i1-confucius-cfc) `Person simulation`
-- [Friedrich Nietzsche](https://chat.openai.com/g/g-CSPerSFnb-friedrich-w-nietzsche-fwn) `Person simulation`
-- [Laozi](https://chat.openai.com/g/g-rjTSeClcR-laozi-lao) `Person simulation`
-- [Marcus Antoninus](https://chat.openai.com/g/g-A8DEoiDll-marcus-a-antoninus-maa) `Person simulation`
-- [Plato](https://chat.openai.com/g/g-Z7I6YmKmz-plato-plt) `Person simulation`
-- [Socrates](https://chat.openai.com/g/g-GBrdXPLhO-socrates-sct) `Person simulation`
-- [Karl Marx](https://chatgpt.com/g/g-68657a6764e8819187692f41cb7b12b8-karl-marx-km) `Person simulation`
-- [Michel Foucault](https://chatgpt.com/g/g-68656c2a25c88191b5e150347b574db8-michel-foucault-pmf) `Person simulation`
+- [Aristotle](https://github.com/1arry1iu/archetype/blob/main/GPTs/ATO.md) `Prompt` `Person simulation`
+- [Confucius](https://github.com/1arry1iu/archetype/blob/main/GPTs/CFC-L.md) `Prompt` `Person simulation`
+- [Friedrich Nietzsche](https://github.com/1arry1iu/archetype/blob/main/GPTs/FWN-L.md) `Prompt` `Person simulation`
+- [Laozi](https://github.com/1arry1iu/archetype/blob/main/GPTs/LAO-L.md) `Prompt` `Person simulation`
+- [Marcus Antoninus](https://github.com/1arry1iu/archetype/blob/main/GPTs/MAA-L.md) `Prompt` `Person simulation`
+- [Plato](https://github.com/1arry1iu/archetype/blob/main/GPTs/PLT-L.md) `Prompt` `Person simulation`
+- [Socrates](https://github.com/1arry1iu/archetype/blob/main/GPTs/SCT-L.md) `Prompt` `Person simulation`
+- [Karl Marx](https://github.com/1arry1iu/archetype/blob/main/GPTs/KM.md) `Prompt` `Person simulation`
+- [Michel Foucault](https://github.com/1arry1iu/archetype/blob/main/GPTs/PMF.md) `Prompt` `Person simulation`
 
 #### Religion and theology
 
-- [Augustinian Political Theology](https://chatgpt.com/g/g-695dc41ebee081919cc2322e3c6ce42e-universal-augustinian-political-theologian-uapt)
-- [Biblical](https://chatgpt.com/g/g-rIy7i1TSk-universal-biblical-scholar), [Buddhist](https://chat.openai.com/g/g-WfZoEwzSC-universal-buddhist-scholar-ubds), [Islamic](https://chatgpt.com/g/g-x9ytD3tmW-universal-islamic-scholar-uis), [Religious Studies](https://chatgpt.com/g/g-E3X8hOtqf-universal-religious-studies-scholar-urss) Scholar
-- [Christology](https://chatgpt.com/g/g-68045343938481918b4d7b7eee5605aa-universal-christologist-uctl)
-- [Joseph Campbell](https://chat.openai.com/g/g-CZsswOFGR-joseph-j-campbell-jjc) `Person simulation`
-- [Mircea Eliade](https://chatgpt.com/g/g-wOwoGGqZG-mircea-eliade-me) `Person simulation`
-- [St. Augustine](https://chatgpt.com/g/g-68f4cb3a5a248191b6007b67cfeb4a58-st-augustine-sta) `Person simulation`
+- [Augustinian Political Theology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAPT.md) `Prompt`
+- [Biblical](https://github.com/1arry1iu/archetype/blob/main/GPTs/RBS.md) `Prompt`, [Buddhist](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBDS-L.md) `Prompt`, [Islamic](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIS-L.md) `Prompt`, [Religious Studies](https://github.com/1arry1iu/archetype/blob/main/GPTs/URSS-L.md) `Prompt` Scholar
+- [Christology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCTL-L.md) `Prompt`
+- [Joseph Campbell](https://github.com/1arry1iu/archetype/blob/main/GPTs/JJC-L.md) `Prompt` `Person simulation`
+- [Mircea Eliade](https://github.com/1arry1iu/archetype/blob/main/GPTs/ME.md) `Prompt` `Person simulation`
+- [St. Augustine](https://github.com/1arry1iu/archetype/blob/main/GPTs/STA.md) `Prompt` `Person simulation`
 
 #### Esoteric traditions and religious objects
 
-- [Human Design System](https://chat.openai.com/g/g-JYRi2Q74j-universal-human-design-system-expert-uhdse)
-- [Buddha Amulet (พระเครื่อง)](https://chatgpt.com/g/g-68921f67530881919511be150f4154b6-universal-thai-buddha-amulet-phraekhruue-ng-expert) `Thailand`
-- [Chinese](https://chatgpt.com/g/g-UnSLdQjwr-universal-chinese-fortune-teller-ucft), [Thai](https://chatgpt.com/g/g-u71gSlryJ-universal-thai-fortune-teller-utft) Fortune Telling
+- [Human Design System](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHDSE-L.md) `Prompt`
+- [Buddha Amulet (พระเครื่อง)](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTBAE.md) `Prompt` `Thailand`
+- Chinese `Prompt unavailable`, [Thai](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTFT-L.md) `Prompt` Fortune Telling
 
 ### Art, Design & Visual Communication
 
 #### Styles and traditions
 
-- [Art Deco](https://chatgpt.com/g/g-686fe16581708191b2566248ca1ed8dd-universal-art-deco-artist-uada)
-- [Art Nouveau](https://chat.openai.com/g/g-m5043ILI1-universal-art-nouveau-specialist-uans)
-- [Cyberpunk](https://chatgpt.com/g/g-687918ddbacc8191b90611ce0a534241-universal-cyberpunk-artist-ucpa)
-- [Ghibli](https://chatgpt.com/g/g-67e4a6a3d7b08191a7428f9e194dbd18-universal-studio-ghibli-expert-usge)
-- [Lanna Art](https://chatgpt.com/g/g-686788d85fac8191aa89d3c036af36e3-universal-lanna-artist-ulna)
-- [Soviet Constructivism](https://chatgpt.com/g/g-6869d2485428819199eef4f5eff1e4a0-universal-soviet-constructivist-artist-usca)
-- [Steampunk](https://chatgpt.com/g/g-6879151725988191881ca4bf89b1406f-universal-steampunk-artist-uspa)
-- Traditional Chinese Art - [Gongbi](https://chatgpt.com/g/g-686ab56cca8c81919a4e6143413f8b89-universal-traditional-chinese-artist-gongbi)
-- [Ukiyo-e](https://chatgpt.com/g/g-686a7481f07c819184f1679fb324801d-universal-ukiyo-e-artist-uuea)
-- [Victorian Painting](https://chatgpt.com/g/g-68adbde21648819182fc1973dab151db-universal-victorian-painter-uvp)
-- [Vintage and Retro](https://chatgpt.com/g/g-6883a6bec2288191856b97389ac2a3c5-universal-vintage-and-retro-illustrator-uvri)
+- [Art Deco](https://github.com/1arry1iu/archetype/blob/main/GPTs/UADA.md) `Prompt`
+- [Art Nouveau](https://github.com/1arry1iu/archetype/blob/main/GPTs/UANS-L.md) `Prompt`
+- [Cyberpunk](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCPA.md) `Prompt`
+- [Ghibli](https://github.com/1arry1iu/archetype/blob/main/GPTs/USGE.md) `Prompt`
+- [Lanna Art](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULNA.md) `Prompt`
+- [Soviet Constructivism](https://github.com/1arry1iu/archetype/blob/main/GPTs/USCA.md) `Prompt`
+- [Steampunk](https://github.com/1arry1iu/archetype/blob/main/GPTs/USPA.md) `Prompt`
+- Traditional Chinese Art - [Gongbi](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTCAGB.md) `Prompt`
+- [Ukiyo-e](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUEA.md) `Prompt`
+- [Victorian Painting](https://github.com/1arry1iu/archetype/blob/main/GPTs/UVP.md) `Prompt`
+- [Vintage and Retro](https://github.com/1arry1iu/archetype/blob/main/GPTs/UVRI.md) `Prompt`
 
 #### Media and techniques
 
-- [Calligraphy](https://chatgpt.com/g/g-6891965a835c8191b0d59cffe299d983-universal-calligrapher-uclg)
-- [Caricature](https://chatgpt.com/g/g-687a5a4dc65c81919c7dd509deadbb24-universal-caricaturist-ucct)
-- [Cartoon](https://chat.openai.com/g/g-vMSkT6neo-universal-cartoonist-uctn)
-- [Collage](https://chatgpt.com/g/g-688090f413e48191916c87491d929bfa-universal-collage-artist-uclga)
-- [Flat Design Illustration](https://chatgpt.com/g/g-688102a6dba88191ac159b8029ab914f-universal-flat-design-illustrator-ufdi)
-- [Illustration](https://chatgpt.com/g/g-6876981473a081919d0f475e32ff53d3-universal-illustrator-uil)
-- [Optical Illusion](https://chat.openai.com/share/a2f32e9b-94a6-4b64-9cfb-53f101c7afce) `Conversation`
-- [Paper Cut Art](https://chatgpt.com/g/g-68810a048658819187f7ad4694844828-universal-paper-cut-artist-upca)
-- [Photography](https://chat.openai.com/g/g-eBnMp3E4W-universal-photographer-uptg)
-- [Pixel Art](https://chatgpt.com/g/g-6880fdfc6a7081918932b92463634874-universal-pixel-artist-upxa)
-- [Visual Art](https://chat.openai.com/g/g-DajFS86Q5-universal-visual-artist-uva)
-- [Watercolor](https://chatgpt.com/g/g-697ed73b325c81918995d9b05e3505ac-universal-watercolor-painter-uwcp)
+- [Calligraphy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCLG.md) `Prompt`
+- [Caricature](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCCT.md) `Prompt`
+- [Cartoon](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCTN.md) `Prompt`
+- [Collage](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCLGA.md) `Prompt`
+- [Flat Design Illustration](https://github.com/1arry1iu/archetype/blob/main/GPTs/UFDI.md) `Prompt`
+- [Illustration](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIL.md) `Prompt`
+- Optical Illusion `Prompt unavailable`
+- [Paper Cut Art](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPCA.md) `Prompt`
+- [Photography](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPTG.md) `Prompt`
+- [Pixel Art](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPXA.md) `Prompt`
+- [Visual Art](https://github.com/1arry1iu/archetype/blob/main/GPTs/UVA.md) `Prompt`
+- [Watercolor](https://github.com/1arry1iu/archetype/blob/main/GPTs/UWCP.md) `Prompt`
 
 #### Applied art and design
 
-- [Children's Book](https://chatgpt.com/g/g-687f8fae630c819187fcf5926f6dbaee-universal-children-s-book-illustrator-ucbi)
-- [Courtroom Sketch](https://chatgpt.com/g/g-68678055a8608191abf164344dbc3aaf-universal-courtroom-sketch-artist-ucsa)
-- [Quote Art](https://chatgpt.com/g/g-686dd5d3c4888191a3588580e96d9137-universal-quote-art-creator-uqac)
-- [Bible Verse Art](https://chatgpt.com/g/g-68b4eddedfe8819197692f6b836587b1-universal-bible-verse-art-creator-ubvac)
-- [Book Cover](https://chatgpt.com/g/g-687fa747d2e48191bba98c646d2bc34b-universal-book-cover-designer-ubcd)
-- [Fashion](https://chat.openai.com/g/g-aSgVWwHSr-universal-fashion-designer-ufd)
-- [Film Poster](https://chatgpt.com/g/g-687faf8146e48191a1d7e827faa5d074-universal-film-poster-artist-ufpa)
-- [Industrial Design](https://chat.openai.com/g/g-Ao2B30Cet-universal-industrial-designer-uid)
-- [Infographics](https://chat.openai.com/g/g-F6UV4FOtF-universal-inforgraphic-creator-uic)
-- [Logo](https://chatgpt.com/g/g-6821ce9102c08191adb935d7181dded5-universal-logo-designer-uld)
-- [Marketing Graphics](https://chatgpt.com/g/g-686f27c317c48191a44a2027c9219460-universal-marketing-graphic-designer-umgd)
-- [Tattoo](https://chatgpt.com/g/g-68810643d150819180386a3ade8706b4-universal-tattoo-artist-utta)
-- [Christianity and Visual Arts](https://chatgpt.com/g/g-677ae43d7b3881918637a3f246e05101-universal-christianity-and-visual-arts-expert)
+- [Children's Book](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCBI.md) `Prompt`
+- [Courtroom Sketch](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCSA.md) `Prompt`
+- [Quote Art](https://github.com/1arry1iu/archetype/blob/main/GPTs/UQAC.md) `Prompt`
+- [Bible Verse Art](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBVAC.md) `Prompt`
+- [Book Cover](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBCD.md) `Prompt`
+- [Fashion](https://github.com/1arry1iu/archetype/blob/main/GPTs/UFD-L.md) `Prompt`
+- [Film Poster](https://github.com/1arry1iu/archetype/blob/main/GPTs/UFPA.md) `Prompt`
+- [Industrial Design](https://github.com/1arry1iu/archetype/blob/main/GPTs/UID-L.md) `Prompt`
+- [Infographics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIC.md) `Prompt`
+- [Logo](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULD-L.md) `Prompt`
+- [Marketing Graphics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMGD.md) `Prompt`
+- [Tattoo](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTTA.md) `Prompt`
+- [Christianity and Visual Arts](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCVAE-L.md) `Prompt`
 
 #### Image editing tools
 
-- [ImageMagick](https://chatgpt.com/g/g-67f928b40acc8191b9d2be2260240d89-universal-imagemagick-expert-uime)
-- [Photoshop](https://chatgpt.com/g/g-AHs2nSvvN-universal-photoshop-expert-upspe)
+- [ImageMagick](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIME-L.md) `Prompt`
+- [Photoshop](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPSPE-L.md) `Prompt`
 
 ### Literature, Media & Entertainment
 
 #### Literature and storytelling
 
-- [Book Worm](https://chat.openai.com/g/g-2jvYrCfBc-universal-book-worm-ubw)
-- [Screenwriting](https://chat.openai.com/g/g-3e2fCgciO-universal-screenwriter-usw)
-- [Storytelling](https://chat.openai.com/g/g-i2KB66rSE-universal-storyteller-ust)
-- [Poem](https://chatgpt.com/g/g-67b548027f508191bfdb385540b8a422-universal-poet-upo)
-- [Aleksandr Solzhenitsyn](https://chatgpt.com/g/g-SNrHtJX2o-aleksandr-i-solzhenitsyn-ais) `Person simulation`
-- [Dante Alighieri](https://chat.openai.com/g/g-KQv0k7QCf-dante-alighieri-da) `Person simulation`
-- [Franz Kafka](https://chatgpt.com/g/g-67bdb184c3288191a9fcf081972d9fbb-franz-kafka-fk) `Person simulation`
-- [Hesiod](https://chat.openai.com/g/g-aTYQfkm6x-hesiod-hsd) `Person simulation`
-- [Homer](https://chat.openai.com/g/g-CappyVZCJ-homer-hmr) `Person simulation`
-- [William Shakespeare](https://chat.openai.com/g/g-Tk2pChYmW-william-shakespeare-ws) `Person simulation`
+- [Book Worm](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBW-L.md) `Prompt`
+- [Screenwriting](https://github.com/1arry1iu/archetype/blob/main/GPTs/USW-L.md) `Prompt`
+- Storytelling `Prompt unavailable`
+- [Poem](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPO-L.md) `Prompt`
+- [Aleksandr Solzhenitsyn](https://github.com/1arry1iu/archetype/blob/main/GPTs/AIS-L.md) `Prompt` `Person simulation`
+- [Dante Alighieri](https://github.com/1arry1iu/archetype/blob/main/GPTs/DA-L.md) `Prompt` `Person simulation`
+- [Franz Kafka](https://github.com/1arry1iu/archetype/blob/main/GPTs/FK-L.md) `Prompt` `Person simulation`
+- [Hesiod](https://github.com/1arry1iu/archetype/blob/main/GPTs/HSD-L.md) `Prompt` `Person simulation`
+- [Homer](https://github.com/1arry1iu/archetype/blob/main/GPTs/HMR-L.md) `Prompt` `Person simulation`
+- [William Shakespeare](https://github.com/1arry1iu/archetype/blob/main/GPTs/WS.md) `Prompt` `Person simulation`
 
 #### Film, animation and performance
 
-- [Puppeteer](https://chatgpt.com/g/g-686fa8c92e248191b182b1896f48eda7-universal-puppeteer-uppt)
-- [8-Second Video](https://chatgpt.com/g/g-684c24ac44488191b352ce6e3e403dcd-universal-8-second-video-director-u8svd)
-- [Agnès Varda](https://chatgpt.com/g/g-67f268bca4088191bdb529f076f4af0a-agnes-varda-av) `Person simulation`
-- [Directing](https://chat.openai.com/g/g-08JFTTWZV-universal-director-udr) - [Commercial](https://chat.openai.com/g/g-10DztRVaI-universal-director-commercial-udrcm), [Film](https://chatgpt.com/g/g-0vwUJcNgE-universal-director-film-udrf), [Music Video](https://chat.openai.com/g/g-mRxue3z70-universal-director-music-video-udrmv)
-- [Shooting Script](https://chatgpt.com/g/g-1pg7q84i3-universal-shooting-script-expert-usse)
-- [Stop Motion Animation](https://chatgpt.com/g/g-686e99d86e6c8191aa4fb4be755f0ec7-universal-stop-motion-animator-usma)
-- [Wes Anderson](https://chatgpt.com/g/g-x9MCZiKRe-wes-anderson-wwa) `Person simulation`
-- [Comedy](https://chat.openai.com/g/g-NqMsmLjXJ-universal-comedian-ucm)
+- [Puppeteer](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPPT.md) `Prompt`
+- [8-Second Video](https://github.com/1arry1iu/archetype/blob/main/GPTs/U8SVD.md) `Prompt`
+- [Agnès Varda](https://github.com/1arry1iu/archetype/blob/main/GPTs/AV-L.md) `Prompt` `Person simulation`
+- [Directing](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDR-L.md) `Prompt` - [Commercial](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDRCM-L.md) `Prompt`, [Film](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDRF.md) `Prompt`, [Music Video](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDRMV-L.md) `Prompt`
+- Shooting Script `Prompt unavailable`
+- [Stop Motion Animation](https://github.com/1arry1iu/archetype/blob/main/GPTs/USMA.md) `Prompt`
+- [Wes Anderson](https://github.com/1arry1iu/archetype/blob/main/GPTs/WWA-L.md) `Prompt` `Person simulation`
+- [Comedy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCM.md) `Prompt`
 
 #### Media, publishing and social platforms
 
-- [Media Critic](https://chat.openai.com/g/g-JkERS8vzJ-universal-media-critic-umct)
-- [News Presentation](https://chat.openai.com/g/g-vNMq0WsTx-universal-news-presenter-unp)
-- [Podcast](https://chatgpt.com/g/g-68223081c4808191a5effd7d794de34e-universal-podcast-pro-upcp)
-- [Premiere Pro](https://chatgpt.com/g/g-gYsiKu1pN-universal-pm-pro-expert-upmpe)
-- [Social Media Influencer](https://chat.openai.com/g/g-O5fiNW35X-universal-social-media-influencer-usmi)
-- [Tucker Carlson](https://chat.openai.com/g/g-DNLcRbo8o-tucker-s-m-carlson-tsmc) `Person simulation`
-- [Rednote Titles](https://chatgpt.com/share/68aaf234-9884-8002-9e8d-ebcba9306937) `Conversation`
-- [Meme](https://chat.openai.com/g/g-RPHDGYpZx-universal-meme-master-umm) - [POV](https://chatgpt.com/g/g-6953712fb90c81918b34a335336ad632-universal-meme-master-pov-memes-ummpov)
+- [Media Critic](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMCT.md) `Prompt`
+- [News Presentation](https://github.com/1arry1iu/archetype/blob/main/GPTs/UNP-L.md) `Prompt`
+- [Podcast](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPCP-L.md) `Prompt`
+- [Premiere Pro](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPMPE-L.md) `Prompt`
+- [Social Media Influencer](https://github.com/1arry1iu/archetype/blob/main/GPTs/USMI-L.md) `Prompt`
+- [Tucker Carlson](https://github.com/1arry1iu/archetype/blob/main/GPTs/TSMC-L.md) `Prompt` `Person simulation`
+- [Rednote Titles](https://github.com/1arry1iu/archetype/blob/main/GPTs/URNTCE.md) `Prompt`
+- [Meme](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMM-L.md) `Prompt` - [POV](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMMPOV.md) `Prompt`
 
 #### Music
 
-- [Lyrics](https://chat.openai.com/g/g-5aTqZwVMX-universal-lyricist-ulr)
-- [Music](https://chat.openai.com/g/g-h6vgsij0E-universal-musician)
+- [Lyrics](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULR-L.md) `Prompt`
+- [Music](https://github.com/1arry1iu/archetype/blob/main/GPTs/UM.md) `Prompt`
 
 #### Fictional universes and game creation
 
-- [Star Wars](https://chatgpt.com/g/g-694cfca1969081919b2266fb3c16d07f-universal-sw-expert-uswe)
-- Game [Design](https://chat.openai.com/g/g-E5v7dr7AA-universal-game-designer-ugd), [Master](https://chat.openai.com/g/g-E8z12YboN-universal-game-master-ugm)
+- [Star Wars](https://github.com/1arry1iu/archetype/blob/main/GPTs/USWE.md) `Prompt`
+- Game [Design](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGD-L.md) `Prompt`, Master `Prompt unavailable`
 
 ### Everyday Life, Hobbies & Recreation
 
 #### Food and drink
 
-- [Beer](https://chat.openai.com/g/g-H9NaBj3e6-universal-beer-cicerone-ubc)
-- [Cheese](https://chat.openai.com/g/g-0HNYcfwDk-universal-cheese-connoisseur-ucsc)
-- [Chef](https://chat.openai.com/g/g-93ThuDHcx-universal-chef-ucf) - [Thai Cuisine](https://chat.openai.com/g/g-5vrj6sjMa-universal-chef-thai-cuisine-ucfth)
-- [Chocolate](https://chat.openai.com/g/g-QlKwfqdwL-universal-chocolatier-ucoco)
-- [Coffee](https://chat.openai.com/g/g-DzZVgJRBa-universal-coffee-expert-ucfe)
-- [Mixology](https://chat.openai.com/g/g-pX844UwmY-universal-mixologist-umx)
-- [Tea](https://chat.openai.com/g/g-LeOwG26aA-universal-tea-master-utm)
-- [Wine](https://chat.openai.com/g/g-AjZnuRPyG-universal-master-of-wine-umw)
+- [Beer](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBC-L.md) `Prompt`
+- [Cheese](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCSC-L.md) `Prompt`
+- [Chef](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCF-L.md) `Prompt` - [Thai Cuisine](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCFTH-L.md) `Prompt`
+- [Chocolate](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCOCO-L.md) `Prompt`
+- [Coffee](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCFE-L.md) `Prompt`
+- [Mixology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMX-L.md) `Prompt`
+- [Tea](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTM-L.md) `Prompt`
+- [Wine](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMW.md) `Prompt`
 
 #### Collecting, crafts and gardening
 
-- [Antique](https://chat.openai.com/g/g-3z2gnIaKg-universal-antique-appraiser-uata)
-- [Bonsai](https://chat.openai.com/g/g-9u0fOp8q2-universal-bonsai-master-ubsm)
-- [Cigar](https://chat.openai.com/g/g-S6q0JzyO0-universal-cigar-connoisseur-ucgc)
-- [Perfume](https://chat.openai.com/g/g-F5ghc5ZTs-universal-evaluateur-de-parfums-uep)
-- [Jewelry](https://chat.openai.com/g/g-u20zajahd-universal-jewelry-appraiser-uja)
-- [Philately](https://chat.openai.com/g/g-U9Qw0AFOG-universal-philatelist-upll)
-- [Vintage Cars](https://chatgpt.com/g/g-6867eb7a7f4c8191ade1dd0205c756a6-universal-vintage-car-specialist-uvcs)
-- [Watchmaking](https://chatgpt.com/g/g-drrH6MPAG-universal-watchmaker-uwm)
+- [Antique](https://github.com/1arry1iu/archetype/blob/main/GPTs/UATA-L.md) `Prompt`
+- [Bonsai](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBSM-L.md) `Prompt`
+- [Cigar](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCGC-L.md) `Prompt`
+- [Perfume](https://github.com/1arry1iu/archetype/blob/main/GPTs/UEP.md) `Prompt`
+- [Jewelry](https://github.com/1arry1iu/archetype/blob/main/GPTs/UJA-L.md) `Prompt`
+- [Philately](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPLL.md) `Prompt`
+- [Vintage Cars](https://github.com/1arry1iu/archetype/blob/main/GPTs/UVCS.md) `Prompt`
+- [Watchmaking](https://github.com/1arry1iu/archetype/blob/main/GPTs/UWM-L.md) `Prompt`
 
 #### Sports and games
 
-- [Chinese Chess](https://chatgpt.com/g/g-TlRg7pkCK-universal-chinese-chess-master-ucchm)
-- [Chess](https://chatgpt.com/g/g-ZK5rVbD64-universal-chess-master-uchm)
-- [Go](https://chatgpt.com/g/g-itQavMgyZ-universal-go-master-ugom)
-- [Archery](https://chat.openai.com/g/g-wt5xICUNE-universal-archer-uac)
-- [Baseball](https://chatgpt.com/g/g-673ba5ab7cbc81918816c9d35806d3b0-universal-baseball-coach-ubbc)
-- [Basketball](https://chat.openai.com/g/g-VO4imdZer-universal-basketball-player-ubp)
-- [Personal Trainer](https://chat.openai.com/g/g-Vo1mGE8at-universal-personal-trainer-upt)
-- [Sports Handicapping](https://chatgpt.com/g/g-LtiVHJ4wR-universal-sports-handicapping-expert-ushe)
+- [Chinese Chess](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCCHM-L.md) `Prompt`
+- [Chess](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCHM-L.md) `Prompt`
+- [Go](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGOM-L.md) `Prompt`
+- [Archery](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAC-L.md) `Prompt`
+- [Baseball](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBBC.md) `Prompt`
+- [Basketball](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBP-L.md) `Prompt`
+- [Personal Trainer](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPT-L.md) `Prompt`
+- [Sports Handicapping](https://github.com/1arry1iu/archetype/blob/main/GPTs/USHE-L.md) `Prompt`
 
 #### Travel, practical life and relationships
 
-- [Itinerary Planning](https://chatgpt.com/g/g-zCMyp0WU3-universal-itinerary-planner-uip)
-- [Driving License Theory Test](https://chatgpt.com/g/g-67b37af277708191ba4640ebc699cd0d-reliable-thai-driving-license-theory-test-expert) `Thailand`
-- [Product Review](https://chatgpt.com/g/g-GXKrhaKeA-universal-product-reviewer-upr)
-- [Meditation](https://chat.openai.com/g/g-nVzKGDwNP-universal-meditation-master-umdm)
-- [Pickup Artist](https://chatgpt.com/g/g-686cbf84afa48191aa98e0eba5fae192-universal-pickup-artist-upua)
+- [Itinerary Planning](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIP-L.md) `Prompt`
+- [Driving License Theory Test](https://github.com/1arry1iu/archetype/blob/main/GPTs/RTDLTTE-L.md) `Prompt` `Thailand`
+- [Product Review](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPR-L.md) `Prompt`
+- [Meditation](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMDM-L.md) `Prompt`
+- [Pickup Artist](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPUA.md) `Prompt`
 
 ## Find by Task
 
@@ -575,53 +577,53 @@ Choose a task to jump to relevant specialists. For defining, organizing, ranking
 
 An alphabetical index of simulations of historical and contemporary individuals. Each also appears under a primary subject.
 
-- [Adolf Hitler](https://chatgpt.com/share/68aaf3dc-3684-8002-9c08-9c2220904d78) `Conversation` `Person simulation`
-- [Agnès Varda](https://chatgpt.com/g/g-67f268bca4088191bdb529f076f4af0a-agnes-varda-av) `Person simulation`
-- [Aleksandr Solzhenitsyn](https://chatgpt.com/g/g-SNrHtJX2o-aleksandr-i-solzhenitsyn-ais) `Person simulation`
-- [Aristotle](https://chat.openai.com/g/g-PNdO9Imsp-aristotle-ato) `Person simulation`
-- [Arthur Jensen](https://chatgpt.com/g/g-684efb3e8d08819199fcd939a874ff6f-arthur-jensen-arj) `Person simulation`
-- [Carl Jung](https://chatgpt.com/g/g-S6aMsDoYi-carl-jung-cgj) `Person simulation`
-- [Carl Rogers](https://chatgpt.com/g/g-kyWvywGtY-carl-rogers-crr) `Person simulation`
-- [Confucius](https://chat.openai.com/g/g-3UugZT0i1-confucius-cfc) `Person simulation`
-- [Dante Alighieri](https://chat.openai.com/g/g-KQv0k7QCf-dante-alighieri-da) `Person simulation`
+- [Adolf Hitler](https://github.com/1arry1iu/archetype/blob/main/GPTs/AH.md) `Prompt` `Person simulation`
+- [Agnès Varda](https://github.com/1arry1iu/archetype/blob/main/GPTs/AV-L.md) `Prompt` `Person simulation`
+- [Aleksandr Solzhenitsyn](https://github.com/1arry1iu/archetype/blob/main/GPTs/AIS-L.md) `Prompt` `Person simulation`
+- [Aristotle](https://github.com/1arry1iu/archetype/blob/main/GPTs/ATO.md) `Prompt` `Person simulation`
+- [Arthur Jensen](https://github.com/1arry1iu/archetype/blob/main/GPTs/ARJ.md) `Prompt` `Person simulation`
+- [Carl Jung](https://github.com/1arry1iu/archetype/blob/main/GPTs/CGJ.md) `Prompt` `Person simulation`
+- [Carl Rogers](https://github.com/1arry1iu/archetype/blob/main/GPTs/CRR.md) `Prompt` `Person simulation`
+- [Confucius](https://github.com/1arry1iu/archetype/blob/main/GPTs/CFC-L.md) `Prompt` `Person simulation`
+- [Dante Alighieri](https://github.com/1arry1iu/archetype/blob/main/GPTs/DA-L.md) `Prompt` `Person simulation`
 - [Donald Trump](https://github.com/1arry1iu/archetype/blob/main/GPTs/DJT.md) `Prompt` `Person simulation`
-- [Elon Musk](https://chat.openai.com/g/g-qF5b38fKI-elon-r-musk-erm) `Person simulation`
-- [Erich Neumann](https://chatgpt.com/g/g-QRLsTfYPQ-erich-neumann-en) `Person simulation`
-- [Franz Kafka](https://chatgpt.com/g/g-67bdb184c3288191a9fcf081972d9fbb-franz-kafka-fk) `Person simulation`
-- [Friedrich Nietzsche](https://chat.openai.com/g/g-CSPerSFnb-friedrich-w-nietzsche-fwn) `Person simulation`
-- [Friedrich von Hayek](https://chat.openai.com/g/g-5DJVaTGc0-friedrich-august-von-hayek-fah) `Person simulation`
-- [Hesiod](https://chat.openai.com/g/g-aTYQfkm6x-hesiod-hsd) `Person simulation`
-- [Homer](https://chat.openai.com/g/g-CappyVZCJ-homer-hmr) `Person simulation`
-- [James Lindsay](https://chatgpt.com/g/g-67b682a9052481919ed47c31a994771d-james-lindsay) `Person simulation`
-- [Jean Piaget](https://chat.openai.com/g/g-EPYXXe49m-jean-w-f-piaget-jwfp) `Person simulation`
-- [Jordan Peterson](https://chatgpt.com/g/g-4nay9mTfV-jordan-peterson-jbp) `Person simulation`
-- [Joseph Campbell](https://chat.openai.com/g/g-CZsswOFGR-joseph-j-campbell-jjc) `Person simulation`
-- [Joseph Stalin](https://chatgpt.com/g/g-7JPh2dmvu-joseph-v-stalin-jvs) `Person simulation`
-- [Karl Marx](https://chatgpt.com/g/g-68657a6764e8819187692f41cb7b12b8-karl-marx-km) `Person simulation`
-- [Laozi](https://chat.openai.com/g/g-rjTSeClcR-laozi-lao) `Person simulation`
-- [Linus Torvalds](https://chatgpt.com/g/g-67cd2ab64ba081919ec1d1c4c5a970a1-linus-torvalds-lbt) `Person simulation`
-- [Ludwig von Mises](https://chat.openai.com/g/g-9YUpvLIz3-ludwig-h-e-von-mises-lhem) `Person simulation`
-- [Mao Zedong](https://chatgpt.com/g/g-twHzVBfw2-mao-zedong-mzd) `Person simulation`
-- [Marcus Antoninus](https://chat.openai.com/g/g-A8DEoiDll-marcus-a-antoninus-maa) `Person simulation`
-- [Michel Foucault](https://chatgpt.com/g/g-68656c2a25c88191b5e150347b574db8-michel-foucault-pmf) `Person simulation`
-- [Mike Benz](https://chatgpt.com/g/g-67ad5826a5288191abf9bb901f0aeb53-mike-benz-mb) `Person simulation`
-- [Milton Friedman](https://chat.openai.com/g/g-lofT7Xt7Z-milton-friedman-mf) `Person simulation`
-- [Mircea Eliade](https://chatgpt.com/g/g-wOwoGGqZG-mircea-eliade-me) `Person simulation`
-- [Paulo Freire](https://chatgpt.com/g/g-686141ae0d008191b396a1239452d87c-paulo-freire-prnf) `Person simulation`
-- [Plato](https://chat.openai.com/g/g-Z7I6YmKmz-plato-plt) `Person simulation`
-- [R. Dale Guthrie](https://chatgpt.com/g/g-69188614ecc88191951027e37c7a1a99-r-dale-guthrie-rdg) `Person simulation`
-- [Ronald Reagan](https://chatgpt.com/g/g-qxjzjaXXg-ronald-w-reagan-rwr) `Person simulation`
-- [Sigmund Freud](https://chat.openai.com/g/g-Ixg6iEx4g-sigmund-freud-sf) `Person simulation`
-- [Socrates](https://chat.openai.com/g/g-GBrdXPLhO-socrates-sct) `Person simulation`
-- [St. Augustine](https://chatgpt.com/g/g-68f4cb3a5a248191b6007b67cfeb4a58-st-augustine-sta) `Person simulation`
-- [Steve Jobs](https://chat.openai.com/g/g-bngp20GqA-steven-p-jobs-spj) `Person simulation`
-- [Thomas Sowell](https://chat.openai.com/g/g-tFtfltCBA-thomas-sowell-ts) `Person simulation`
-- [Tucker Carlson](https://chat.openai.com/g/g-DNLcRbo8o-tucker-s-m-carlson-tsmc) `Person simulation`
-- [Vladimir Putin](https://chatgpt.com/share/68aaf494-dbdc-8002-bc6f-490672cb0ff5) `Conversation` `Person simulation`
-- [Wes Anderson](https://chatgpt.com/g/g-x9MCZiKRe-wes-anderson-wwa) `Person simulation`
-- [William Shakespeare](https://chat.openai.com/g/g-Tk2pChYmW-william-shakespeare-ws) `Person simulation`
-- [Winston Churchill](https://chatgpt.com/g/g-oivI0U76P-winston-churchill-wlsc) `Person simulation`
-- [Yuri Bezmenov](https://chatgpt.com/g/g-684eda44c4308191aa9bb174078afb23-yuri-bezmenov-yb) `Person simulation`
+- [Elon Musk](https://github.com/1arry1iu/archetype/blob/main/GPTs/ERM-L.md) `Prompt` `Person simulation`
+- [Erich Neumann](https://github.com/1arry1iu/archetype/blob/main/GPTs/EN-L.md) `Prompt` `Person simulation`
+- [Franz Kafka](https://github.com/1arry1iu/archetype/blob/main/GPTs/FK-L.md) `Prompt` `Person simulation`
+- [Friedrich Nietzsche](https://github.com/1arry1iu/archetype/blob/main/GPTs/FWN-L.md) `Prompt` `Person simulation`
+- [Friedrich von Hayek](https://github.com/1arry1iu/archetype/blob/main/GPTs/FAH-L.md) `Prompt` `Person simulation`
+- [Hesiod](https://github.com/1arry1iu/archetype/blob/main/GPTs/HSD-L.md) `Prompt` `Person simulation`
+- [Homer](https://github.com/1arry1iu/archetype/blob/main/GPTs/HMR-L.md) `Prompt` `Person simulation`
+- [James Lindsay](https://github.com/1arry1iu/archetype/blob/main/GPTs/JSL-L.md) `Prompt` `Person simulation`
+- [Jean Piaget](https://github.com/1arry1iu/archetype/blob/main/GPTs/JWFP-L.md) `Prompt` `Person simulation`
+- [Jordan Peterson](https://github.com/1arry1iu/archetype/blob/main/GPTs/JBP.md) `Prompt` `Person simulation`
+- [Joseph Campbell](https://github.com/1arry1iu/archetype/blob/main/GPTs/JJC-L.md) `Prompt` `Person simulation`
+- [Joseph Stalin](https://github.com/1arry1iu/archetype/blob/main/GPTs/JVS.md) `Prompt` `Person simulation`
+- [Karl Marx](https://github.com/1arry1iu/archetype/blob/main/GPTs/KM.md) `Prompt` `Person simulation`
+- [Laozi](https://github.com/1arry1iu/archetype/blob/main/GPTs/LAO-L.md) `Prompt` `Person simulation`
+- [Linus Torvalds](https://github.com/1arry1iu/archetype/blob/main/GPTs/LBT-L.md) `Prompt` `Person simulation`
+- [Ludwig von Mises](https://github.com/1arry1iu/archetype/blob/main/GPTs/LHEM-L.md) `Prompt` `Person simulation`
+- [Mao Zedong](https://github.com/1arry1iu/archetype/blob/main/GPTs/MZD.md) `Prompt` `Person simulation`
+- [Marcus Antoninus](https://github.com/1arry1iu/archetype/blob/main/GPTs/MAA-L.md) `Prompt` `Person simulation`
+- [Michel Foucault](https://github.com/1arry1iu/archetype/blob/main/GPTs/PMF.md) `Prompt` `Person simulation`
+- [Mike Benz](https://github.com/1arry1iu/archetype/blob/main/GPTs/MB-L.md) `Prompt` `Person simulation`
+- [Milton Friedman](https://github.com/1arry1iu/archetype/blob/main/GPTs/MF-L.md) `Prompt` `Person simulation`
+- [Mircea Eliade](https://github.com/1arry1iu/archetype/blob/main/GPTs/ME.md) `Prompt` `Person simulation`
+- [Paulo Freire](https://github.com/1arry1iu/archetype/blob/main/GPTs/PRNF.md) `Prompt` `Person simulation`
+- [Plato](https://github.com/1arry1iu/archetype/blob/main/GPTs/PLT-L.md) `Prompt` `Person simulation`
+- [R. Dale Guthrie](https://github.com/1arry1iu/archetype/blob/main/GPTs/RDG.md) `Prompt` `Person simulation`
+- [Ronald Reagan](https://github.com/1arry1iu/archetype/blob/main/GPTs/RWR-L.md) `Prompt` `Person simulation`
+- [Sigmund Freud](https://github.com/1arry1iu/archetype/blob/main/GPTs/SF-L.md) `Prompt` `Person simulation`
+- [Socrates](https://github.com/1arry1iu/archetype/blob/main/GPTs/SCT-L.md) `Prompt` `Person simulation`
+- [St. Augustine](https://github.com/1arry1iu/archetype/blob/main/GPTs/STA.md) `Prompt` `Person simulation`
+- Steve Jobs `Prompt unavailable` `Person simulation`
+- [Thomas Sowell](https://github.com/1arry1iu/archetype/blob/main/GPTs/TS-L.md) `Prompt` `Person simulation`
+- [Tucker Carlson](https://github.com/1arry1iu/archetype/blob/main/GPTs/TSMC-L.md) `Prompt` `Person simulation`
+- [Vladimir Putin](https://github.com/1arry1iu/archetype/blob/main/GPTs/VVP.md) `Prompt` `Person simulation`
+- [Wes Anderson](https://github.com/1arry1iu/archetype/blob/main/GPTs/WWA-L.md) `Prompt` `Person simulation`
+- [William Shakespeare](https://github.com/1arry1iu/archetype/blob/main/GPTs/WS.md) `Prompt` `Person simulation`
+- [Winston Churchill](https://github.com/1arry1iu/archetype/blob/main/GPTs/WLSC-L.md) `Prompt` `Person simulation`
+- [Yuri Bezmenov](https://github.com/1arry1iu/archetype/blob/main/GPTs/YB.md) `Prompt` `Person simulation`
 
 ## Collections
 
@@ -629,38 +631,38 @@ These selections preserve geographic and editorial groupings across subjects. Co
 
 ### Thailand
 
-- [Buddha Amulet (พระเครื่อง)](https://chatgpt.com/g/g-68921f67530881919511be150f4154b6-universal-thai-buddha-amulet-phraekhruue-ng-expert) `Thailand`
-- [Chiang Mai Flooding](https://chatgpt.com/g/g-686c22fb461c8191938739edcf865e3b-universal-chiang-mai-flooding-expert-ucmfe) `Thailand`
-- [Driving License Theory Test](https://chatgpt.com/g/g-67b37af277708191ba4640ebc699cd0d-reliable-thai-driving-license-theory-test-expert) `Thailand`
-- [Montfort College, Secondary Section](https://chatgpt.com/g/g-686793ca64fc8191a7b22a0128d3f86a-montfort-college-secondary-section-mcsscm) `Thailand`
-- [Real Estate](https://chatgpt.com/g/g-48OBoo5c9-reliable-thai-real-estate-expert-rtree) `Thailand`
-- [Residential Permit](https://chatgpt.com/g/g-IPSruoAwN-reliable-thai-residential-permit-expert-rtrpe) `Thailand`
-- School Placement - [Chiang Mai](https://chatgpt.com/g/g-bRN8k2g58-reliable-school-placement-expert-chiang-mai) `Thailand`
-- [Visa](https://chatgpt.com/g/g-oe6LIL2Tr-reliable-thai-visa-expert-rtve) `Thailand`
-- Local Knowledge - [Chiang Mai](https://chatgpt.com/g/g-rsSsOeQp1-universal-local-expert-chiang-mai-ulecm)
-- Home Architecture - [Thailand](https://chatgpt.com/g/g-68efb87a2d708191b9a29177903da752-universal-home-architecture-thailand-uhatth)
-- Immigration - [Thailand](https://chatgpt.com/g/g-bN3yRDViA-universal-immigration-officer-thailand-uioth)
+- [Buddha Amulet (พระเครื่อง)](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTBAE.md) `Prompt` `Thailand`
+- [Chiang Mai Flooding](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCMFE.md) `Prompt` `Thailand`
+- [Driving License Theory Test](https://github.com/1arry1iu/archetype/blob/main/GPTs/RTDLTTE-L.md) `Prompt` `Thailand`
+- [Montfort College, Secondary Section](https://github.com/1arry1iu/archetype/blob/main/GPTs/MCSSCM.md) `Prompt` `Thailand`
+- [Real Estate](https://github.com/1arry1iu/archetype/blob/main/GPTs/RTREE-L.md) `Prompt` `Thailand`
+- [Residential Permit](https://github.com/1arry1iu/archetype/blob/main/GPTs/RTRPE-L.md) `Prompt` `Thailand`
+- School Placement - [Chiang Mai](https://github.com/1arry1iu/archetype/blob/main/GPTs/USPECM-L.md) `Prompt` `Thailand`
+- [Visa](https://github.com/1arry1iu/archetype/blob/main/GPTs/RTVE-L.md) `Prompt` `Thailand`
+- Local Knowledge - [Chiang Mai](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULECM-L.md) `Prompt`
+- Home Architecture - [Thailand](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHATTH.md) `Prompt`
+- Immigration - [Thailand](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIOTH-L.md) `Prompt`
 
 Related regional specialists also appear under [Culture and local knowledge](#culture-and-local-knowledge), [History and heritage](#history-and-heritage), [Language learning](#language-learning), [Law and legal practice](#law-and-legal-practice), and [Food and drink](#food-and-drink).
 
 ### David Sun
 
-- [Arcticism](https://chatgpt.com/g/g-684f02f07c8881918f6c2f5984d1f1c8-arcticism-arc)
-- [Isolated, Confined, and Extreme (ICE) Environments](https://chatgpt.com/g/g-694d12cc3064819186b7e52ac7cf1b26-universal-ice-environment-expert-uiceee)
+- [Arcticism](https://github.com/1arry1iu/archetype/blob/main/GPTs/ARC.md) `Prompt`
+- [Isolated, Confined, and Extreme (ICE) Environments](https://github.com/1arry1iu/archetype/blob/main/GPTs/UICEEE.md) `Prompt`
 
 ### Hell
 
 The repository author's editorial collection; the label is not a disciplinary classification. These entries also appear under their respective subjects.
 
-- [Adolf Hitler](https://chatgpt.com/share/68aaf3dc-3684-8002-9c08-9c2220904d78) `Conversation` `Person simulation`
-- [Joseph Stalin](https://chatgpt.com/g/g-7JPh2dmvu-joseph-v-stalin-jvs) `Person simulation`
-- [Karl Marx](https://chatgpt.com/g/g-68657a6764e8819187692f41cb7b12b8-karl-marx-km) `Person simulation`
-- [Mao Zedong](https://chatgpt.com/g/g-twHzVBfw2-mao-zedong-mzd) `Person simulation`
-- [Michel Foucault](https://chatgpt.com/g/g-68656c2a25c88191b5e150347b574db8-michel-foucault-pmf) `Person simulation`
-- [Paulo Freire](https://chatgpt.com/g/g-686141ae0d008191b396a1239452d87c-paulo-freire-prnf) `Person simulation`
-- [Postmodern Neo-Marxist](https://chatgpt.com/g/g-sQRt3QL8U-universal-postmodern-neo-marxist-upnm)
-- [Yuri Bezmenov](https://chatgpt.com/g/g-684eda44c4308191aa9bb174078afb23-yuri-bezmenov-yb) `Person simulation`
-- [Vladimir Putin](https://chatgpt.com/share/68aaf494-dbdc-8002-bc6f-490672cb0ff5) `Conversation` `Person simulation`
+- [Adolf Hitler](https://github.com/1arry1iu/archetype/blob/main/GPTs/AH.md) `Prompt` `Person simulation`
+- [Joseph Stalin](https://github.com/1arry1iu/archetype/blob/main/GPTs/JVS.md) `Prompt` `Person simulation`
+- [Karl Marx](https://github.com/1arry1iu/archetype/blob/main/GPTs/KM.md) `Prompt` `Person simulation`
+- [Mao Zedong](https://github.com/1arry1iu/archetype/blob/main/GPTs/MZD.md) `Prompt` `Person simulation`
+- [Michel Foucault](https://github.com/1arry1iu/archetype/blob/main/GPTs/PMF.md) `Prompt` `Person simulation`
+- [Paulo Freire](https://github.com/1arry1iu/archetype/blob/main/GPTs/PRNF.md) `Prompt` `Person simulation`
+- [Postmodern Neo-Marxist](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPNM-L.md) `Prompt`
+- [Yuri Bezmenov](https://github.com/1arry1iu/archetype/blob/main/GPTs/YB.md) `Prompt` `Person simulation`
+- [Vladimir Putin](https://github.com/1arry1iu/archetype/blob/main/GPTs/VVP.md) `Prompt` `Person simulation`
 
 ## Alphabetical Index
 
