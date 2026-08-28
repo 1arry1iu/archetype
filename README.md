@@ -22,6 +22,12 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 | L | [Like](https://github.com/1arry1iu/archetype/blob/main/Like/L.md) `Prompt` | Classification |
 | V | [Validation](https://github.com/1arry1iu/archetype/blob/main/Validation/V.md) `Prompt` | Assessing validity |
 
+**Additional utility prompts and versions**
+
+- [ALPHA](https://github.com/1arry1iu/archetype/blob/main/Hack/ALPHA.md) `Prompt` — perspective instruction.
+- [Connotation](https://github.com/1arry1iu/archetype/blob/main/Hack/CONN.md) `Prompt` — construct-to-verbs formatting workflow.
+- [Judge — version 11](https://github.com/1arry1iu/archetype/blob/main/Judge/J-L.md) `Prompt` — earlier ranking prompt; the Core Tools table links to version 12.
+
 ## Categories
 
 | Category | GPTs |
@@ -46,9 +52,7 @@ Welcome to Archetype (A), your ultimate archetype, construct, perspective, perso
 
 Each entry has one primary subject home. Task links, named-person entries, and collections are alternate routes to the same catalog; they are not additional GPTs. Generalists and their specializations are grouped together.
 
-**Access:** `Prompt` links open prompt files in this repository. `Prompt unavailable` preserves a catalog entry whose corresponding prompt could not be found or verified; it has no external GPT or shared-conversation link. `Person simulation` identifies a persona modeled on a named individual, not that person or an endorsement. Geographic tags identify a local focus or jurisdiction where supplied; more specific context also appears in entry names.
-
-**Unavailable prompts:** Chinese Fortune Telling, Game Master, Optical Illusion, Shooting Script, Steve Jobs, and Storytelling remain listed without external links. No matching prompt was found for the first five; `GPTs/USSE.md` is Slideshow, not Shooting Script. `GPTs/UST.md` contains a psychologist profile, not Storytelling.
+**Access:** `Prompt` links open prompt files in this repository. `Person simulation` identifies a persona modeled on a named individual, not that person or an endorsement. Geographic tags identify a local focus or jurisdiction where supplied; more specific context also appears in entry names.
 
 **Browse by type:** use [Core Tools](#core-tools) for workflow utilities, [Named-Person Index](#named-person-index) for simulations, and the subject sections for domain experts and creative practitioners. Subject placement describes the topic, not the evidentiary status of a claim or theory.
 
@@ -96,6 +100,7 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Exams and language assessment
 
+- [Cambridge Thinking Skills Assessment](https://github.com/1arry1iu/archetype/blob/main/GPTs/RCTSAE.md) `Prompt`
 - Cambridge IGCSE - [English: First Language (0500)](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCIGEN0500.md) `Prompt`
 - IELTS [Speaking](https://github.com/1arry1iu/archetype/blob/main/GPTs/UISE-L.md) `Prompt`,[Writing](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIWE-L.md) `Prompt`
 - [NAATI CPI Test](https://github.com/1arry1iu/archetype/blob/main/GPTs/UNCPI-L.md) `Prompt`
@@ -140,6 +145,7 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Software and cybersecurity
 
+- [Lubuntu](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULBTE.md) `Prompt`
 - [Markdown](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMDE-L.md) `Prompt`
 - [Rocky Linux](https://github.com/1arry1iu/archetype/blob/main/GPTs/URLE-L.md) `Prompt`
 - [Visual Studio Code](https://github.com/1arry1iu/archetype/blob/main/GPTs/UVSCE-L.md) `Prompt`
@@ -242,6 +248,8 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Psychology and counseling
 
+**Duplicate file:** [Psychology — duplicate copy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UST.md) `Prompt` is identical to [Psychology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPC.md). Its filename is misleading; it is not a Storytelling prompt or an additional persona.
+
 - [Analytical](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAPC-L.md) `Prompt`, [Depth](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDPC-L.md) `Prompt`, [Evolutionary](https://github.com/1arry1iu/archetype/blob/main/GPTs/UEVP.md) `Prompt`, [Personality](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPPC-L.md) `Prompt` [Psychology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPC.md) `Prompt`
 - [Dark Tetrad Personality](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDTP-L.md) `Prompt`
 - [Freudian Truth Suppression Theory](https://github.com/1arry1iu/archetype/blob/main/GPTs/FTST.md) `Prompt`
@@ -280,6 +288,7 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Marketing and communication
 
+- [Corporate Communication](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCCE.md) `Prompt`
 - [Business Communication](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBCE-L.md) `Prompt`
 - [Consumer Behavior](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCBS-L.md) `Prompt`
 - [Copywriting](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCW-L.md) `Prompt`
@@ -287,6 +296,7 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Economics and finance
 
+- [Quantity Theory of Disaggregated Credit](https://github.com/1arry1iu/archetype/blob/main/GPTs/QTDC.md) `Prompt`
 - [Financial Analysis](https://github.com/1arry1iu/archetype/blob/main/GPTs/UFA-L.md) `Prompt`
 - [Gold Bullion](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGBD-L.md) `Prompt`
 - [Economics](https://github.com/1arry1iu/archetype/blob/main/GPTs/UEC-L.md) `Prompt` - [Austrian](https://github.com/1arry1iu/archetype/blob/main/GPTs/UECAT-L.md) `Prompt` School
@@ -304,12 +314,12 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 - [Milton Friedman](https://github.com/1arry1iu/archetype/blob/main/GPTs/MF-L.md) `Prompt` `Person simulation`
 - [Thomas Sowell](https://github.com/1arry1iu/archetype/blob/main/GPTs/TS-L.md) `Prompt` `Person simulation`
 - [Elon Musk](https://github.com/1arry1iu/archetype/blob/main/GPTs/ERM-L.md) `Prompt` `Person simulation`
-- Steve Jobs `Prompt unavailable` `Person simulation`
 
 ### Law, Government & Public Affairs
 
 #### Law and legal practice
 
+- [Competition Law Scholarship](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULSCL.md) `Prompt`
 - Comparative [EU/China Competition Law](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULSEUCNCL.md) `Prompt`
 - Law - [Canada](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULCAL.md) `Prompt`, [China](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULCNL-L.md) `Prompt`, [International](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULINT-L.md) `Prompt`, [Thailand](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULTHL.md) `Prompt`
 - UK [Barrister](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUKB-L.md) `Prompt`, [Medical Law](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUKMLE.md) `Prompt`, [Solicitor](https://github.com/1arry1iu/archetype/blob/main/GPTs/UUKS.md) `Prompt`
@@ -317,6 +327,7 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Government, regulation and society
 
+- [Religion, Politics, and Media](https://github.com/1arry1iu/archetype/blob/main/GPTs/UERPM.md) `Prompt`
 - [AI Governance](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAIGE.md) `Prompt`
 - [Regulatory Governance](https://github.com/1arry1iu/archetype/blob/main/GPTs/URGE.md) `Prompt`
 - [Criminology](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCN-L.md) `Prompt`
@@ -334,6 +345,8 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Defense, intelligence and investigations
 
+- [Russian Intelligence](https://github.com/1arry1iu/archetype/blob/main/GPTs/URIS.md) `Prompt`
+- [Master Spy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMTS-L.md) `Prompt`
 - [Armaments](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAME.md) `Prompt`
 - [Gunsmith](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGS-L.md) `Prompt`
 - [Military](https://github.com/1arry1iu/archetype/blob/main/GPTs/UME.md) `Prompt`
@@ -366,6 +379,7 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Culture and local knowledge
 
+- [Anthropology of the Secular](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAPS.md) `Prompt`
 - Anthropology - [Lanna](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAPLC.md) `Prompt`/[Tamil](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAPTM.md) `Prompt`/[Thai](https://github.com/1arry1iu/archetype/blob/main/GPTs/UAPTH.md) `Prompt` Culture
 - [Cultural Competency](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCCE-L.md) `Prompt`
 - [Ethnography](https://github.com/1arry1iu/archetype/blob/main/GPTs/UENG-L.md) `Prompt`
@@ -412,7 +426,7 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 - [Human Design System](https://github.com/1arry1iu/archetype/blob/main/GPTs/UHDSE-L.md) `Prompt`
 - [Buddha Amulet (พระเครื่อง)](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTBAE.md) `Prompt` `Thailand`
-- Chinese `Prompt unavailable`, [Thai](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTFT-L.md) `Prompt` Fortune Telling
+- [Thai](https://github.com/1arry1iu/archetype/blob/main/GPTs/UTFT-L.md) `Prompt` Fortune Telling
 
 ### Art, Design & Visual Communication
 
@@ -438,7 +452,6 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 - [Collage](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCLGA.md) `Prompt`
 - [Flat Design Illustration](https://github.com/1arry1iu/archetype/blob/main/GPTs/UFDI.md) `Prompt`
 - [Illustration](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIL.md) `Prompt`
-- Optical Illusion `Prompt unavailable`
 - [Paper Cut Art](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPCA.md) `Prompt`
 - [Photography](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPTG.md) `Prompt`
 - [Pixel Art](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPXA.md) `Prompt`
@@ -472,7 +485,6 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 - [Book Worm](https://github.com/1arry1iu/archetype/blob/main/GPTs/UBW-L.md) `Prompt`
 - [Screenwriting](https://github.com/1arry1iu/archetype/blob/main/GPTs/USW-L.md) `Prompt`
-- Storytelling `Prompt unavailable`
 - [Poem](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPO-L.md) `Prompt`
 - [Aleksandr Solzhenitsyn](https://github.com/1arry1iu/archetype/blob/main/GPTs/AIS-L.md) `Prompt` `Person simulation`
 - [Dante Alighieri](https://github.com/1arry1iu/archetype/blob/main/GPTs/DA-L.md) `Prompt` `Person simulation`
@@ -483,17 +495,18 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Film, animation and performance
 
+- [Generative Cinematic Creativity](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGCCE.md) `Prompt`
 - [Puppeteer](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPPT.md) `Prompt`
 - [8-Second Video](https://github.com/1arry1iu/archetype/blob/main/GPTs/U8SVD.md) `Prompt`
 - [Agnès Varda](https://github.com/1arry1iu/archetype/blob/main/GPTs/AV-L.md) `Prompt` `Person simulation`
 - [Directing](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDR-L.md) `Prompt` - [Commercial](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDRCM-L.md) `Prompt`, [Film](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDRF.md) `Prompt`, [Music Video](https://github.com/1arry1iu/archetype/blob/main/GPTs/UDRMV-L.md) `Prompt`
-- Shooting Script `Prompt unavailable`
 - [Stop Motion Animation](https://github.com/1arry1iu/archetype/blob/main/GPTs/USMA.md) `Prompt`
 - [Wes Anderson](https://github.com/1arry1iu/archetype/blob/main/GPTs/WWA-L.md) `Prompt` `Person simulation`
 - [Comedy](https://github.com/1arry1iu/archetype/blob/main/GPTs/UCM.md) `Prompt`
 
 #### Media, publishing and social platforms
 
+- [Social Media User Interface](https://github.com/1arry1iu/archetype/blob/main/GPTs/USMUIE.md) `Prompt`
 - [Media Critic](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMCT.md) `Prompt`
 - [News Presentation](https://github.com/1arry1iu/archetype/blob/main/GPTs/UNP-L.md) `Prompt`
 - [Podcast](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPCP-L.md) `Prompt`
@@ -511,7 +524,7 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 #### Fictional universes and game creation
 
 - [Star Wars](https://github.com/1arry1iu/archetype/blob/main/GPTs/USWE.md) `Prompt`
-- Game [Design](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGD-L.md) `Prompt`, Master `Prompt unavailable`
+- Game [Design](https://github.com/1arry1iu/archetype/blob/main/GPTs/UGD-L.md) `Prompt`
 
 ### Everyday Life, Hobbies & Recreation
 
@@ -550,6 +563,7 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Travel, practical life and relationships
 
+- [Matchmaking](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMM.md) `Prompt`
 - [Itinerary Planning](https://github.com/1arry1iu/archetype/blob/main/GPTs/UIP-L.md) `Prompt`
 - [Driving License Theory Test](https://github.com/1arry1iu/archetype/blob/main/GPTs/RTDLTTE-L.md) `Prompt` `Thailand`
 - [Product Review](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPR-L.md) `Prompt`
@@ -616,7 +630,6 @@ An alphabetical index of simulations of historical and contemporary individuals.
 - [Sigmund Freud](https://github.com/1arry1iu/archetype/blob/main/GPTs/SF-L.md) `Prompt` `Person simulation`
 - [Socrates](https://github.com/1arry1iu/archetype/blob/main/GPTs/SCT-L.md) `Prompt` `Person simulation`
 - [St. Augustine](https://github.com/1arry1iu/archetype/blob/main/GPTs/STA.md) `Prompt` `Person simulation`
-- Steve Jobs `Prompt unavailable` `Person simulation`
 - [Thomas Sowell](https://github.com/1arry1iu/archetype/blob/main/GPTs/TS-L.md) `Prompt` `Person simulation`
 - [Tucker Carlson](https://github.com/1arry1iu/archetype/blob/main/GPTs/TSMC-L.md) `Prompt` `Person simulation`
 - [Vladimir Putin](https://github.com/1arry1iu/archetype/blob/main/GPTs/VVP.md) `Prompt` `Person simulation`
@@ -681,11 +694,13 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [AI Humanization](#writing-and-presentation)
 - [Air Quality](#environment-and-climate)
 - [Aleksandr Solzhenitsyn](#literature-and-storytelling)
+- [ALPHA](#core-tools)
 - [Alternative Egyptology](#alternative-interpretations-and-anomalous-phenomena)
 - [Analytical, Depth, Evolutionary, Personality Psychology](#psychology-and-counseling)
 - [Anatomy](#biomedical-sciences-and-pharmacy)
 - [Ancient Greek/Hindu Temple Architecture](#architecture-and-housing)
 - [Anthropology - Lanna/Tamil/Thai Culture](#culture-and-local-knowledge)
+- [Anthropology of the Secular](#culture-and-local-knowledge)
 - [Antique](#collecting-crafts-and-gardening)
 - [Archaeology](#history-and-heritage)
 - [Archery](#sports-and-games)
@@ -716,6 +731,7 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [Business Operations](#management-and-innovation)
 - [Calligraphy](#media-and-techniques)
 - [Cambridge IGCSE - English: First Language (0500)](#exams-and-language-assessment)
+- [Cambridge Thinking Skills Assessment](#exams-and-language-assessment)
 - [Canine Specialist](#animal-care)
 - [Cardiology](#clinical-specialties)
 - [Career Counselling](#careers-and-property)
@@ -731,7 +747,6 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [Children's Book](#applied-art-and-design)
 - [Chinese Chess](#sports-and-games)
 - [Chinese Communist Party Propaganda](#defense-intelligence-and-investigations)
-- [Chinese, Thai Fortune Telling](#esoteric-traditions-and-religious-objects)
 - [Chinglish](#language-learning)
 - [Chocolate](#food-and-drink)
 - [Christianity and Visual Arts](#applied-art-and-design)
@@ -748,10 +763,13 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [College Admissions/Application Essays](#admissions-and-academic-support)
 - [Comedy](#film-animation-and-performance)
 - [Comparative EU/China Competition Law](#law-and-legal-practice)
+- [Competition Law Scholarship](#law-and-legal-practice)
 - [Confucius](#philosophical-thinkers)
+- [Connotation](#core-tools)
 - [Consumer Behavior](#marketing-and-communication)
 - [Container House](#architecture-and-housing)
 - [Copywriting](#marketing-and-communication)
+- [Corporate Communication](#marketing-and-communication)
 - [Courtroom Sketch](#applied-art-and-design)
 - [Criminology](#government-regulation-and-society)
 - [Cultural Competency](#culture-and-local-knowledge)
@@ -786,9 +804,10 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [Friedrich Nietzsche](#philosophical-thinkers)
 - [Friedrich von Hayek](#economists-and-entrepreneurs)
 - [g factor](#cognition-genetics-and-measurement)
-- [Game Design, Master](#fictional-universes-and-game-creation)
+- [Game Design](#fictional-universes-and-game-creation)
 - [Gastroenterology](#clinical-specialties)
 - [Genealogy](#history-and-heritage)
+- [Generative Cinematic Creativity](#film-animation-and-performance)
 - [Genetics](#life-sciences)
 - [Ghibli](#styles-and-traditions)
 - [Go](#sports-and-games)
@@ -820,6 +839,7 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [Jordan Peterson](#psychological-thinkers)
 - [Joseph Campbell](#religion-and-theology)
 - [Joseph Stalin](#political-figures-and-commentators)
+- [Judge — version 11](#core-tools)
 - [Karl Marx](#philosophical-thinkers)
 - [Kinesiology](#nutrition-rehabilitation-and-traditional-medicine)
 - [Language - Chinese, English, Latin, Thai](#language-learning)
@@ -834,14 +854,17 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [Locomotive](#engineering-disciplines)
 - [Logic](#philosophy-logic-and-perspectives)
 - [Logo](#applied-art-and-design)
+- [Lubuntu](#software-and-cybersecurity)
 - [Ludwig von Mises](#economists-and-entrepreneurs)
 - [Lyrics](#music)
 - [Mao Zedong](#political-figures-and-commentators)
 - [Marcus Antoninus](#philosophical-thinkers)
 - [Markdown](#software-and-cybersecurity)
-- [Marketing](#marketing-and-communication)
 - [Marketing Graphics](#applied-art-and-design)
+- [Marketing](#marketing-and-communication)
 - [Marriage Counselling](#psychology-and-counseling)
+- [Master Spy](#defense-intelligence-and-investigations)
+- [Matchmaking](#travel-practical-life-and-relationships)
 - [Materials Science](#general-and-physical-sciences)
 - [Mathematics](#mathematics-and-data)
 - [Mechanical Engineering](#engineering-disciplines)
@@ -869,7 +892,6 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [Oncology](#clinical-specialties)
 - [Onomatology](#linguistics-and-names)
 - [Ophthalmology](#clinical-specialties)
-- [Optical Illusion](#media-and-techniques)
 - [Oral Pathology](#clinical-specialties)
 - [Paper Cut Art](#media-and-techniques)
 - [Paulo Freire](#educational-thinkers)
@@ -897,9 +919,11 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [Product Review](#travel-practical-life-and-relationships)
 - [Project Management](#management-and-innovation)
 - [Prompting](#ai-and-prompting)
+- [Psychology — duplicate copy](#psychology-and-counseling)
 - [Psychometrics](#cognition-genetics-and-measurement)
 - [Public Administration](#government-regulation-and-society)
 - [Puppeteer](#film-animation-and-performance)
+- [Quantity Theory of Disaggregated Credit](#economics-and-finance)
 - [Quote Art](#applied-art-and-design)
 - [R. Dale Guthrie](#life-sciences)
 - [Radiology](#clinical-specialties)
@@ -908,24 +932,26 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [Rednote Titles](#media-publishing-and-social-platforms)
 - [Regulatory Governance](#government-regulation-and-society)
 - [Religion in International Relations](#government-regulation-and-society)
-- [Research](#research-and-evidence)
+- [Religion, Politics, and Media](#government-regulation-and-society)
 - [Research Ethics Review](#research-and-evidence)
 - [Research Proposal](#research-and-evidence)
+- [Research](#research-and-evidence)
 - [Residential Permit](#migration-and-visas)
 - [Resume Writing](#careers-and-property)
 - [Reverse Engineering](#engineering-disciplines)
 - [Rocket Science](#general-and-physical-sciences)
 - [Rocky Linux](#software-and-cybersecurity)
 - [Ronald Reagan](#political-figures-and-commentators)
+- [Russian Intelligence](#defense-intelligence-and-investigations)
 - [School Placement - Chiang Mai](#teaching-and-school-systems)
 - [Science](#general-and-physical-sciences)
 - [Screenwriting](#literature-and-storytelling)
 - [Secret Service](#defense-intelligence-and-investigations)
-- [Shooting Script](#film-animation-and-performance)
 - [Sigmund Freud](#psychological-thinkers)
 - [Sleep Medicine](#clinical-specialties)
 - [Slideshow](#writing-and-presentation)
 - [Social Media Influencer](#media-publishing-and-social-platforms)
+- [Social Media User Interface](#media-publishing-and-social-platforms)
 - [Socrates](#philosophical-thinkers)
 - [Soviet Constructivism](#styles-and-traditions)
 - [Spelling Bees](#exams-and-language-assessment)
@@ -933,9 +959,7 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [St. Augustine](#religion-and-theology)
 - [Star Wars](#fictional-universes-and-game-creation)
 - [Steampunk](#styles-and-traditions)
-- [Steve Jobs](#economists-and-entrepreneurs)
 - [Stop Motion Animation](#film-animation-and-performance)
-- [Storytelling](#literature-and-storytelling)
 - [Strategic Management](#management-and-innovation)
 - [Subtitles](#translation-and-accessibility)
 - [Systemic Functional Grammar](#linguistics-and-names)
@@ -945,6 +969,7 @@ Entry families are alphabetized by their displayed names; specializations remain
 - [Teacher Assessment](#teaching-and-school-systems)
 - [Teaching](#teaching-and-school-systems)
 - [Technical Writing](#writing-and-presentation)
+- [Thai Fortune Telling](#esoteric-traditions-and-religious-objects)
 - [Thomas Sowell](#economists-and-entrepreneurs)
 - [TOEFL Speaking, Writing](#exams-and-language-assessment)
 - [Toxicology](#life-sciences)
