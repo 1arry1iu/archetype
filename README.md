@@ -1116,15 +1116,6 @@ Entry families are listed by name; specializations stay with their generalist. E
 
 </details>
 
-## Repository Notes
-
-The catalog distinguishes separate prompt files from distinct personas:
-
-| File | Status |
-|---|---|
-| [Judge — version 11](https://github.com/1arry1iu/archetype/blob/main/Judge/J-L.md) | Earlier version; [Judge — version 12](https://github.com/1arry1iu/archetype/blob/main/Judge/J.md) is the main entry. |
-| [Psychology — duplicate copy (UST.md)](https://github.com/1arry1iu/archetype/blob/main/GPTs/UST.md) | Identical to [Psychology (UPC.md)](https://github.com/1arry1iu/archetype/blob/main/GPTs/UPC.md); the filename does not describe its contents. |
-
 ## Contact
 
 X: [@1arry1iu](https://twitter.com/1arry1iu) | 小红书：[The Larry Show](https://www.xiaohongshu.com/user/profile/61b77657000000001000a6de)
