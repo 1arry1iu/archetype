@@ -1,4 +1,4 @@
-# Archetype (A-13)
+# Archetype (A-14)
 
 A library of reusable prompts for domain expertise, creative practice, named-person simulations, and structured workflows. Browse by subject, find a specialist for a task, or use the core tools to build and refine your own archetypes.
 
