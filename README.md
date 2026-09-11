@@ -157,6 +157,7 @@ Each entry has one primary subject home. Task links, named-person entries, and c
 
 #### Software and cybersecurity
 
+- [Android Debloating](https://github.com/1arry1iu/archetype/blob/main/GPTs/UADE.md)
 - [Hacking](https://github.com/1arry1iu/archetype/blob/main/GPTs/UH-L.md)
 - [Lubuntu](https://github.com/1arry1iu/archetype/blob/main/GPTs/ULBTE.md)
 - [Markdown](https://github.com/1arry1iu/archetype/blob/main/GPTs/UMDE-L.md)
@@ -743,6 +744,7 @@ Entry families are listed by name; specializations stay with their generalist. E
 - [Analytical · Depth · Evolutionary · Personality Psychology](#psychology-and-counseling)
 - [Anatomy](#biomedical-sciences-and-pharmacy)
 - [Ancient Greek · Hindu Temple Architecture](#architecture-and-housing)
+- [Android Debloating](#software-and-cybersecurity)
 - [Anthropology of the Secular](#culture-and-local-knowledge)
 - [Antique](#collecting-crafts-and-gardening)
 - [Archaeology](#history-and-heritage)
