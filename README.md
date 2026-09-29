@@ -6,7 +6,7 @@ The reusable core is **Construct**: a set of 20 Markdown prompt specifications f
 
 The repository also has a separate [`Plugins/`](Plugins) area for domain-specific packaged systems. The first checked-in domain package is [`Visual Art v0.1.0`](Plugins/Visual%20Art/Visual_Art_v.0.1.0.zip), with its human-readable source at [`VA.md`](Plugins/Visual%20Art/Prompts/VA.md).
 
-[Get Started](#get-started) · [Packaged Systems](#packaged-systems) · [Construct](#construct) · [Modules](#construct-modules) · [Legacy Archetypes](#legacy-archetypes) · [Utilities](#core-tools) · [Repository Layout](#repository-layout) · [Validation](#readme-validation) · [License](#license)
+[Get Started](#get-started) · [Packaged Systems](#packaged-systems) · [Construct](#construct) · [Modules](#construct-modules) · [Legacy Archetypes](#legacy-archetypes) · [Utilities](#core-tools) · [Repository Layout](#repository-layout)
 
 ## Get Started
 
