@@ -135,19 +135,3 @@ archetype/
 These prompts can be used independently from Construct and the packaged systems. They remain separate because they are primarily task-, perspective-, or persona-specific, while Construct is the reusable general-purpose prompt architecture.
 
 Named-person prompts are simulations or perspective prompts, not the people represented. Inclusion in the repository is not an endorsement, and a prompt's subject label does not establish authority, factual accuracy, or evidentiary status.
-
-## README Validation
-
-Run the repository's README guard with:
-
-```bash
-python tests/test_readme.py
-```
-
-The check verifies that paths referenced by the **Core Tools** table exist and that local/repository links in the **Categories** table resolve to existing repository paths. The GitHub Actions workflow in `.github/workflows/readme-check.yml` runs this check on pushes and pull requests that touch `README.md`, `GPTs/**`, `tests/test_readme.py`, or the workflow file itself.
-
-This is a documentation consistency check; it does **not** test prompt behavior or validate the contents of packaged ZIP artifacts.
-
-## License
-
-This repository is licensed under the [Apache License 2.0](LICENSE).
