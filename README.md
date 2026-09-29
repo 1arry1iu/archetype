@@ -1,4 +1,4 @@
-# Archetype — Construct
+# Archetype (A-16)
 
 **Archetype** is now centered on **Construct**, a versioned GPT plugin that consolidates the repository's general-purpose reasoning and workflow prompts into one modular system.
 
