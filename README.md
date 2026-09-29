@@ -104,35 +104,3 @@ archetype/
 These files can still be used directly with an LLM. They are kept separate from Construct because they represent **task- or persona-specific archetypes**, whereas Construct now carries the reusable general-purpose reasoning architecture.
 
 A named-person prompt is a simulation or perspective prompt, not the person represented. Inclusion in the repository is not an endorsement. Geographic or subject labels indicate intended scope, not authority or evidentiary status.
-
-## Design Notes
-
-Construct's source modules repeatedly separate concepts that are easy to collapse in ordinary prompting — for example data from evidence, identity from role, similarity from equivalence, measurement from evaluation, and validation from mere checking. The aim is to make those distinctions explicit enough that a model can reason with them rather than rely only on surface wording.
-
-That architecture is useful when a task needs one or more of the following:
-
-- explicit definitions and boundaries;
-- structured comparison or evaluation;
-- uncertainty-aware judgment;
-- information, taxonomy, or naming design;
-- model or workflow design;
-- prioritization, ranking, or selection;
-- validation and assurance;
-- reusable persona or construct architecture.
-
-Construct is still prompt-driven software: behavior depends on the host model, available tools, context, and the user's instructions. Important factual, legal, medical, financial, scientific, or safety-critical outputs should be checked against appropriate primary sources and qualified expertise.
-
-## Development
-
-The repository includes a README consistency check at [`tests/test_readme.py`](tests/test_readme.py), run by [`.github/workflows/readme-check.yml`](.github/workflows/readme-check.yml). When changing paths or the compatibility tables above, keep those checks in sync.
-
-For Construct development:
-
-1. Edit or review source modules under `Construct/Prompts/`.
-2. Keep module names and shorthand stable where possible so links and references remain durable.
-3. Version packaged plugin releases explicitly.
-4. Update this README when the packaged version or module inventory changes.
-
-## License
-
-This repository is licensed under the [Apache License 2.0](LICENSE).
