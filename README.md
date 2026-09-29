@@ -1,36 +1,57 @@
 # Archetype (A-16)
 
-**Archetype** is now centered on **Construct**, a versioned GPT plugin that consolidates the repository's general-purpose reasoning and workflow prompts into one modular system.
+**Archetype** is a repository of inspectable prompt architectures, packaged prompt systems, legacy GPT archetypes, and small prompt utilities.
 
-The repository still includes the legacy `GPTs/` library of specialist, creative, and named-person archetypes, but **Construct is the primary maintained entry point for the reusable core prompt architecture**.
+The reusable core is **Construct**: a set of 20 Markdown prompt specifications for construct design, comparison, evaluation, information and knowledge work, judgment, modeling, learning, prioritization, validation, workflow design, and related tasks. Its current packaged distribution is [`Construct v0.9.18`](Construct/Construct_v.0.9.18.zip).
 
-**Current packaged release:** [`Construct v0.9.18`](https://github.com/1arry1iu/archetype/blob/main/Construct/Construct_v.0.9.18.zip)
+The repository also has a separate [`Plugins/`](Plugins) area for domain-specific packaged systems. The first checked-in domain package is [`Visual Art v0.1.0`](Plugins/Visual%20Art/Visual_Art_v.0.1.0.zip), with its human-readable source at [`VA.md`](Plugins/Visual%20Art/Prompts/VA.md).
 
-[Get Started](#get-started) · [Construct](#construct) · [Modules](#construct-modules) · [Repository Layout](#repository-layout) · [Legacy Archetypes](#legacy-archetypes) · [Development](#development)
+[Get Started](#get-started) · [Packaged Systems](#packaged-systems) · [Construct](#construct) · [Modules](#construct-modules) · [Legacy Archetypes](#legacy-archetypes) · [Utilities](#core-tools) · [Repository Layout](#repository-layout) · [Validation](#readme-validation) · [License](#license)
 
 ## Get Started
 
-### Use Construct as a plugin
+This repository is primarily Markdown prompt specifications plus packaged ZIP artifacts. There is no repository-wide build or install command.
 
-1. Download [`Construct_v.0.9.18.zip`](https://github.com/1arry1iu/archetype/blob/main/Construct/Construct_v.0.9.18.zip).
-2. Load the archive using the plugin/import workflow supported by your GPT environment.
-3. Give Construct the task, context, constraints, evidence, and output requirements relevant to your work.
+### Use the source prompts directly
 
-The ZIP archive is the packaged distribution. Human-readable prompt sources are kept in [`Construct/Prompts/`](https://github.com/1arry1iu/archetype/tree/main/Construct/Prompts) so the system can be inspected, reviewed, reused, and developed without treating the package as a black box.
+- For the reusable core, choose a module from [`Construct/Prompts/`](Construct/Prompts).
+- For Visual Art, use [`Plugins/Visual Art/Prompts/VA.md`](Plugins/Visual%20Art/Prompts/VA.md).
+- For older standalone archetypes, browse [`GPTs/`](GPTs).
+- For compact utilities, see [`Block/B`](Block/B) and [`Hack/CONN.md`](Hack/CONN.md).
 
-If your environment does not support package import, the source modules can also be used directly as prompts.
+Supply the selected prompt to the LLM/GPT environment you use in the way that environment accepts system, custom-instruction, or prompt content.
+
+### Use a packaged artifact
+
+The repository currently contains two versioned ZIP artifacts:
+
+- [`Construct_v.0.9.18.zip`](Construct/Construct_v.0.9.18.zip)
+- [`Visual_Art_v.0.1.0.zip`](Plugins/Visual%20Art/Visual_Art_v.0.1.0.zip)
+
+Import or load a ZIP only with a host that supports the package format you are using. The repository does not define a universal installer or runtime for these archives, so the checked-in Markdown sources are the portable, inspectable reference.
+
+## Packaged Systems
+
+| System | Package | Human-readable source | Scope |
+|---|---|---|---|
+| Construct | [`v0.9.18`](Construct/Construct_v.0.9.18.zip) | [`Construct/Prompts/`](Construct/Prompts) | General-purpose reasoning, representation, knowledge, decision, validation, and workflow architectures |
+| Visual Art | [`v0.1.0`](Plugins/Visual%20Art/Visual_Art_v.0.1.0.zip) | [`VA.md`](Plugins/Visual%20Art/Prompts/VA.md) | Visual-art practice spanning perception, conception, research, design, making, critique, exhibition, preservation, professional practice, and learning |
+
+The package directories pair versioned distribution artifacts with checked-in source prompts so the prompt architecture can be inspected independently of the ZIP.
 
 ## Construct
 
-Construct is a **modular prompt system** rather than a single persona prompt. It brings together a family of reusable reasoning architectures for creating constructs, distinguishing alternatives, evaluating evidence, organizing information, making judgments, modeling systems, asking questions, ranking options, validating claims, designing workflows, and related tasks.
+Construct is the repository's reusable core prompt architecture. It is organized as standalone Markdown specifications rather than executable software modules.
 
-The consolidation has three practical goals:
+Each module frames a problem domain as a system: it defines key distinctions, entities and relationships, operating or evaluation models, uncertainty and evidence considerations, governance concerns, and workflows. The modules can be used independently from `Construct/Prompts/`, while the ZIP provides the versioned packaged distribution.
 
-- **One entry point:** the packaged Construct plugin replaces a collection of separate top-level core-prompt directories.
-- **Inspectable sources:** each major capability remains available as a standalone Markdown module under `Construct/Prompts/`.
-- **Versioned distribution:** packaged releases can evolve as a coherent system while source prompts remain easy to review and compare.
+### Design intent
 
-The modules are deliberately broader than short prompt templates. Their source files specify distinctions, operating models, evaluation criteria, uncertainty handling, governance considerations, and workflows intended to make behavior more systematic across unfamiliar contexts.
+- **Reusable core:** the modules cover general reasoning and workflow primitives rather than a single task or persona.
+- **Inspectable sources:** every checked-in core module is readable as Markdown.
+- **Independent or combined use:** a module can be used directly, or the packaged Construct artifact can be used where supported.
+- **Explicit boundaries:** the prompts repeatedly distinguish neighboring concepts instead of treating them as interchangeable.
+- **Evidence and governance:** many modules include provenance, uncertainty, validation, monitoring, or governance as first-class concerns.
 
 ## Construct Modules
 
@@ -57,23 +78,26 @@ The modules are deliberately broader than short prompt templates. Their source f
 | V | [Validity](Construct/Prompts/V.md) | Verification, validation, evidence, assurance, and warranted reliance |
 | W | [Workflow](Construct/Prompts/W.md) | Workflow discovery, orchestration, execution, observability, and optimization |
 
+`H` is not a Construct source module; the repository's older `H` shorthand points to the Connotation utility under `Hack/`.
+
 ## Core Tools
 
 The older shorthand is retained where it still maps cleanly to the current repository.
 
 | Shorthand | Prompt | Function |
 |---|---|---|
-| A's | [Archetypes](https://github.com/1arry1iu/archetype/tree/main/GPTs) | Legacy specialist, creative, and persona prompt library |
-| B | [Block](https://github.com/1arry1iu/archetype/blob/main/Block/B) | Generate structured ten-factor blocks for a construct |
-| C | [Construct](https://github.com/1arry1iu/archetype/tree/main/Construct) | Packaged plugin and modular core prompt system |
-| H | [Connotation](https://github.com/1arry1iu/archetype/blob/main/Hack/CONN.md) | Construct-to-verbs formatting helper |
+| A's | [Archetypes](https://github.com/1arry1iu/archetype/tree/main/GPTs) | Legacy specialist, creative-practice, workflow, and named-person archetypes |
+| B | [Block](https://github.com/1arry1iu/archetype/blob/main/Block/B) | Generate ten relevance-ranked factors for a construct in compact bracket notation |
+| C | [Construct](https://github.com/1arry1iu/archetype/tree/main/Construct) | Reusable core prompt architecture plus its packaged distribution |
+| H | [Connotation](https://github.com/1arry1iu/archetype/blob/main/Hack/CONN.md) | Convert a construct into ten relevance-ranked verb/meaning entries |
 
 ## Categories
 
 | Category | GPTs |
 |---|---|
-| [Construct plugin](#construct) | [Core modules](#construct-modules) |
-| [Legacy archetypes](#legacy-archetypes) | [Specialists, creative practices, and personas](#legacy-archetypes) |
+| [Construct core](#construct) | [Core modules](#construct-modules) |
+| [Packaged systems](#packaged-systems) | [Construct and Visual Art](Plugins) |
+| [Legacy archetypes](#legacy-archetypes) | [Specialists, creative practices, workflows, and named-person simulations](GPTs) |
 | [Utilities](#core-tools) | [Block and Connotation](#core-tools) |
 
 ## Repository Layout
@@ -81,26 +105,49 @@ The older shorthand is retained where it still maps cleanly to the current repos
 ```text
 archetype/
 ├── Construct/
-│   ├── Construct_v.0.9.18.zip   # packaged Construct release
-│   └── Prompts/                 # source modules: C–G and I–W
-├── GPTs/                        # legacy standalone archetype library
+│   ├── Construct_v.0.9.18.zip       # versioned Construct package
+│   └── Prompts/                     # 20 source modules: C-G and I-W
+├── Plugins/
+│   └── Visual Art/
+│       ├── Visual_Art_v.0.1.0.zip   # versioned Visual Art package
+│       └── Prompts/
+│           └── VA.md                # Visual Art source prompt
+├── GPTs/                            # legacy standalone archetype library
 ├── Block/
-│   └── B                        # block generator
+│   └── B                            # ten-factor block generator
 ├── Hack/
-│   └── CONN.md                  # connotation/formatting helper
+│   └── CONN.md                      # construct-to-verbs Connotation utility
 ├── tests/
-│   └── test_readme.py           # README path/table checks
-├── .github/workflows/
-│   └── readme-check.yml         # CI for README consistency
+│   └── test_readme.py               # README path/link guard
+├── .github/
+│   ├── FUNDING.yml
+│   └── workflows/
+│       └── readme-check.yml         # runs the README path/link guard in CI
 ├── A_Avatar.png
-├── LICENSE
+├── LICENSE                          # Apache License 2.0
 └── README.md
 ```
 
 ## Legacy Archetypes
 
-[`GPTs/`](https://github.com/1arry1iu/archetype/tree/main/GPTs) remains the archive/library of standalone archetypes: domain experts, creative practices, specialized workflows, perspectives, and simulations of named people.
+[`GPTs/`](GPTs) is the repository's library of standalone archetype prompts. It includes domain specialists, creative practices, specialized workflows, perspectives, and simulations of named people.
 
-These files can still be used directly with an LLM. They are kept separate from Construct because they represent **task- or persona-specific archetypes**, whereas Construct now carries the reusable general-purpose reasoning architecture.
+These prompts can be used independently from Construct and the packaged systems. They remain separate because they are primarily task-, perspective-, or persona-specific, while Construct is the reusable general-purpose prompt architecture.
 
-A named-person prompt is a simulation or perspective prompt, not the person represented. Inclusion in the repository is not an endorsement. Geographic or subject labels indicate intended scope, not authority or evidentiary status.
+Named-person prompts are simulations or perspective prompts, not the people represented. Inclusion in the repository is not an endorsement, and a prompt's subject label does not establish authority, factual accuracy, or evidentiary status.
+
+## README Validation
+
+Run the repository's README guard with:
+
+```bash
+python tests/test_readme.py
+```
+
+The check verifies that paths referenced by the **Core Tools** table exist and that local/repository links in the **Categories** table resolve to existing repository paths. The GitHub Actions workflow in `.github/workflows/readme-check.yml` runs this check on pushes and pull requests that touch `README.md`, `GPTs/**`, `tests/test_readme.py`, or the workflow file itself.
+
+This is a documentation consistency check; it does **not** test prompt behavior or validate the contents of packaged ZIP artifacts.
+
+## License
+
+This repository is licensed under the [Apache License 2.0](LICENSE).
