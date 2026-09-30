@@ -4,76 +4,95 @@ import sys
 from urllib.parse import unquote, urlsplit
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-README_PATH = REPO_ROOT / 'README.md'
-REPOSITORY_URL_PATTERN = re.compile(
-    r'^https://github\.com/1arry1iu/archetype/(?:tree|blob)/main/(.+)$'
-)
-MARKDOWN_LINK_PATTERN = re.compile(r'(?<!!)\[[^]]+\]\(([^)]+)\)')
+README_PATH = REPO_ROOT / "README.md"
+REPOSITORY = "1arry1iu/archetype"
+MARKDOWN_LINK_PATTERN = re.compile(r"(?<!!)\[[^\]]*\]\(([^)]+)\)")
+HEADING_PATTERN = re.compile(r"^#{1,6}\s+(.+?)\s*#*\s*$", re.MULTILINE)
 
-content = README_PATH.read_text(encoding='utf-8')
 
-table_pattern = re.compile(r"\| Shorthand \| Prompt \| Function \|\n\|---\|---\|---\|\n((?:\|.*\n)+?)\n", re.MULTILINE)
-match = table_pattern.search(content)
-if not match:
-    print('README table not found')
-    sys.exit(1)
+def github_slug(text: str) -> str:
+    text = re.sub(r"<[^>]+>", "", text).strip().lower()
+    text = re.sub(r"[^\w\- ]", "", text, flags=re.UNICODE)
+    text = re.sub(r"\s+", "-", text)
+    return text
 
-rows = [line.strip() for line in match.group(1).strip().split('\n') if line.strip()]
-missing = []
 
-for row in rows:
-    # row like: | A's | [Archetypes](https://github.com/.../GPTs) | Useful/fun personas |
-    parts = [p.strip() for p in row.strip('|').split('|')]
-    if len(parts) < 3:
-        continue
-    prompt_field = parts[1]
-    m = re.match(r"\[(.*?)\]\((.*?)\)", prompt_field)
-    if not m:
-        prompt = prompt_field
-        link = ''
-    else:
-        prompt, link = m.groups()
+def readme_anchors(content: str) -> set[str]:
+    anchors: set[str] = set()
+    counts: dict[str, int] = {}
+    for heading in HEADING_PATTERN.findall(content):
+        base = github_slug(heading)
+        count = counts.get(base, 0)
+        anchor = base if count == 0 else f"{base}-{count}"
+        counts[base] = count + 1
+        anchors.add(anchor)
+    return anchors
 
-    path = None
-    if 'github.com' in link and '/archetype/' in link:
-        # extract after /archetype/tree/main/ or /archetype/blob/main/
-        m2 = re.search(r'/archetype/(?:tree|blob)/main/([^\)\#]+)', link)
-        if m2:
-            path = m2.group(1)
-    if not path:
-        # fallback to prompt name
-        path = prompt
 
-    local_path = REPO_ROOT / path
-    if not local_path.exists():
-        missing.append(path)
+def local_target(raw_target: str) -> tuple[str | None, str]:
+    target = raw_target.strip()
+    if target.startswith("<") and target.endswith(">"):
+        target = target[1:-1].strip()
 
-categories_pattern = re.compile(
-    r"## Categories\n\n\| Category \| GPTs \|\n\|---\|---\|\n((?:\|.*\n)+?)\n",
-    re.MULTILINE,
-)
-categories_match = categories_pattern.search(content)
-if not categories_match:
-    print('README categories table not found')
-    sys.exit(1)
+    if target.startswith("#"):
+        return "", unquote(target[1:])
 
-for target in MARKDOWN_LINK_PATTERN.findall(categories_match.group(1)):
-    target = target.strip()
-    repository_match = REPOSITORY_URL_PATTERN.match(target)
+    parsed = urlsplit(target)
+    if parsed.scheme or target.startswith("//"):
+        if parsed.scheme in {"http", "https"} and parsed.netloc == "github.com":
+            prefix = f"/{REPOSITORY}/"
+            if parsed.path.startswith(prefix):
+                repo_path = parsed.path[len(prefix):]
+                match = re.match(r"(?:blob|tree)/[^/]+/(.+)$", repo_path)
+                if match:
+                    return unquote(match.group(1)), unquote(parsed.fragment)
+        return None, ""
 
-    if repository_match:
-        path = repository_match.group(1)
-    elif not urlsplit(target).scheme and not target.startswith(('#', '//')):
-        path = target
-    else:
-        continue
+    return unquote(parsed.path), unquote(parsed.fragment)
 
-    path = unquote(path.split('#', 1)[0].split('?', 1)[0])
-    if not (REPO_ROOT / path).exists():
-        missing.append(path)
 
-if missing:
-    print('Missing paths:', ', '.join(sorted(set(missing))))
-    sys.exit(1)
+def validate_readme_links() -> list[str]:
+    content = README_PATH.read_text(encoding="utf-8")
+    anchors = readme_anchors(content)
+    errors: list[str] = []
 
-print('All README paths and category links exist.')
+    for raw_target in MARKDOWN_LINK_PATTERN.findall(content):
+        path_text, fragment = local_target(raw_target)
+        if path_text is None:
+            continue
+
+        if path_text == "":
+            target_path = README_PATH
+        else:
+            target_path = (README_PATH.parent / path_text).resolve()
+            try:
+                target_path.relative_to(REPO_ROOT.resolve())
+            except ValueError:
+                errors.append(f"link escapes repository: {raw_target}")
+                continue
+
+        if not target_path.exists():
+            errors.append(f"missing path: {path_text or 'README.md'} (from {raw_target})")
+            continue
+
+        if fragment and target_path == README_PATH:
+            if fragment not in anchors:
+                errors.append(f"missing README anchor: #{fragment}")
+
+    return errors
+
+
+def main() -> int:
+    errors = validate_readme_links()
+    if errors:
+        print("README local-link validation failed:")
+        for error in sorted(set(errors)):
+            print(f"- {error}")
+        return 1
+
+    print("All README local paths and anchors exist.")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
