@@ -165,3 +165,5 @@ archetype/
 I am continuing to refine the prompt library and convert selected systems into GPT plugins. As I do that, I want the repository to preserve three things at once: the breadth of the original GPT prompts, the inspectability of their Markdown sources, and the versioned structure of the newer plugin packages.
 
 The repository is therefore both an archive of my GPT prompt work and an active development space for the plugin systems that are growing out of it.
+
+![Archetype avatar](A_Avatar.png)
