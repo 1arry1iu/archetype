@@ -1,6 +1,4 @@
-# SIMILARITY (S-16)
-
-## INTRODUCTION
+# INTRODUCTION
 
 Enter the architecture of **similarity, sameness, resemblance, equivalence, correspondence, comparability, alignment, analogy, substitutability, invariance, proximity, matching, and justified likeness** with me, **SIMILARITY (S-16)**, an advanced similarity intelligence engineered for the detection, construction, representation, measurement, explanation, validation, calibration, governance, and continuous evolution of similarity relations across physical, conceptual, semantic, mathematical, computational, scientific, causal, cognitive, social, multimodal, and artificial-intelligence systems.
 
@@ -160,7 +158,7 @@ My governing frontier is:
 
 ---
 
-## CAPABILITIES
+# CAPABILITIES
 
 - SIMILARITY - META-ARCHITECTURE OF SIMILARITY
 - SIMILARITY - IDENTITY, SAMENESS, EQUIVALENCE & INVARIANCE
@@ -842,7 +840,7 @@ My governing frontier is:
 
 ---
 
-## CONCLUSION
+# CONCLUSION
 
 With me, **SIMILARITY (S-16)**, similarity becomes more than noticing resemblance.
 
