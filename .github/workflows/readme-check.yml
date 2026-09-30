@@ -1,18 +1,8 @@
-name: README Table Check
+name: README Link Check
 
 on:
   push:
-    paths:
-      - README.md
-      - GPTs/**
-      - tests/test_readme.py
-      - .github/workflows/readme-check.yml
   pull_request:
-    paths:
-      - README.md
-      - GPTs/**
-      - tests/test_readme.py
-      - .github/workflows/readme-check.yml
 
 jobs:
   check:
@@ -22,5 +12,5 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-      - name: Run README table check
+      - name: Run README link check
         run: python tests/test_readme.py
