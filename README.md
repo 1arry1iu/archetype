@@ -4,16 +4,15 @@
 
 I originally built this repository as a collection of standalone GPT prompt architectures: domain experts, creative practices, research systems, reasoning frameworks, personas, workflows, and other specialized archetypes. I am now updating selected prompts into more structured, inspectable, and reusable plugin packages while keeping the underlying prompt sources available in Markdown.
 
-That means the repository currently represents both stages of the work:
+The current repository contains 32 Markdown prompt specifications and four versioned plugin packages:
 
-- [`GPTs/`](GPTs) contains the broader GPT prompt library I have built over time.
-- [`Prompts/`](Prompts) contains prompt sources I am actively organizing and evolving.
+- [`Prompts/`](Prompts) contains 12 standalone prompt specifications and the 20 modules in [`Prompts/Construct/`](Prompts/Construct).
 - [`Plugins/`](Plugins) contains packaged GPT plugins that I have already started producing from selected prompts.
 - [`Construct/`](Construct) contains my reusable Construct package and its underlying modules live in [`Prompts/Construct/`](Prompts/Construct).
 
 I am treating this as an ongoing migration rather than a completed conversion. Not every GPT prompt has a plugin counterpart yet, and the prompt sources remain useful on their own.
 
-[Get Started](#get-started) · [Repository Evolution](#repository-evolution) · [Packaged Systems](#packaged-systems) · [Construct](#construct) · [Construct Modules](#construct-modules) · [Standalone Prompts](#standalone-prompts) · [GPT Prompt Library](#gpt-prompt-library) · [Repository Layout](#repository-layout)
+[Get Started](#get-started) · [Repository Evolution](#repository-evolution) · [Packaged Systems](#packaged-systems) · [Construct](#construct) · [Construct Modules](#construct-modules) · [Standalone Prompts](#standalone-prompts) · [Repository Layout](#repository-layout) · [Validation](#validation) · [License](#license)
 
 ## Get Started
 
@@ -23,7 +22,7 @@ I keep the repository intentionally inspectable. Most of the source material is 
 
 If you want to work with the prompt sources themselves:
 
-- Browse my broader GPT prompt library in [`GPTs/`](GPTs).
+- Browse the current prompt library in [`Prompts/`](Prompts).
 - Use my Construct modules from [`Prompts/Construct/`](Prompts/Construct).
 - Use Citation from [`Prompts/CT.md`](Prompts/CT.md).
 - Use Systematic Review from [`Prompts/SR.md`](Prompts/SR.md).
@@ -41,17 +40,18 @@ I currently maintain four versioned packaged systems:
 - [`Systematic_Review_v.0.1.7.zip`](Plugins/Systematic_Review_v.0.1.7.zip)
 - [`Visual_Art_v.0.1.0.zip`](Plugins/Visual_Art_v.0.1.0.zip)
 
-I am using these packages as the next stage of the project: moving selected GPT prompts from standalone instructions into reusable GPT plugin form. Where I keep a corresponding Markdown source in the repository, I consider that source the easiest place to inspect the underlying prompt architecture.
+I am using these packages as the next stage of the project: moving selected GPT prompts from standalone instructions into reusable GPT plugin form. Download the ZIP for the system you want and use the import or installation process supported by your plugin environment. To inspect a package, extract it and read its `plugin.json` manifest and `skills/` directory.
+
+The Markdown sources describe the evolving prompt architectures. A versioned ZIP is a separate release snapshot, so inspect the files inside that archive when you need to know exactly what a package contains.
 
 ## Repository Evolution
 
-I am evolving Archetype in roughly three layers:
+Archetype began as a broader collection of GPT prompt architectures. The current tree focuses on two maintained forms:
 
-1. **GPT prompts** — the original and still-growing collection of standalone prompt architectures in [`GPTs/`](GPTs).
-2. **Structured prompt sources** — prompts I am refining into clearer source specifications under [`Prompts/`](Prompts).
-3. **GPT plugins** — versioned packaged systems that I am building from selected prompt architectures under [`Plugins/`](Plugins) and [`Construct/`](Construct).
+1. **Prompt sources** — standalone specifications and reusable Construct modules under [`Prompts/`](Prompts).
+2. **Packaged plugins** — versioned distributions under [`Plugins/`](Plugins) and [`Construct/`](Construct).
 
-I do not expect those layers to move in lockstep. Some prompts may remain useful as standalone GPT prompts, some may become structured source specifications first, and some may progress into packaged plugins.
+I do not expect these forms to move in lockstep. Some prompts may remain useful as standalone instructions, while others progress into packaged plugins. Earlier repository states remain available through Git history.
 
 My aim is to preserve the strengths of the prompt library while making the systems I continue developing easier to inspect, version, reuse, test, and package.
 
@@ -59,11 +59,11 @@ My aim is to preserve the strengths of the prompt library while making the syste
 
 These are the systems I have packaged so far:
 
-| System | Package | Human-readable source | Scope |
+| System | Package | Related prompt sources | Scope |
 |---|---|---|---|
 | Construct | [`v0.9.18`](Construct/Construct_v.0.9.18.zip) | [`Prompts/Construct/`](Prompts/Construct) | General-purpose reasoning, representation, knowledge, decision, validation, and workflow architectures |
-| Citation | [`v0.1.1`](Plugins/Citation_v.0.1.1.zip) | [`CT.md`](Prompts/CT.md) | Scholarly reference, evidence linkage, attribution, provenance, verification, and citation governance |
-| Systematic Review | [`v0.1.7`](Plugins/Systematic_Review_v.0.1.7.zip) | [`SR.md`](Prompts/SR.md) | Systematic review and evidence-synthesis workflows, appraisal, synthesis, reporting, reproducibility, and updating |
+| Citation | [`v0.1.1`](Plugins/Citation_v.0.1.1.zip) | [`CT.md`](Prompts/CT.md), [`RS.md`](Prompts/RS.md) | Citation and research skills for scholarly reference, evidence linkage, attribution, provenance, verification, and research methods |
+| Systematic Review | [`v0.1.7`](Plugins/Systematic_Review_v.0.1.7.zip) | [`SR.md`](Prompts/SR.md), [`RS.md`](Prompts/RS.md), [`ST.md`](Prompts/ST.md), [`TR.md`](Prompts/TR.md), [`CT.md`](Prompts/CT.md) | Systematic review, research, synthesis, theory, and citation skills for evidence workflows, appraisal, reporting, reproducibility, and updating |
 | Visual Art | [`v0.1.0`](Plugins/Visual_Art_v.0.1.0.zip) | [`VA.md`](Prompts/VA.md) | Visual-art practice spanning perception, conception, research, design, making, critique, exhibition, preservation, professional practice, and learning |
 
 I expect this section to grow as I convert more of the prompt library into plugin packages.
@@ -111,44 +111,49 @@ I use Construct as a shared conceptual foundation rather than as a single person
 
 ## Standalone Prompts
 
-I also keep several standalone prompt specifications at the top level of [`Prompts/`](Prompts):
+I keep 12 standalone prompt specifications at the top level of [`Prompts/`](Prompts):
 
-- [`CT.md`](Prompts/CT.md) — Citation
-- [`RS.md`](Prompts/RS.md)
-- [`SR.md`](Prompts/SR.md) — Systematic Review
-- [`ST.md`](Prompts/ST.md)
-- [`TR.md`](Prompts/TR.md)
-- [`VA.md`](Prompts/VA.md) — Visual Art
+| Code | Prompt | Primary focus |
+|---|---|---|
+| AT | [Aesthetics](Prompts/AT.md) | Aesthetic experience, perception, interpretation, value, judgment, and creation |
+| CT | [Citation](Prompts/CT.md) | Bibliographic identity, attribution, claim–evidence alignment, verification, and provenance |
+| FED | [Front-End Development](Prompts/FED.md) | Browser interfaces, interaction, accessibility, performance, and frontend engineering |
+| JRP | [Jurisprudence](Prompts/JRP.md) | Philosophy of law, legal concepts, authority, interpretation, and normative analysis |
+| LS | [Legal Scholarship](Prompts/LS.md) | Legal research, doctrinal and comparative analysis, empirical inquiry, and scholarly argument |
+| NRR | [Neurorights](Prompts/NRR.md) | Neurotechnology, mental autonomy, privacy, integrity, rights, and governance |
+| RS | [Research](Prompts/RS.md) | Research questions, methods, evidence, analysis, validation, and reproducibility |
+| SR | [Systematic Review](Prompts/SR.md) | Protocols, searching, screening, extraction, appraisal, synthesis, and review reporting |
+| ST | [Synthesis](Prompts/ST.md) | Integration of heterogeneous evidence, findings, models, and perspectives |
+| TR | [Theory](Prompts/TR.md) | Concepts, explanations, mechanisms, predictions, theory testing, and revision |
+| VA | [Visual Art](Prompts/VA.md) | Visual language, artistic inquiry, studio practice, critique, and artistic development |
+| WD | [Web Development](Prompts/WD.md) | Web architecture, frontend and backend systems, data, security, testing, and operations |
 
 Some of these are already connected to packaged plugins, while others are still part of the source-side development process.
-
-## GPT Prompt Library
-
-[`GPTs/`](GPTs) is the main library of GPT prompts I have created. It includes domain specialists, creative practices, structured workflows, perspectives, archetypes, and simulations of named people.
-
-I am keeping this library available while I update selected prompts into newer source and plugin structures. I do not treat the older prompt format as obsolete simply because a plugin version may exist; the standalone prompts remain useful for direct inspection, experimentation, comparison, and reuse.
-
-For named-person prompts, I use the name to indicate a simulation or perspective prompt rather than the actual person. I do not intend inclusion in the repository as an endorsement, and I do not treat a prompt's subject label as evidence of authority or factual accuracy.
 
 ## Repository Layout
 
 ```text
 archetype/
-├── GPTs/                            # my broader GPT prompt library
 ├── Prompts/                         # source prompts I am organizing and evolving
 │   ├── Construct/                   # 20 reusable Construct source modules
+│   ├── AT.md                        # Aesthetics
 │   ├── CT.md                        # Citation source
-│   ├── RS.md
+│   ├── FED.md                       # Front-End Development
+│   ├── JRP.md                       # Jurisprudence
+│   ├── LS.md                        # Legal Scholarship
+│   ├── NRR.md                       # Neurorights
+│   ├── RS.md                        # Research
 │   ├── SR.md                        # Systematic Review source
-│   ├── ST.md
-│   ├── TR.md
-│   └── VA.md                        # Visual Art source
+│   ├── ST.md                        # Synthesis
+│   ├── TR.md                        # Theory
+│   ├── VA.md                        # Visual Art source
+│   └── WD.md                        # Web Development
 ├── Plugins/                         # packaged GPT plugins
 │   ├── Citation_v.0.1.1.zip
 │   ├── Systematic_Review_v.0.1.7.zip
 │   └── Visual_Art_v.0.1.0.zip
 ├── Construct/
-│   └── Construct_v.0.9.18.zip       # packaged reusable core
+│   └── Construct_v.0.9.18.zip        # packaged reusable core
 ├── tests/
 │   └── test_readme.py               # README local-link guard
 ├── .github/
@@ -164,6 +169,20 @@ archetype/
 
 I am continuing to refine the prompt library and convert selected systems into GPT plugins. As I do that, I want the repository to preserve three things at once: the breadth of the original GPT prompts, the inspectability of their Markdown sources, and the versioned structure of the newer plugin packages.
 
-The repository is therefore both an archive of my GPT prompt work and an active development space for the plugin systems that are growing out of it.
+The repository is an active development space for prompt sources and the plugin systems growing out of them.
+
+## Validation
+
+From the repository root, run the README link check with Python 3.10 or later:
+
+```sh
+python tests/test_readme.py
+```
+
+The [README Link Check workflow](.github/workflows/readme-check.yml) runs this command on pushes and pull requests. It checks inline README links to local paths and README heading anchors. Package validation and prompt behavior evaluation are outside this check's scope.
+
+## License
+
+This repository is licensed under the [Apache License 2.0](LICENSE).
 
 ![Archetype avatar](A_Avatar.png)
