@@ -12,7 +12,7 @@ The current repository contains 32 Markdown prompt specifications and four versi
 
 I am treating this as an ongoing migration rather than a completed conversion. Not every GPT prompt has a plugin counterpart yet, and the prompt sources remain useful on their own.
 
-[Get Started](#get-started) · [Repository Evolution](#repository-evolution) · [Packaged Systems](#packaged-systems) · [Construct](#construct) · [Construct Modules](#construct-modules) · [Standalone Prompts](#standalone-prompts) · [Repository Layout](#repository-layout) · [Validation](#validation) · [License](#license)
+[Get Started](#get-started) · [Repository Evolution](#repository-evolution) · [Packaged Systems](#packaged-systems) · [Construct](#construct) · [Construct Modules](#construct-modules) · [Standalone Prompts](#standalone-prompts) · [Repository Layout](#repository-layout) · [License](#license)
 
 ## Get Started
 
@@ -170,16 +170,6 @@ archetype/
 I am continuing to refine the prompt library and convert selected systems into GPT plugins. As I do that, I want the repository to preserve three things at once: the breadth of the original GPT prompts, the inspectability of their Markdown sources, and the versioned structure of the newer plugin packages.
 
 The repository is an active development space for prompt sources and the plugin systems growing out of them.
-
-## Validation
-
-From the repository root, run the README link check with Python 3.10 or later:
-
-```sh
-python tests/test_readme.py
-```
-
-The [README Link Check workflow](.github/workflows/readme-check.yml) runs this command on pushes and pull requests. It checks inline README links to local paths and README heading anchors. Package validation and prompt behavior evaluation are outside this check's scope.
 
 ## License
 
