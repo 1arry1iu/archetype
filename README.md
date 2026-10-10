@@ -4,7 +4,7 @@
 
 I maintain the **Markdown specifications as inspectable source material** and progressively package selected systems as GPT plugins. The conversion is ongoing: a source specification does not necessarily have a corresponding plugin, and an existing plugin ZIP is a versioned snapshot rather than an automatically synchronized build.
 
-**Current inventory:** **33 Markdown specifications** (13 standalone specialists and 20 Construct modules) and **four versioned plugin ZIPs**. The label **A-18** identifies this repository's conceptual architecture; it is not the version number of every included prompt or plugin.
+**Current inventory:** **34 Markdown specifications** (13 standalone specialists and 21 Construct modules) and **four versioned plugin ZIPs**. **A-18** identifies the Archetype knowledge architecture in [`Prompts/Construct/A.md`](Prompts/Construct/A.md); it is not a repository-wide release number. Each source architecture and plugin package has its own identifier or version.
 
 [Get Started](#get-started) · [Architecture](#architecture) · [Plugin Packages](#plugin-packages) · [Construct Modules](#construct-modules) · [Standalone Specialists](#standalone-specialists) · [Validation](#validation-and-quality) · [Roadmap](#development-roadmap) · [Repository Layout](#repository-layout) · [License](#license)
 
@@ -12,8 +12,8 @@ I maintain the **Markdown specifications as inspectable source material** and pr
 
 ### Use a prompt specification
 
-1. Browse the [standalone specialists](Prompts) or the [20 Construct modules](Prompts/Construct).
-2. Open the Markdown file for the subject or capability you need, such as [Analytical Psychology](Prompts/AP.md), [Citation](Prompts/CT.md), [Systematic Review](Prompts/SR.md), or [Visual Art](Prompts/VA.md).
+1. Browse the [standalone specialists](Prompts) or the [21 Construct modules](Prompts/Construct).
+2. Open the Markdown file for the subject or capability you need, such as [Archetype (A-18)](Prompts/Construct/A.md), [Analytical Psychology](Prompts/AP.md), [Citation](Prompts/CT.md), [Systematic Review](Prompts/SR.md), or [Visual Art](Prompts/VA.md).
 3. Adapt the relevant instructions, knowledge structure, and operating procedures to your model, available tools, task, and context limits.
 
 The specifications are extensive. They should not be assumed to fit in one model context window, nor should their conceptual breadth be confused with experimentally demonstrated model performance. For focused applications, select the relevant sections or create a smaller, tested skill from the source.
@@ -38,11 +38,11 @@ Archetype distinguishes three related layers:
 
 | Layer | Location | Contents | Role |
 |---|---|---|---|
-| Reusable foundations | [Prompts/Construct/](Prompts/Construct) | 20 Markdown modules | General reasoning, judgment, representation, inquiry, modeling, and workflow capabilities |
+| Reusable foundations | [Prompts/Construct/](Prompts/Construct) | 21 Markdown modules | Archetypal knowledge, generative identities, reasoning, judgment, representation, inquiry, modeling, and workflows |
 | Specialized knowledge | [Prompts/](Prompts) | 13 standalone Markdown specifications | Domain-specific expertise, research methods, creative disciplines, and operating procedures |
 | Packaged distributions | [Plugins/](Plugins) | 4 versioned ZIP files | Reusable plugin snapshots with manifests and skill files |
 
-**Construct** is the general-purpose foundation. Its modules cover concepts such as Difference, Evaluation, Knowledge, Taxonomy, Validity, and Workflow. The standalone specialists extend the library into disciplines such as Analytical Psychology, Jurisprudence, Legal Scholarship, Neurorights, Citation, Research, Aesthetics, and software engineering.
+**Construct** is the modular foundation: **Archetype (A-18)** maps recurring patterns, symbolic structures, and their interpretations; **Construct (C-18)** models generative identities and personas; the remaining modules cover capabilities such as Difference, Evaluation, Knowledge, Taxonomy, Validity, and Workflow. The standalone specialists extend this foundation into disciplines such as Analytical Psychology, Jurisprudence, Legal Scholarship, Neurorights, Citation, Research, Aesthetics, and software engineering.
 
 ### Design principles
 
@@ -61,31 +61,33 @@ The following ZIPs are present in the repository:
 
 | System | Current ZIP | Included skills | Related Markdown sources |
 |---|---|---|---|
-| Construct | [v0.9.20](Plugins/Construct_v.0.9.20.zip) | 20 | [Construct modules](Prompts/Construct) |
+| Construct | [v0.9.20](Plugins/Construct_v.0.9.20.zip) | 20: construct and 19 supporting modules (**does not include archetype**) | [Construct modules](Prompts/Construct) |
 | Citation | [v0.1.1](Plugins/Citation_v.0.1.1.zip) | 2: citation, research | [CT](Prompts/CT.md), [RS](Prompts/RS.md) |
 | Systematic Review | [v0.1.7](Plugins/Systematic_Review_v.0.1.7.zip) | 5: systematic-review, research, synthesis, theory, citation | [SR](Prompts/SR.md), [RS](Prompts/RS.md), [ST](Prompts/ST.md), [TR](Prompts/TR.md), [CT](Prompts/CT.md) |
-| Visual Art | [v0.1.0](Plugins/Visual_Art_v.0.1.0.zip) | 1: visual-art | [VA](Prompts/VA.md) |
+| Visual Art | [v0.1.1](Plugins/Visual_Art_v.0.1.1.zip) | 2: aesthetics, visual-art | [AT](Prompts/AT.md), [VA](Prompts/VA.md) |
 
-The source specifications in `Prompts/` remain useful independently of the packaged versions. A plugin's version number and a source architecture identifier (for example, `AP-18` or `C-17`) describe different things.
+The source specifications in `Prompts/` remain useful independently of the packaged versions. A plugin's version number and a source architecture identifier (for example, `AP-18` or `C-18`) describe different things. In particular, the newly added **A-18 source is not packaged in Construct v0.9.20**.
 
 ### Release and compatibility notes
 
 The plugin packages are presently maintained as committed ZIP artifacts. There is **no automated, reproducible source-to-package build pipeline** in this repository, and there is no CI check demonstrating that packaged skills exactly match the latest Markdown sources.
 
-The current archives also have packaging differences:
+Inspection of the four current archives found that:
 
-- **Construct, Citation, and Systematic Review** place `plugin.json` and their `skills/` directory at the ZIP root.
-- **Visual Art** places those files inside a top-level `Visual_Art_v.0.1.0/` directory. Its two bundled manifests also disagree on the version: `plugin.json` records `0.1.0` while `.codex-plugin/plugin.json` records `1.0.0`. This inconsistency has **not** been corrected in the ZIP.
+- Each ZIP has root-level `plugin.json`, `.codex-plugin/plugin.json`, and `skills/` entries. The two manifest version values agree **within each current ZIP**, including Visual Art v0.1.1.
+- Construct v0.9.20 contains 20 skills but does **not** yet contain the new `archetype` skill; its archive also includes an empty `.Rhistory` file that should be excluded from future builds.
+- Some packaged skills differ from the corresponding current Markdown sources. For example, packaged **Citation**, **Synthesis**, and **Visual Art** skill bodies are not identical to `CT.md`, `ST.md`, and `VA.md`, respectively. These differences may represent versioned snapshots, but their source commits are not recorded in the repository's release metadata. Conversely, selected skills such as **Systematic Review**, **Theory**, and **Research** matched their current sources after removing skill metadata in the review.
 
-Importers may have different requirements; verify archive layout, manifests, and skills before relying on any given release. A standardized package format and release checks are on the [roadmap](#development-roadmap).
+Importers may have different requirements; matching manifests and root layouts do not establish importer compatibility. Inspect an archive before relying on it. Source-to-package provenance, deterministic builds, and automated release checks remain on the [roadmap](#development-roadmap).
 
 ## Construct Modules
 
-The 20 source modules of Construct live in [`Prompts/Construct/`](Prompts/Construct).
+The 21 source modules of Construct live in [`Prompts/Construct/`](Prompts/Construct). Not every source module is included in the existing Construct plugin ZIP.
 
 | Code | Module | Primary focus |
 |---|---|---|
-| C | [Construct](Prompts/Construct/C.md) | Archetypal personas, generative identity systems, and construct design |
+| A | [Archetype (A-18)](Prompts/Construct/A.md) | Archetypal patterns, symbolic morphologies, psychological and cultural interpretations, generative modeling, and evidence boundaries |
+| C | [Construct (C-18)](Prompts/Construct/C.md) | Archetypal personas, generative identity systems, and construct design |
 | D | [Difference](Prompts/Construct/D.md) | Distinction, contrast, comparison, boundaries, and meaningful non-sameness |
 | E | [Evaluation](Prompts/Construct/E.md) | Evidence, measurement, causal analysis, value judgments, and metaevaluation |
 | F | [Format](Prompts/Construct/F.md) | Representation, encoding, schemas, interoperability, and transformation |
@@ -136,7 +138,7 @@ The implemented automated check is [`tests/test_readme.py`](tests/test_readme.py
 
 **Currently checked:** README local links and anchors.
 
-**Not yet automatically checked:** plugin manifest consistency, ZIP layout or integrity, source-to-package parity, factor-notation grammar, cross-document terminology, citations and evidence provenance, model behavior, or task performance.
+**Not yet automatically checked:** plugin manifest consistency, ZIP layout or integrity, source-to-package parity, factor-notation grammar, semantic distinctiveness, cross-document terminology, citations and evidence provenance, model behavior, or task performance. A link-check pass does not establish any of these properties.
 
 A structurally extensive prompt is not, by itself, a validated expert system. In particular, frontier, legal, clinical, and scientific claims should be checked against relevant primary literature, current professional standards, and the context of use. The Markdown specifications are evolving knowledge architectures, not independently verified bibliographies.
 
@@ -144,13 +146,14 @@ A structurally extensive prompt is not, by itself, a validated expert system. In
 
 These are priorities for future work, **not implemented features**:
 
-1. **Restore and maintain repository integrity.** Keep source and package inventories, links, and release references synchronized.
-2. **Standardize plugin packaging.** Normalize ZIP roots, manifests, version fields, and unwanted build artifacts.
-3. **Make releases reproducible.** Add a deterministic source-to-skill build process, checksums, and package validation in CI.
-4. **Validate knowledge structures.** Introduce a formal schema or parser for nested factors, structural linting, and semantic consistency checks.
-5. **Track evidence and provenance.** Add source registries, citation verification, evidence status, and review dates to research-intensive specialists.
-6. **Evaluate specialist behavior.** Develop task-based test cases, adversarial checks, and regression benchmarks rather than inferring effectiveness from prompt length or coverage.
-7. **Improve context efficiency.** Separate concise operating instructions from deep reference material where progressive disclosure is supported.
+1. **Keep documentation synchronized.** Generate or verify source and package inventories, release links, and skill counts against the repository tree.
+2. **Make releases reproducible and traceable.** Build skill ZIPs deterministically from explicitly identified source commits; record checksums, source-to-skill mappings, and release provenance.
+3. **Validate packages in CI.** Check ZIP roots, manifests, version parity, skill metadata, required entries, and exclusion of editor or build artifacts.
+4. **Formalize knowledge structures.** Define a parser and schema for nested-factor notation; lint hierarchy, numbering, uniqueness, and cross-document terminology.
+5. **Improve semantic precision.** Audit repeated generic subfactor templates—particularly in A-18—and favor domain-specific relationships over expansion for its own sake.
+6. **Track evidence and provenance.** Add source registries, citation verification, evidence status, and review dates to research-intensive specialists.
+7. **Evaluate specialist behavior.** Add representative tasks, adversarial checks, domain-boundary tests, and regression benchmarks rather than inferring effectiveness from prompt length or coverage.
+8. **Improve context efficiency.** Separate concise operating instructions from deep reference material where progressive disclosure is supported.
 
 The goal is to retain the expressive scope of the original prompt library while developing more dependable, inspectable, and testable specialist systems.
 
@@ -159,7 +162,10 @@ The goal is to retain the expressive scope of the original prompt library while 
 ```text
 archetype/
 ├── Prompts/
-│   ├── Construct/                     # 20 reusable source modules: C, D, ... W
+│   ├── Construct/                     # 21 reusable source modules: A, C, D, ... W
+│   │   ├── A.md                       # Archetype (A-18)
+│   │   ├── C.md                       # Construct (C-18)
+│   │   └── ...                        # Other Construct source modules
 │   ├── AP.md                          # Analytical Psychology (AP-18)
 │   ├── AT.md                          # Aesthetics
 │   ├── CT.md                          # Citation
@@ -177,7 +183,7 @@ archetype/
 │   ├── Citation_v.0.1.1.zip
 │   ├── Construct_v.0.9.20.zip
 │   ├── Systematic_Review_v.0.1.7.zip
-│   └── Visual_Art_v.0.1.0.zip
+│   └── Visual_Art_v.0.1.1.zip
 ├── tests/
 │   └── test_readme.py                 # README link and anchor validation
 ├── .github/
