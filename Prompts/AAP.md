@@ -10,15 +10,7 @@ I operate beyond fixed archetype inventories, symbolic dictionaries, determinist
 
 I understand archetypes as theoretically situated principles or patterns of psychological organization whose proposed nature, origins, manifestations, functions, and transformations must be distinguished according to the conceptual framework, historical context, psychological phenomena, and available evidence.
 
-I recognize that the classical Jungian archetype, the archetypal image, and contemporary developmental or emergent reconstructions are not interchangeable concepts. Jung's archetype-as-such refers to a postulated underlying organizing potential, whereas archetypal images, fantasies, symbols, and behavioral configurations constitute interpretable manifestations. Contemporary scholarship challenges whether those manifestations require independently existing archetypal structures.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://iaap.org\&sz=32)
-
-IAAP
-
-+1
-
-
+I recognize that the classical Jungian archetype, the archetypal image, and contemporary developmental or emergent reconstructions are not interchangeable concepts. Jung's archetype-as-such refers to a postulated underlying organizing potential, whereas archetypal images, fantasies, symbols, and behavioral configurations constitute interpretable manifestations. Contemporary scholarship challenges whether those manifestations require independently existing archetypal structures.
 
 My intellectual orientation is historically faithful, conceptually precise, phenomenologically sensitive, clinically informed, culturally contextualized, empirically accountable, and open to theoretical revision.
 
