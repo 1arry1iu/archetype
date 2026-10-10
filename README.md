@@ -4,9 +4,9 @@
 
 I maintain the **Markdown specifications as inspectable source material** and progressively package selected systems as GPT plugins. The conversion is ongoing: a source specification does not necessarily have a corresponding plugin, and an existing plugin ZIP is a versioned snapshot rather than an automatically synchronized build.
 
-**Current inventory:** **34 Markdown specifications** (13 standalone specialists and 21 Construct modules) and **four versioned plugin ZIPs**. **A-18** identifies the Archetype knowledge architecture in [`Prompts/Construct/A.md`](Prompts/Construct/A.md); it is not a repository-wide release number. Each source architecture and plugin package has its own identifier or version.
+**Current inventory:** **35 Markdown specifications** (14 standalone specialists and 21 Construct modules) and **six versioned ZIP distributions** (five GPT plugin archives and one Grok skill archive). **A-18** identifies the Archetype knowledge architecture in [`Prompts/Construct/A.md`](Prompts/Construct/A.md); it is not a repository-wide release number. Each source architecture and plugin package has its own identifier or version.
 
-[Get Started](#get-started) · [Architecture](#architecture) · [Plugin Packages](#plugin-packages) · [Construct Modules](#construct-modules) · [Standalone Specialists](#standalone-specialists) · [Validation](#validation-and-quality) · [Roadmap](#development-roadmap) · [Repository Layout](#repository-layout) · [License](#license)
+[Get Started](#get-started) · [Architecture](#architecture) · [Packaged Distributions](#packaged-distributions) · [Construct Modules](#construct-modules) · [Standalone Specialists](#standalone-specialists) · [Validation](#validation-and-quality) · [Roadmap](#development-roadmap) · [Repository Layout](#repository-layout) · [License](#license)
 
 ## Get Started
 
@@ -20,9 +20,9 @@ The specifications are extensive. They should not be assumed to fit in one model
 
 ### Use a packaged plugin
 
-Download a ZIP from [Plugins/](Plugins) and follow the import process supported by your plugin environment. The archives include plugin metadata and skills, but compatibility depends on the target environment.
+Download a ZIP from [GPT Plugins/](GPT%20Plugins) or [Grok Skills/](Grok%20Skills) and follow the import process supported by your target environment. The archives include plugin metadata and skills, but compatibility depends on the target environment.
 
-For exact contents, **inspect the ZIP itself**. The Markdown source may have changed since that release was packaged. The package inventory and compatibility caveats appear [below](#plugin-packages).
+For exact contents, **inspect the ZIP itself**. The Markdown source may have changed since that release was packaged. The package inventory and compatibility caveats appear [below](#packaged-distributions).
 
 ### Check documentation links locally
 
@@ -39,8 +39,8 @@ Archetype distinguishes three related layers:
 | Layer | Location | Contents | Role |
 |---|---|---|---|
 | Reusable foundations | [Prompts/Construct/](Prompts/Construct) | 21 Markdown modules | Archetypal knowledge, generative identities, reasoning, judgment, representation, inquiry, modeling, and workflows |
-| Specialized knowledge | [Prompts/](Prompts) | 13 standalone Markdown specifications | Domain-specific expertise, research methods, creative disciplines, and operating procedures |
-| Packaged distributions | [Plugins/](Plugins) | 4 versioned ZIP files | Reusable plugin snapshots with manifests and skill files |
+| Specialized knowledge | [Prompts/](Prompts) | 14 standalone Markdown specifications | Domain-specific expertise, research methods, creative disciplines, and operating procedures |
+| Packaged distributions | [GPT Plugins/](GPT%20Plugins), [Grok Skills/](Grok%20Skills) | 6 versioned ZIP archives | Platform-specific snapshots; verify compatibility per archive |
 
 **Construct** is the modular foundation: **Archetype (A-18)** maps recurring patterns, symbolic structures, and their interpretations; **Construct (C-18)** models generative identities and personas; the remaining modules cover capabilities such as Difference, Evaluation, Knowledge, Taxonomy, Validity, and Workflow. The standalone specialists extend this foundation into disciplines such as Analytical Psychology, Jurisprudence, Legal Scholarship, Neurorights, Citation, Research, Aesthetics, and software engineering.
 
@@ -55,30 +55,28 @@ Archetype distinguishes three related layers:
 
 These are design intentions and characteristics of the specifications, not proof that every generated answer satisfies them.
 
-## Plugin Packages
+## Packaged Distributions
 
-The following ZIPs are present in the repository:
+The repository contains **five GPT plugin ZIPs** in [`GPT Plugins/`](GPT%20Plugins) and **one Grok skill ZIP** in [`Grok Skills/`](Grok%20Skills). These are checked-in release snapshots, not files that are automatically regenerated when a Markdown specification changes.
 
-| System | Current ZIP | Included skills | Related Markdown sources |
+| Target | System | Current archive | Related Markdown sources |
 |---|---|---|---|
-| Construct | [v0.9.20](Plugins/Construct_v.0.9.20.zip) | 20: construct and 19 supporting modules (**does not include archetype**) | [Construct modules](Prompts/Construct) |
-| Citation | [v0.1.1](Plugins/Citation_v.0.1.1.zip) | 2: citation, research | [CT](Prompts/CT.md), [RS](Prompts/RS.md) |
-| Systematic Review | [v0.1.7](Plugins/Systematic_Review_v.0.1.7.zip) | 5: systematic-review, research, synthesis, theory, citation | [SR](Prompts/SR.md), [RS](Prompts/RS.md), [ST](Prompts/ST.md), [TR](Prompts/TR.md), [CT](Prompts/CT.md) |
-| Visual Art | [v0.1.1](Plugins/Visual_Art_v.0.1.1.zip) | 2: aesthetics, visual-art | [AT](Prompts/AT.md), [VA](Prompts/VA.md) |
+| GPT | Analytical Psychology | [v0.1.2](GPT%20Plugins/Analytical_Psychology_v.0.1.2.zip) | [AP](Prompts/AP.md), [AAP](Prompts/AAP.md) (related specialty) |
+| GPT | Citation | [v0.1.1](GPT%20Plugins/Citation_v.0.1.1.zip) | [CT](Prompts/CT.md), [RS](Prompts/RS.md) |
+| GPT | Construct | [v0.9.21](GPT%20Plugins/Construct_v.0.9.21.zip) | [Construct modules](Prompts/Construct) |
+| GPT | Systematic Review | [v0.1.7](GPT%20Plugins/Systematic_Review_v.0.1.7.zip) | [SR](Prompts/SR.md), [RS](Prompts/RS.md), [ST](Prompts/ST.md), [TR](Prompts/TR.md), [CT](Prompts/CT.md) |
+| GPT | Visual Art | [v0.1.1](GPT%20Plugins/Visual_Art_v.0.1.1.zip) | [AT](Prompts/AT.md), [VA](Prompts/VA.md) |
+| Grok | Construct | [v0.9.21](Grok%20Skills/Construct_Grok_v0.9.21.zip) | [Construct modules](Prompts/Construct) |
 
-The source specifications in `Prompts/` remain useful independently of the packaged versions. A plugin's version number and a source architecture identifier (for example, `AP-18` or `C-18`) describe different things. In particular, the newly added **A-18 source is not packaged in Construct v0.9.20**.
+**Source-to-archive relationship:** The links above identify related source specifications, **not a claim that the ZIP contains every source document verbatim**. Architecture labels (such as `AP-18` and `C-18`) are distinct from distribution versions (such as `v0.9.21`). For exact skills, manifests, supported runtimes, and version metadata, inspect the relevant archive and confirm its import requirements with the target host. Do not assume GPT plugin and Grok skill archives are interchangeable.
 
 ### Release and compatibility notes
 
-The plugin packages are presently maintained as committed ZIP artifacts. There is **no automated, reproducible source-to-package build pipeline** in this repository, and there is no CI check demonstrating that packaged skills exactly match the latest Markdown sources.
-
-Inspection of the four current archives found that:
-
-- Each ZIP has root-level `plugin.json`, `.codex-plugin/plugin.json`, and `skills/` entries. The two manifest version values agree **within each current ZIP**, including Visual Art v0.1.1.
-- Construct v0.9.20 contains 20 skills but does **not** yet contain the new `archetype` skill; its archive also includes an empty `.Rhistory` file that should be excluded from future builds.
-- Some packaged skills differ from the corresponding current Markdown sources. For example, packaged **Citation**, **Synthesis**, and **Visual Art** skill bodies are not identical to `CT.md`, `ST.md`, and `VA.md`, respectively. These differences may represent versioned snapshots, but their source commits are not recorded in the repository's release metadata. Conversely, selected skills such as **Systematic Review**, **Theory**, and **Research** matched their current sources after removing skill metadata in the review.
-
-Importers may have different requirements; matching manifests and root layouts do not establish importer compatibility. Inspect an archive before relying on it. Source-to-package provenance, deterministic builds, and automated release checks remain on the [roadmap](#development-roadmap).
+- There is **no automated reproducible packaging pipeline**, machine-readable source-commit mapping, or CI job checking whether ZIP contents match their corresponding Markdown source revisions.
+- Archive filenames indicate distribution versions, but do **not** establish internal manifest versions, skill inventory, archive integrity, or importer compatibility. Verify these against each archive.
+- The README and repository tree locate artifacts; the actual ZIP and target platform determine whether an archive imports successfully.
+- Earlier manual inspection of a four-archive inventory does not establish that the six currently checked-in archives are valid. Historic observations about prior Construct versions should not be extrapolated to the current distributions.
+- Recommended release hardening: deterministic builds, checksums, recorded source commits, manifest and ZIP hygiene validation, and host-specific import smoke tests.
 
 ## Construct Modules
 
@@ -112,10 +110,11 @@ Construct is intended as a shared conceptual foundation, not a requirement that 
 
 ## Standalone Specialists
 
-I currently keep **13 standalone prompt specifications** at the top level of [`Prompts/`](Prompts):
+I currently keep **14 standalone prompt specifications** at the top level of [`Prompts/`](Prompts):
 
 | Code | Specialist | Primary focus |
 |---|---|---|
+| AAP | [Archetype: Analytical Psychology (AAP-18)](Prompts/AAP.md) | Focused archetypal configurations, theories, and psychological interpretation within analytical psychology |
 | AP | [Analytical Psychology (AP-18)](Prompts/AP.md) | Jungian and post-Jungian psychology, psyche, symbolism, clinical theory, research, and critical validation |
 | AT | [Aesthetics](Prompts/AT.md) | Aesthetic experience, perception, interpretation, value, judgment, and creation |
 | CT | [Citation](Prompts/CT.md) | Bibliographic identity, attribution, claim–evidence alignment, verification, and provenance |
@@ -136,9 +135,9 @@ Not every standalone specialist has a ZIP counterpart in this repository. A spec
 
 The implemented automated check is [`tests/test_readme.py`](tests/test_readme.py), run by [`.github/workflows/readme-check.yml`](.github/workflows/readme-check.yml) on pushes and pull requests. It verifies local paths and README heading anchors referenced by Markdown links.
 
-**Currently checked:** README local links and anchors.
+**Currently checked:** README local paths and same-README heading anchors matched by the regex-based validator. It does **not** cover image links or reference-style links, and it does not validate fragments in other Markdown documents.
 
-**Not yet automatically checked:** plugin manifest consistency, ZIP layout or integrity, source-to-package parity, factor-notation grammar, semantic distinctiveness, cross-document terminology, citations and evidence provenance, model behavior, or task performance. A link-check pass does not establish any of these properties.
+**Not yet automatically checked:** full Markdown link syntax, package manifest consistency, ZIP layout or integrity, source-to-package parity, factor-notation grammar, semantic distinctiveness, cross-document terminology, citations and evidence provenance, model behavior, or task performance. A link-check pass does not establish any of these properties.
 
 A structurally extensive prompt is not, by itself, a validated expert system. In particular, frontier, legal, clinical, and scientific claims should be checked against relevant primary literature, current professional standards, and the context of use. The Markdown specifications are evolving knowledge architectures, not independently verified bibliographies.
 
@@ -148,12 +147,13 @@ These are priorities for future work, **not implemented features**:
 
 1. **Keep documentation synchronized.** Generate or verify source and package inventories, release links, and skill counts against the repository tree.
 2. **Make releases reproducible and traceable.** Build skill ZIPs deterministically from explicitly identified source commits; record checksums, source-to-skill mappings, and release provenance.
-3. **Validate packages in CI.** Check ZIP roots, manifests, version parity, skill metadata, required entries, and exclusion of editor or build artifacts.
+3. **Validate packages in CI.** Check ZIP roots, manifests, version parity, skill metadata, required entries, and exclusion of editor or build artifacts, separately for GPT and Grok distributions.
 4. **Formalize knowledge structures.** Define a parser and schema for nested-factor notation; lint hierarchy, numbering, uniqueness, and cross-document terminology.
 5. **Improve semantic precision.** Audit repeated generic subfactor templates—particularly in A-18—and favor domain-specific relationships over expansion for its own sake.
 6. **Track evidence and provenance.** Add source registries, citation verification, evidence status, and review dates to research-intensive specialists.
 7. **Evaluate specialist behavior.** Add representative tasks, adversarial checks, domain-boundary tests, and regression benchmarks rather than inferring effectiveness from prompt length or coverage.
 8. **Improve context efficiency.** Separate concise operating instructions from deep reference material where progressive disclosure is supported.
+9. **Harden documentation and CI tooling.** Support image/reference-style links and cross-document anchors; modernize and pin GitHub Actions dependencies and run validator unit tests.
 
 The goal is to retain the expressive scope of the original prompt library while developing more dependable, inspectable, and testable specialist systems.
 
@@ -162,10 +162,11 @@ The goal is to retain the expressive scope of the original prompt library while 
 ```text
 archetype/
 ├── Prompts/
-│   ├── Construct/                     # 21 reusable source modules: A, C, D, ... W
+│   ├── Construct/                     # 21 reusable Markdown modules: A, C, D, ... W
 │   │   ├── A.md                       # Archetype (A-18)
 │   │   ├── C.md                       # Construct (C-18)
-│   │   └── ...                        # Other Construct source modules
+│   │   └── ...                        # Other Construct modules
+│   ├── AAP.md                         # Archetype: Analytical Psychology (AAP-18)
 │   ├── AP.md                          # Analytical Psychology (AP-18)
 │   ├── AT.md                          # Aesthetics
 │   ├── CT.md                          # Citation
@@ -179,17 +180,20 @@ archetype/
 │   ├── TR.md                          # Theory
 │   ├── VA.md                          # Visual Art
 │   └── WD.md                          # Web Development
-├── Plugins/
+├── GPT Plugins/                       # 5 versioned GPT plugin ZIPs
+│   ├── Analytical_Psychology_v.0.1.2.zip
 │   ├── Citation_v.0.1.1.zip
-│   ├── Construct_v.0.9.20.zip
+│   ├── Construct_v.0.9.21.zip
 │   ├── Systematic_Review_v.0.1.7.zip
 │   └── Visual_Art_v.0.1.1.zip
+├── Grok Skills/                       # 1 versioned Grok skill ZIP
+│   └── Construct_Grok_v0.9.21.zip
 ├── tests/
-│   └── test_readme.py                 # README link and anchor validation
+│   └── test_readme.py                 # Lightweight README link and anchor check
 ├── .github/
 │   ├── FUNDING.yml
 │   └── workflows/
-│       └── readme-check.yml          # automated README link check
+│       └── readme-check.yml          # Runs README validation on push and PR
 ├── A_Avatar.png
 ├── LICENSE                            # Apache License 2.0
 └── README.md
