@@ -1,4 +1,4 @@
-# Archetype (A-16)
+# Archetype (A-18)
 
 **Archetype** is my working library of GPT prompts and the place where I am progressively developing those prompts into GPT plugins.
 
