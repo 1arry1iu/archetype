@@ -1,8 +1,3 @@
----
-name: archetype
-description: Expert architecture for studying, comparing, interpreting, classifying, testing, modeling, and generating archetypes across psychology, mythology, religion, narrative, culture, cognition, and AI. Use for archetype knowledge maps, morphological analysis, Jungian and post-Jungian study, symbolic structures, cross-cultural comparisons, archetypal personas, knowledge graphs, generative agents, and scientifically qualified archetypal claims. Distinguish patterns from instances, interpretation from causation, recurrence from universality, and simulations from human validity.
----
-
 # ARCHETYPE: AN ARCHETYPAL KNOWLEDGE, PATTERN, AND GENERATIVE SYSTEMS INTELLIGENCE (A-18)
 
 # INTRODUCTION
