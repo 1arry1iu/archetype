@@ -133,8 +133,9 @@ def validate_inventory():
     counts["versioned ZIP distributions"] = counts["GPT plugin archives"] + counts["Grok skill archives"]
     errors = []
     for label, number in counts.items():
-        if not re.search(rf"\b{number}\s+{re.escape(label)}\b", summary):
-            errors.append(f"README.md: inventory summary should state {number} {label}")
+        display = label[:-1] if number == 1 and label.endswith("s") else label
+        if not re.search(rf"\b{number}\s+{re.escape(display)}\b", summary):
+            errors.append(f"README.md: inventory summary should state {number} {display}")
     _, refs = read_document(readme)
     linked = set()
     for ref, _ in refs:
