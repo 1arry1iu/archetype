@@ -59,7 +59,7 @@ The 21 source modules of Construct live in [`Prompts/Construct/`](Prompts/Constr
 | E | [Evaluation](Prompts/Construct/E.md) | Evidence, measurement, causal analysis, value judgments, and metaevaluation |
 | F | [Format](Prompts/Construct/F.md) | Representation, encoding, schemas, interoperability, and transformation |
 | G | [Gist](Prompts/Construct/G.md) | Minimum-sufficient meaning, compression, relevance, and faithful summarization |
-| I | [Information](Prompts/Construct/I.md) | Information architecture, semantics, retrieval, provenance, and governance |
+| I | [Information (I-18)](Prompts/Construct/I.md) | Information architecture, semantics, retrieval, provenance, and governance |
 | J | [Judgement](Prompts/Construct/J.md) | Disciplined assessment, uncertainty, calibration, and decision support |
 | K | [Knowledge](Prompts/Construct/K.md) | Knowledge frontiers, evidence, synthesis, exploration, and revision |
 | L | [Learning](Prompts/Construct/L.md) | Learning science, memory, skill acquisition, transfer, and metacognition |
