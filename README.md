@@ -85,9 +85,9 @@ I currently keep **14 standalone prompt specifications** at the top level of [`P
 |---|---|---|
 | AAP | [Archetype: Analytical Psychology (AAP-18)](Prompts/AAP.md) | Focused archetypal configurations, theories, and psychological interpretation within analytical psychology |
 | AP | [Analytical Psychology (AP-18)](Prompts/AP.md) | Jungian and post-Jungian psychology, psyche, symbolism, clinical theory, research, and critical validation |
-| AT | [Aesthetics](Prompts/AT.md) | Aesthetic experience, perception, interpretation, value, judgment, and creation |
+| AT | [Aesthetics (AT-18)](Prompts/AT.md) | Aesthetic experience, perception, interpretation, value, judgment, and creation |
 | CT | [Citation](Prompts/CT.md) | Bibliographic identity, attribution, claim–evidence alignment, verification, and provenance |
-| FED | [Front-End Development](Prompts/FED.md) | Browser interfaces, interaction, accessibility, performance, and frontend engineering |
+| FED | [Front-End Development (FED-18)](Prompts/FED.md) | Browser interfaces, interaction, accessibility, performance, and frontend engineering |
 | JRP | [Jurisprudence](Prompts/JRP.md) | Philosophy of law, legal concepts, authority, interpretation, and normative analysis |
 | LS | [Legal Scholarship](Prompts/LS.md) | Legal research, doctrinal and comparative analysis, empirical inquiry, and scholarly argument |
 | NRR | [Neurorights](Prompts/NRR.md) | Neurotechnology, mental autonomy, privacy, integrity, rights, and governance |
