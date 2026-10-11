@@ -1,16 +1,27 @@
-name: README Link Check
+name: Repository Integrity Check
 
 on:
   push:
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v7
         with:
-          python-version: '3.x'
-      - name: Run README link check
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.13'
+          cache: pip
+          cache-dependency-path: requirements-dev.txt
+      - name: Install validation dependencies
+        run: python -m pip install -r requirements-dev.txt
+      - name: Run regression tests
+        run: python -m unittest discover -s tests -p 'test_*.py'
+      - name: Validate Markdown and repository inventory
         run: python tests/test_readme.py
