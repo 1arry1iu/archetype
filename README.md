@@ -59,7 +59,7 @@ The repository contains **six GPT plugin ZIPs** in [`GPT Plugins/`](GPT%20Plugin
 | GPT | Construct | [v0.9.22](GPT%20Plugins/Construct_v.0.9.22.zip) | [Construct modules](Prompts/Construct) |
 | GPT | Systematic Review | [v0.1.7](GPT%20Plugins/Systematic_Review_v.0.1.7.zip) | [SR](Prompts/SR.md), [RS](Prompts/RS.md), [ST](Prompts/ST.md), [TR](Prompts/TR.md), [CT](Prompts/CT.md) |
 | GPT | Visual Art | [v0.1.1](GPT%20Plugins/Visual_Art_v.0.1.1.zip) | [AT](Prompts/AT.md), [VA](Prompts/VA.md) |
-| GPT | Web Development | [v1.0.17](GPT%20Plugins/Web-Development-v.1.0.17.zip) | [WD](Prompts/WD.md), [FED](Prompts/FED.md), [BED](Prompts/BED.md), [FSD](Prompts/FSD.md), [VC](Prompts/VC.md) (related specialties) |
+| GPT | Web Development | [v1.0.18](GPT%20Plugins/Web_Development_v.1.0.18.zip) | [WD](Prompts/WD.md), [FED](Prompts/FED.md), [BED](Prompts/BED.md), [FSD](Prompts/FSD.md), [VC](Prompts/VC.md) (related specialties) |
 | Grok | Construct | [v0.9.21](Grok%20Skills/Construct_Grok_v0.9.21.zip) | [Construct modules](Prompts/Construct) |
 
 ## Construct Modules
@@ -172,7 +172,7 @@ archetype/
 │   ├── Construct_v.0.9.22.zip
 │   ├── Systematic_Review_v.0.1.7.zip
 │   ├── Visual_Art_v.0.1.1.zip
-│   └── Web-Development-v.1.0.17.zip
+│   └── Web_Development_v.1.0.18.zip
 ├── Grok Skills/                       # 1 versioned Grok skill ZIP
 │   └── Construct_Grok_v0.9.21.zip
 ├── tests/
