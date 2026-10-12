@@ -4,6 +4,8 @@
 
 **Current inventory:** **40 Markdown prompt specifications** (19 standalone specialists and 21 Construct modules), **five knowledge maps**, and **seven versioned ZIP distributions** (six GPT plugin archives and one Grok skill archive). **A-18** identifies the Archetype knowledge architecture in [`Prompts/Construct/A.md`](Prompts/Construct/A.md); it is not a repository-wide release number. Each source architecture and plugin package has its own identifier or version.
 
+**Website:** [Schoolside Chiang Mai](https://schoolside-chiang-mai.greenlake32.chatgpt.site) · **Contact:** [@1arry1iu on X](https://x.com/1arry1iu)
+
 [Get Started](#get-started) · [Architecture](#architecture) · [Packaged Distributions](#packaged-distributions) · [Construct Modules](#construct-modules) · [Standalone Specialists](#standalone-specialists) · [Knowledge Maps](#knowledge-maps) · [Repository Layout](#repository-layout)
 
 ## Get Started
