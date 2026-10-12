@@ -12,8 +12,8 @@
 
 Selected demo projects showcased alongside the Archetype knowledge architectures and prompt libraries.
 
-[Schoolside · Chiang Mai](https://schoolside-chiang-mai.greenlake32.chatgpt.site)
-[Thailand Fieldguide](https://thailand-fieldguide.greenlake32.chatgpt.site/)
+- [Schoolside · Chiang Mai](https://schoolside-chiang-mai.greenlake32.chatgpt.site)
+- [Thailand Fieldguide](https://thailand-fieldguide.greenlake32.chatgpt.site/)
 
 ## Get Started
 
