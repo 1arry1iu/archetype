@@ -14,8 +14,6 @@ Selected demo projects showcased alongside the Archetype knowledge architectures
 
 ### [Schoolside · Chiang Mai](https://schoolside-chiang-mai.greenlake32.chatgpt.site)
 
-A standalone website demo project. [Explore the live demo](https://schoolside-chiang-mai.greenlake32.chatgpt.site).
-
 ## Get Started
 
 ### Use a prompt specification
