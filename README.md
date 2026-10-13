@@ -14,6 +14,7 @@ Selected demo projects showcased alongside the Archetype knowledge architectures
 
 - [Schoolside · Chiang Mai](https://schoolside-chiang-mai.greenlake32.chatgpt.site)
 - [Thailand Fieldguide](https://thailand-fieldguide.greenlake32.chatgpt.site/)
+- [远见 · Atlas](https://yuanjian-atlas.greenlake32.chatgpt.site/)
 
 ## Get Started
 
