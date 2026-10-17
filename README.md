@@ -4,8 +4,6 @@
 
 **Current repository inventory:** **42 Markdown specifications** (21 standalone specialists and 21 Construct modules) and **15 checked-in ZIP files** (seven topic archives in `blocks/`, seven GPT-named archives in `gpt/`, and one Grok archive in `grok/`). The previously documented five knowledge maps are **not present** on the current `main` branch.
 
-**Versioning:** The repository heading uses **A-19**, while the [Archetype foundation](blocks/Construct/A.md) calls its architecture **A-18**. The architecture identifiers and distribution file versions are not repository-wide release numbers.
-
 **Contact:** [@1arry1iu on X](https://x.com/1arry1iu)
 
 [Archetype Projects](#archetype-projects) · [Get Started](#get-started) · [Architecture](#architecture) · [Packaged Distributions](#packaged-distributions) · [Construct Modules](#construct-modules) · [Standalone Specialists](#standalone-specialists) · [Repository Layout](#repository-layout) · [Validation](#validation)
