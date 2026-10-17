@@ -1,4 +1,4 @@
-# Archetype (A-18)
+# Archetype (A-19)
 
 **Archetype** is my evolving library of LLM prompt architectures, knowledge maps, and versioned plugin and skill packages. It brings together general-purpose reasoning and knowledge-work modules, domain expertise, creative systems, and research workflows, with an emphasis on clarity, reusability, validation, and continuous improvement.
 
