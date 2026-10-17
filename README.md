@@ -32,7 +32,7 @@ These specifications can be very long. Conceptual breadth **does not demonstrate
 
 ### Use a packaged archive
 
-The [`gpt/`](gpt), [`grok/`](grok), and [`blocks/`](blocks) directories contain checked-in ZIP archives. These are snapshots, not automatically regenerated when Markdown sources change. Check each archive's contents, integrity, and target-platform import requirements before installation. **Do not import** the 2-byte Cinematic Creativity GPT placeholder listed below.
+The [`gpt/`](gpt), [`grok/`](grok), and [`blocks/`](blocks) directories contain checked-in ZIP archives. These are snapshots, not automatically regenerated when Markdown sources change. Check each archive's contents, integrity, and target-platform import requirements before installation. A file's presence or size alone does not establish ZIP integrity or target-platform compatibility.
 
 ## Architecture
 
@@ -53,7 +53,7 @@ Archive versions below are taken from filenames. Listing a file does **not** cer
 | System | Tracked archive | Status |
 |---|---|---|
 | Analytical Psychology V.0.1.2.zip | [`analytical_psychology_v.0.1.2.zip`](gpt/analytical_psychology_v.0.1.2.zip) | Snapshot; contents and runtime compatibility not independently verified |
-| Cinematic Creativity V.0.1.3.zip | [`cinematic_creativity_v.0.1.3.zip`](gpt/cinematic_creativity_v.0.1.3.zip) | **Invalid placeholder — 2 bytes; do not import** |
+| Cinematic Creativity | [`Cinematic_Creativity_v.0.1.3.zip`](gpt/Cinematic_Creativity_v.0.1.3.zip) | Checked in (5,352,028 bytes); archive contents and runtime compatibility not independently verified |
 | Citation V.0.1.1.zip | [`citation_v.0.1.1.zip`](gpt/citation_v.0.1.1.zip) | Snapshot; contents and runtime compatibility not independently verified |
 | Construct V.0.9.23.zip | [`construct_v.0.9.23.zip`](gpt/construct_v.0.9.23.zip) | Snapshot; contents and runtime compatibility not independently verified |
 | Systematic Review V.0.1.7.zip | [`systematic_review_v.0.1.7.zip`](gpt/systematic_review_v.0.1.7.zip) | Snapshot; contents and runtime compatibility not independently verified |
@@ -78,7 +78,7 @@ Archive versions below are taken from filenames. Listing a file does **not** cer
 | Research | [`research.zip`](blocks/research.zip) |
 | Systematic Review | [`systematic_review.zip`](blocks/systematic_review.zip) |
 
-**Known integrity defect:** [`gpt/cinematic_creativity_v.0.1.3.zip`](gpt/cinematic_creativity_v.0.1.3.zip) has only two bytes (a line ending) and is **not a valid ZIP file**. It needs replacement or removal before distribution. Other archives were inventoried by path and size, not fully inspected or tested.
+**Archive integrity:** The [Cinematic Creativity GPT archive](gpt/Cinematic_Creativity_v.0.1.3.zip) replaces the former 2-byte placeholder and is now tracked at 5,352,028 bytes. The new archive's internal integrity and import compatibility have **not** been independently verified. Other archives are likewise inventoried by path and size rather than fully tested.
 
 ## Construct Modules
 
@@ -148,7 +148,7 @@ archetype/
 │   ├── Construct/                    # 21 reusable Markdown modules
 │   ├── *.md                          # 21 standalone specialists
 │   └── *.zip                         # 7 topic archives
-├── gpt/                              # 7 archives, including one invalid 2-byte placeholder
+├── gpt/                              # 7 checked-in GPT archives
 ├── grok/                             # 1 archive
 ├── tests/test_readme.py              # README path and anchor check
 ├── .github/workflows/readme-check.yml
