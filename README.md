@@ -1,12 +1,14 @@
 # Archetype (A-19)
 
-**Archetype** is my evolving library of LLM prompt architectures, knowledge maps, and versioned plugin and skill packages. It brings together general-purpose reasoning and knowledge-work modules, domain expertise, creative systems, and research workflows, with an emphasis on clarity, reusability, validation, and continuous improvement.
+**Archetype** is an evolving library of LLM prompt architectures, reusable reasoning modules, specialist knowledge systems, and versioned plugin and skill archives. It brings together domain expertise, research methods, creative work, and software engineering with an emphasis on conceptual precision, reuse, validation, and continuous improvement.
 
-**Current inventory:** **40 Markdown prompt specifications** (19 standalone specialists and 21 Construct modules), **five knowledge maps**, and **seven versioned ZIP distributions** (six GPT plugin archives and one Grok skill archive). **A-18** identifies the Archetype knowledge architecture in [`Prompts/Construct/A.md`](Prompts/Construct/A.md); it is not a repository-wide release number. Each source architecture and plugin package has its own identifier or version.
+**Current repository inventory:** **42 Markdown specifications** (21 standalone specialists and 21 Construct modules) and **15 checked-in ZIP files** (seven topic archives in `blocks/`, seven GPT-named archives in `gpt/`, and one Grok archive in `grok/`). The previously documented five knowledge maps are **not present** on the current `main` branch.
+
+**Versioning:** The repository heading uses **A-19**, while the [Archetype foundation](blocks/Construct/A.md) calls its architecture **A-18**. The architecture identifiers and distribution file versions are not repository-wide release numbers.
 
 **Contact:** [@1arry1iu on X](https://x.com/1arry1iu)
 
-[Archetype Projects](#archetype-projects) · [Get Started](#get-started) · [Architecture](#architecture) · [Packaged Distributions](#packaged-distributions) · [Construct Modules](#construct-modules) · [Standalone Specialists](#standalone-specialists) · [Knowledge Maps](#knowledge-maps) · [Repository Layout](#repository-layout)
+[Archetype Projects](#archetype-projects) · [Get Started](#get-started) · [Architecture](#architecture) · [Packaged Distributions](#packaged-distributions) · [Construct Modules](#construct-modules) · [Standalone Specialists](#standalone-specialists) · [Repository Layout](#repository-layout) · [Validation](#validation)
 
 ## Archetype Projects
 
@@ -22,173 +24,144 @@ Selected demo projects showcased alongside the Archetype knowledge architectures
 
 ### Use a prompt specification
 
-1. Browse the [19 standalone specialists](Prompts) or the [21 Construct modules](Prompts/Construct).
-2. Open the Markdown file for the subject or capability you need, such as [Archetype (A-18)](Prompts/Construct/A.md), [Analytical Psychology](Prompts/AP.md), [Citation](Prompts/CT.md), [Systematic Review](Prompts/SR.md), or [Visual Art](Prompts/VA.md).
-3. Adapt the relevant instructions, knowledge structure, and operating procedures to your model, available tools, task, and context limits.
+1. Browse the [standalone specialists](blocks) or [Construct modules](blocks/Construct).
+2. Open a Markdown source such as [Archetype](blocks/Construct/A.md), [Analytical Psychology](blocks/AP.md), [Citation](blocks/CT.md), [Research](blocks/RS.md), or [Visual Art](blocks/VA.md).
+3. Extract and adapt the relevant knowledge, instructions, and protocols to the target model, tools, task, and context window.
 
-The specifications are extensive. They should not be assumed to fit in one model context window, nor should their conceptual breadth be confused with experimentally demonstrated model performance. For focused applications, select the relevant sections or create a smaller, tested skill from the source.
+These specifications can be very long. Conceptual breadth **does not demonstrate model performance**. For focused applications, use a compact, task-specific subset and evaluate it on representative tasks.
 
-### Explore a knowledge map
+### Use a packaged archive
 
-Read the [knowledge maps](Knowledge%20Maps) for structured learning paths and conceptual relationships across front-end, back-end, full-stack, web development, and AI-assisted coding. These educational atlases complement the specialist prompts; they are not executable software or validated proficiency assessments.
-
-### Use a packaged plugin
-
-Download a ZIP from [GPT Plugins/](GPT%20Plugins) or [Grok Skills/](Grok%20Skills) and follow the import process supported by your target environment. The archives include plugin metadata and skills, but compatibility depends on the target environment.
-
-For exact contents, **inspect the ZIP itself**. The Markdown source may have changed since that release was packaged. The package inventory and compatibility caveats appear [below](#packaged-distributions).
+The [`gpt/`](gpt), [`grok/`](grok), and [`blocks/`](blocks) directories contain checked-in ZIP archives. These are snapshots, not automatically regenerated when Markdown sources change. Check each archive's contents, integrity, and target-platform import requirements before installation. **Do not import** the 2-byte Cinematic Creativity GPT placeholder listed below.
 
 ## Architecture
 
-Archetype distinguishes four related layers:
-
-| Layer | Location | Contents | Role |
+| Layer | Location | Contents | Purpose |
 |---|---|---|---|
-| Reusable foundations | [Prompts/Construct/](Prompts/Construct) | 21 Markdown modules | Archetypal knowledge, generative identities, reasoning, judgment, representation, inquiry, modeling, and workflows |
-| Specialized knowledge | [Prompts/](Prompts) | 19 standalone Markdown specifications | Domain-specific expertise, research methods, creative disciplines, and operating procedures |
-| Knowledge maps | [Knowledge Maps/](Knowledge%20Maps) | 5 Markdown atlases | Learning pathways and connections among technical concepts |
-| Packaged distributions | [GPT Plugins/](GPT%20Plugins), [Grok Skills/](Grok%20Skills) | 7 versioned ZIP archives | Platform-specific snapshots; verify compatibility per archive |
+| Reusable foundations | [`blocks/Construct/`](blocks/Construct) | 21 Markdown modules | Archetypes, knowledge, judgment, modeling, validation, and workflows |
+| Standalone specialists | [`blocks/`](blocks) | 21 Markdown modules | Discipline-specific concepts, research methods, and operational approaches |
+| Checked-in archives | [`blocks/`](blocks), [`gpt/`](gpt), [`grok/`](grok) | 15 ZIP files | Topic collections and distribution snapshots; compatibility varies |
 
-**Construct** is the modular foundation: **Archetype (A-18)** maps recurring patterns, symbolic structures, and their interpretations; **Construct (C-18)** models generative identities and personas; the remaining modules cover capabilities such as Difference, Evaluation, Knowledge, Taxonomy, Validity, and Workflow. The standalone specialists extend this foundation into disciplines such as Analytical Psychology, Jurisprudence, Legal Scholarship, Neurorights, Citation, Research, Aesthetics, and software engineering.
+Construct supplies shared conceptual foundations. **Archetype (A-18)** examines patterns and symbolic structures, while **Construct (C-18)** explores generative identities and personas. Specialists extend these foundations into fields such as psychology, anthropology, law, research, aesthetics, and software engineering.
 
 ## Packaged Distributions
 
-The repository contains **six GPT plugin ZIPs** in [`GPT Plugins/`](GPT%20Plugins) and **one Grok skill ZIP** in [`Grok Skills/`](Grok%20Skills). These are checked-in release snapshots, not files that are automatically regenerated when a Markdown specification changes.
+Archive versions below are taken from filenames. Listing a file does **not** certify that it is importable, current, complete, or tested.
 
-| Target | System | Current archive | Related Markdown sources |
-|---|---|---|---|
-| GPT | Analytical Psychology | [v0.1.2](GPT%20Plugins/Analytical_Psychology_v.0.1.2.zip) | [AP](Prompts/AP.md), [AAP](Prompts/AAP.md) (related specialty) |
-| GPT | Citation | [v0.1.1](GPT%20Plugins/Citation_v.0.1.1.zip) | [CT](Prompts/CT.md), [RS](Prompts/RS.md) |
-| GPT | Construct | [v0.9.22](GPT%20Plugins/Construct_v.0.9.22.zip) | [Construct modules](Prompts/Construct) |
-| GPT | Systematic Review | [v0.1.7](GPT%20Plugins/Systematic_Review_v.0.1.7.zip) | [SR](Prompts/SR.md), [RS](Prompts/RS.md), [ST](Prompts/ST.md), [TR](Prompts/TR.md), [CT](Prompts/CT.md) |
-| GPT | Visual Art | [v0.1.1](GPT%20Plugins/Visual_Art_v.0.1.1.zip) | [AT](Prompts/AT.md), [VA](Prompts/VA.md) |
-| GPT | Web Development | [v1.0.18](GPT%20Plugins/Web_Development_v.1.0.18.zip) | [WD](Prompts/WD.md), [FED](Prompts/FED.md), [BED](Prompts/BED.md), [FSD](Prompts/FSD.md), [VC](Prompts/VC.md) (related specialties) |
-| Grok | Construct | [v0.9.21](Grok%20Skills/Construct_Grok_v0.9.21.zip) | [Construct modules](Prompts/Construct) |
+### GPT archives
+
+| System | Tracked archive | Status |
+|---|---|---|
+| Analytical Psychology V.0.1.2.zip | [`analytical_psychology_v.0.1.2.zip`](gpt/analytical_psychology_v.0.1.2.zip) | Snapshot; contents and runtime compatibility not independently verified |
+| Cinematic Creativity V.0.1.3.zip | [`cinematic_creativity_v.0.1.3.zip`](gpt/cinematic_creativity_v.0.1.3.zip) | **Invalid placeholder — 2 bytes; do not import** |
+| Citation V.0.1.1.zip | [`citation_v.0.1.1.zip`](gpt/citation_v.0.1.1.zip) | Snapshot; contents and runtime compatibility not independently verified |
+| Construct V.0.9.23.zip | [`construct_v.0.9.23.zip`](gpt/construct_v.0.9.23.zip) | Snapshot; contents and runtime compatibility not independently verified |
+| Systematic Review V.0.1.7.zip | [`systematic_review_v.0.1.7.zip`](gpt/systematic_review_v.0.1.7.zip) | Snapshot; contents and runtime compatibility not independently verified |
+| Visual Art V.0.1.1.zip | [`visual_art_v.0.1.1.zip`](gpt/visual_art_v.0.1.1.zip) | Snapshot; contents and runtime compatibility not independently verified |
+| Web Development V.1.0.20.zip | [`web_development_v.1.0.20.zip`](gpt/web_development_v.1.0.20.zip) | Snapshot; contents and runtime compatibility not independently verified |
+
+### Grok archive
+
+| System | Tracked archive | Status |
+|---|---|---|
+| Construct Grok | [`construct_grok_v0.9.21.zip`](grok/construct_grok_v0.9.21.zip) | Snapshot; contents and runtime compatibility not independently verified |
+
+### Topic archives in blocks
+
+| Subject | Tracked archive |
+|---|---|
+| Artificial Intelligence | [`artificial_intelligence.zip`](blocks/artificial_intelligence.zip) |
+| Cinematic Creativity | [`cinematic_creativity.zip`](blocks/cinematic_creativity.zip) |
+| Creativity | [`creativity.zip`](blocks/creativity.zip) |
+| Digital Storytelling | [`digital_storytelling.zip`](blocks/digital_storytelling.zip) |
+| Filmmaking | [`filmmaking.zip`](blocks/filmmaking.zip) |
+| Research | [`research.zip`](blocks/research.zip) |
+| Systematic Review | [`systematic_review.zip`](blocks/systematic_review.zip) |
+
+**Known integrity defect:** [`gpt/cinematic_creativity_v.0.1.3.zip`](gpt/cinematic_creativity_v.0.1.3.zip) has only two bytes (a line ending) and is **not a valid ZIP file**. It needs replacement or removal before distribution. Other archives were inventoried by path and size, not fully inspected or tested.
 
 ## Construct Modules
 
-The 21 source modules of Construct live in [`Prompts/Construct/`](Prompts/Construct). Not every source module is included in the existing Construct plugin ZIP.
+All 21 reusable source modules live in [`blocks/Construct/`](blocks/Construct). A Construct archive need not include every current source module.
 
 | Code | Module | Primary focus |
 |---|---|---|
-| A | [Archetype (A-18)](Prompts/Construct/A.md) | Archetypal patterns, symbolic morphologies, psychological and cultural interpretations, generative modeling, and evidence boundaries |
-| C | [Construct (C-18)](Prompts/Construct/C.md) | Archetypal personas, generative identity systems, and construct design |
-| D | [Difference](Prompts/Construct/D.md) | Distinction, contrast, comparison, boundaries, and meaningful non-sameness |
-| E | [Evaluation](Prompts/Construct/E.md) | Evidence, measurement, causal analysis, value judgments, and metaevaluation |
-| F | [Format](Prompts/Construct/F.md) | Representation, encoding, schemas, interoperability, and transformation |
-| G | [Gist](Prompts/Construct/G.md) | Minimum-sufficient meaning, compression, relevance, and faithful summarization |
-| I | [Information (I-18)](Prompts/Construct/I.md) | Information architecture, semantics, retrieval, provenance, and governance |
-| J | [Judgement](Prompts/Construct/J.md) | Disciplined assessment, uncertainty, calibration, and decision support |
-| K | [Knowledge](Prompts/Construct/K.md) | Knowledge frontiers, evidence, synthesis, exploration, and revision |
-| L | [Learning](Prompts/Construct/L.md) | Learning science, memory, skill acquisition, transfer, and metacognition |
-| M | [Model](Prompts/Construct/M.md) | Abstraction, formalization, simulation, validation, and model evolution |
-| N | [Name](Prompts/Construct/N.md) | Naming, terminology, identifiers, namespaces, and nomenclature |
-| O | [Openness](Prompts/Construct/O.md) | Access, transparency, interoperability, commons, licensing, and governance |
-| P | [Priority](Prompts/Construct/P.md) | Prioritization, allocation, sequencing, triage, and portfolio decisions |
-| Q | [Question](Prompts/Construct/Q.md) | Inquiry, information seeking, diagnosis, sequencing, and question quality |
-| R | [Ranking](Prompts/Construct/R.md) | Comparative judgment, scoring, ordering, selection, and ranking governance |
-| S | [Similarity](Prompts/Construct/S.md) | Resemblance, equivalence, correspondence, matching, and justified likeness |
-| T | [Taxonomy](Prompts/Construct/T.md) | Classification, terminology, semantic structure, and knowledge organization |
-| U | [Uniqueness](Prompts/Construct/U.md) | Identity, rarity, originality, discriminability, and provenance |
-| V | [Validity](Prompts/Construct/V.md) | Verification, validation, evidence, assurance, and warranted reliance |
-| W | [Workflow](Prompts/Construct/W.md) | Workflow discovery, orchestration, execution, observability, and optimization |
+| A | [Archetype (A-18)](blocks/Construct/A.md) | Archetypal patterns, symbolic morphologies, psychological and cultural interpretations, generative modeling, and evidence boundaries |
+| C | [Construct (C-18)](blocks/Construct/C.md) | Archetypal personas, generative identity systems, and construct design |
+| D | [Difference](blocks/Construct/D.md) | Distinction, contrast, comparison, boundaries, and meaningful non-sameness |
+| E | [Evaluation](blocks/Construct/E.md) | Evidence, measurement, causal analysis, value judgments, and metaevaluation |
+| F | [Format](blocks/Construct/F.md) | Representation, encoding, schemas, interoperability, and transformation |
+| G | [Gist](blocks/Construct/G.md) | Minimum-sufficient meaning, compression, relevance, and faithful summarization |
+| I | [Information (I-18)](blocks/Construct/I.md) | Information architecture, semantics, retrieval, provenance, and governance |
+| J | [Judgement](blocks/Construct/J.md) | Disciplined assessment, uncertainty, calibration, and decision support |
+| K | [Knowledge](blocks/Construct/K.md) | Knowledge frontiers, evidence, synthesis, exploration, and revision |
+| L | [Learning](blocks/Construct/L.md) | Learning science, memory, skill acquisition, transfer, and metacognition |
+| M | [Model](blocks/Construct/M.md) | Abstraction, formalization, simulation, validation, and model evolution |
+| N | [Name](blocks/Construct/N.md) | Naming, terminology, identifiers, namespaces, and nomenclature |
+| O | [Openness](blocks/Construct/O.md) | Access, transparency, interoperability, commons, licensing, and governance |
+| P | [Priority](blocks/Construct/P.md) | Prioritization, allocation, sequencing, triage, and portfolio decisions |
+| Q | [Question](blocks/Construct/Q.md) | Inquiry, information seeking, diagnosis, sequencing, and question quality |
+| R | [Ranking](blocks/Construct/R.md) | Comparative judgment, scoring, ordering, selection, and ranking governance |
+| S | [Similarity](blocks/Construct/S.md) | Resemblance, equivalence, correspondence, matching, and justified likeness |
+| T | [Taxonomy](blocks/Construct/T.md) | Classification, terminology, semantic structure, and knowledge organization |
+| U | [Uniqueness](blocks/Construct/U.md) | Identity, rarity, originality, discriminability, and provenance |
+| V | [Validity](blocks/Construct/V.md) | Verification, validation, evidence, assurance, and warranted reliance |
+| W | [Workflow](blocks/Construct/W.md) | Workflow discovery, orchestration, execution, observability, and optimization |
 
-Construct is intended as a shared conceptual foundation, not a requirement that every specialist always invoke every module. I can use these sources separately or combine them according to the task.
+These modules may be used independently or combined when the task warrants it.
 
 ## Standalone Specialists
 
-I currently keep **19 standalone prompt specifications** at the top level of [`Prompts/`](Prompts):
+The 21 standalone source specifications live directly in [`blocks/`](blocks).
 
 | Code | Specialist | Primary focus |
 |---|---|---|
-| AAP | [Archetype: Analytical Psychology (AAP-18)](Prompts/AAP.md) | Focused archetypal configurations, theories, and psychological interpretation within analytical psychology |
-| AP | [Analytical Psychology (AP-18)](Prompts/AP.md) | Jungian and post-Jungian psychology, psyche, symbolism, clinical theory, research, and critical validation |
-| AT | [Aesthetics (AT-18)](Prompts/AT.md) | Aesthetic experience, perception, interpretation, value, judgment, and creation |
-| BED | [Back-End Development (BED-18)](Prompts/BED.md) | Server systems, state transitions, security, distributed architecture, reliability, and operations |
-| CN | [Chinese (CN-18)](Prompts/CN.md) | Chinese languages, linguistic history, scripts, dialectology, and computational language research |
-| CT | [Citation](Prompts/CT.md) | Bibliographic identity, attribution, claim–evidence alignment, verification, and provenance |
-| FED | [Front-End Development (FED-18)](Prompts/FED.md) | Browser interfaces, interaction, accessibility, performance, and frontend engineering |
-| FSD | [Full-Stack Development (FSD-18)](Prompts/FSD.md) | Integrated frontend, backend, data, security, deployment, and AI-native engineering |
-| JRP | [Jurisprudence](Prompts/JRP.md) | Philosophy of law, legal concepts, authority, interpretation, and normative analysis |
-| LS | [Legal Scholarship](Prompts/LS.md) | Legal research, doctrinal and comparative analysis, empirical inquiry, and scholarly argument |
-| NRR | [Neurorights](Prompts/NRR.md) | Neurotechnology, mental autonomy, privacy, integrity, rights, and governance |
-| RS | [Research](Prompts/RS.md) | Research questions, methods, evidence, analysis, validation, and reproducibility |
-| SR | [Systematic Review](Prompts/SR.md) | Protocols, searching, screening, extraction, appraisal, synthesis, and review reporting |
-| ST | [Synthesis](Prompts/ST.md) | Integration of heterogeneous evidence, findings, models, and perspectives |
-| TH | [Thai (TH-18)](Prompts/TH.md) | Thai language and linguistics, language variation, historical study, and computational modeling |
-| TR | [Theory](Prompts/TR.md) | Concepts, explanations, mechanisms, predictions, theory testing, and revision |
-| VA | [Visual Art](Prompts/VA.md) | Visual language, artistic inquiry, studio practice, critique, and artistic development |
-| VC | [Vibe Coding (VC-18)](Prompts/VC.md) | AI-assisted and agentic software engineering, specifications, verification, and governance |
-| WD | [Web Development](Prompts/WD.md) | Web architecture, frontend and backend systems, data, security, testing, and operations |
+| AAP | [Archetype: Analytical Psychology (AAP-18)](blocks/AAP.md) | Focused archetypal configurations, theories, and psychological interpretation within analytical psychology |
+| ANT | [Anthropology (ANT-18)](blocks/ANT.md) | Human evolution, cultures, archaeology, languages, and societies |
+| AP | [Analytical Psychology (AP-18)](blocks/AP.md) | Jungian and post-Jungian psychology, psyche, symbolism, clinical theory, research, and critical validation |
+| AT | [Aesthetics (AT-18)](blocks/AT.md) | Aesthetic experience, perception, interpretation, value, judgment, and creation |
+| BED | [Back-End Development (BED-18)](blocks/BED.md) | Server systems, state transitions, security, distributed architecture, reliability, and operations |
+| CN | [Chinese (CN-18)](blocks/CN.md) | Chinese languages, linguistic history, scripts, dialectology, and computational language research |
+| CT | [Citation](blocks/CT.md) | Bibliographic identity, attribution, claim–evidence alignment, verification, and provenance |
+| ETH | [Ethnography (ETH-18)](blocks/ETH.md) | Ethnographic methods, cultural interpretation, fieldwork, and research ethics |
+| FED | [Front-End Development (FED-18)](blocks/FED.md) | Browser interfaces, interaction, accessibility, performance, and frontend engineering |
+| FSD | [Full-Stack Development (FSD-18)](blocks/FSD.md) | Integrated frontend, backend, data, security, deployment, and AI-native engineering |
+| JRP | [Jurisprudence](blocks/JRP.md) | Philosophy of law, legal concepts, authority, interpretation, and normative analysis |
+| LS | [Legal Scholarship](blocks/LS.md) | Legal research, doctrinal and comparative analysis, empirical inquiry, and scholarly argument |
+| NRR | [Neurorights](blocks/NRR.md) | Neurotechnology, mental autonomy, privacy, integrity, rights, and governance |
+| OB | [Observation (OB-18)](blocks/OB.md) | Perception, observation, measurement, evidence, and validation |
+| RS | [Research](blocks/RS.md) | Research questions, methods, evidence, analysis, validation, and reproducibility |
+| ST | [Synthesis](blocks/ST.md) | Integration of heterogeneous evidence, findings, models, and perspectives |
+| TH | [Thai (TH-18)](blocks/TH.md) | Thai language and linguistics, language variation, historical study, and computational modeling |
+| TR | [Theory](blocks/TR.md) | Concepts, explanations, mechanisms, predictions, theory testing, and revision |
+| VA | [Visual Art](blocks/VA.md) | Visual language, artistic inquiry, studio practice, critique, and artistic development |
+| VC | [Vibe Coding (VC-18)](blocks/VC.md) | AI-assisted and agentic software engineering, specifications, verification, and governance |
+| WD | [Web Development](blocks/WD.md) | Web architecture, frontend and backend systems, data, security, testing, and operations |
 
-Not every standalone specialist has a ZIP counterpart in this repository. A specialist's presence here also does not necessarily imply that a plugin with that name is currently installed or published elsewhere.
-
-## Knowledge Maps
-
-Five educational knowledge maps are available in [`Knowledge Maps/`](Knowledge%20Maps). They are complementary reference atlases, not additional prompt specifications.
-
-| Map | Focus |
-|---|---|
-| [Back-End Development](Knowledge%20Maps/backend-development-knowledge-map.md) | APIs, state, persistence, distributed systems, security, and reliability |
-| [Front-End Development](Knowledge%20Maps/front-end-development-knowledge-map.md) | Browser fundamentals, interface architecture, accessibility, quality, and delivery |
-| [Full-Stack Development](Knowledge%20Maps/full-stack-development-knowledge-map.md) | End-to-end web systems, architectural dependencies, and engineering capability |
-| [Vibe Coding](Knowledge%20Maps/vibe-coding-knowledge-map.md) | AI-assisted coding, agentic workflows, verification, and operational responsibility |
-| [Web Development](Knowledge%20Maps/web-development-knowledge-map.md) | Web platform concepts, cross-domain connections, and learning journeys |
+A source specialist does not necessarily have a corresponding installed or published plugin. The historical `SR.md` reference is not present on the current branch; systematic-review material is available as archived packages listed above.
 
 ## Repository Layout
 
 ```text
 archetype/
-├── Prompts/
-│   ├── Construct/                     # 21 reusable Markdown modules: A, C, D, ... W
-│   │   ├── A.md                       # Archetype (A-18)
-│   │   ├── C.md                       # Construct (C-18)
-│   │   └── ...                        # Other Construct modules
-│   ├── AAP.md                         # Archetype: Analytical Psychology
-│   ├── AP.md                          # Analytical Psychology
-│   ├── AT.md                          # Aesthetics
-│   ├── BED.md                         # Back-End Development
-│   ├── CN.md                          # Chinese
-│   ├── CT.md                          # Citation
-│   ├── FED.md                         # Front-End Development
-│   ├── FSD.md                         # Full-Stack Development
-│   ├── JRP.md                         # Jurisprudence
-│   ├── LS.md                          # Legal Scholarship
-│   ├── NRR.md                         # Neurorights
-│   ├── RS.md                          # Research
-│   ├── SR.md                          # Systematic Review
-│   ├── ST.md                          # Synthesis
-│   ├── TH.md                          # Thai
-│   ├── TR.md                          # Theory
-│   ├── VA.md                          # Visual Art
-│   ├── VC.md                          # Vibe Coding
-│   └── WD.md                          # Web Development
-├── Knowledge Maps/                    # 5 technical learning atlases
-│   ├── backend-development-knowledge-map.md
-│   ├── front-end-development-knowledge-map.md
-│   ├── full-stack-development-knowledge-map.md
-│   ├── vibe-coding-knowledge-map.md
-│   └── web-development-knowledge-map.md
-├── GPT Plugins/                       # 6 versioned GPT plugin ZIPs
-│   ├── Analytical_Psychology_v.0.1.2.zip
-│   ├── Citation_v.0.1.1.zip
-│   ├── Construct_v.0.9.22.zip
-│   ├── Systematic_Review_v.0.1.7.zip
-│   ├── Visual_Art_v.0.1.1.zip
-│   └── Web_Development_v.1.0.18.zip
-├── Grok Skills/                       # 1 versioned Grok skill ZIP
-│   └── Construct_Grok_v0.9.21.zip
-├── tests/
-│   └── test_readme.py                 # README local-link and anchor check
-├── .github/
-│   ├── FUNDING.yml
-│   └── workflows/
-│       └── readme-check.yml          # Runs README validation on push and PR
+├── blocks/
+│   ├── Construct/                    # 21 reusable Markdown modules
+│   ├── *.md                          # 21 standalone specialists
+│   └── *.zip                         # 7 topic archives
+├── gpt/                              # 7 archives, including one invalid 2-byte placeholder
+├── grok/                             # 1 archive
+├── tests/test_readme.py              # README path and anchor check
+├── .github/workflows/readme-check.yml
+├── .github/FUNDING.yml
 ├── A_Avatar.png
-├── LICENSE                            # Apache License 2.0
+├── LICENSE                           # Apache License 2.0
 └── README.md
 ```
 
-Run `python tests/test_readme.py` locally to check README paths and anchors. GitHub Actions runs the same check on pushes and pull requests. This is a documentation check, not a verification of plugin ZIP contents or runtime compatibility.
+The former `Prompts/`, `GPT Plugins/`, `Grok Skills/`, and `Knowledge Maps/` directories are not in the current repository tree.
+
+## Validation
+
+Run `python tests/test_readme.py` to check local links and anchors in this README. [GitHub Actions](.github/workflows/readme-check.yml) runs the same validator on pushes and pull requests. This documentation test **does not** verify archive integrity, packaged source completeness, plugin compatibility, or AI-model performance.
 
 ![Archetype avatar](A_Avatar.png)
