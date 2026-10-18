@@ -2,7 +2,7 @@
 
 **Archetype** is an evolving library of LLM prompt architectures, reusable reasoning modules, specialist knowledge systems, and versioned plugin and skill archives. It brings together domain expertise, research methods, creative work, and software engineering with an emphasis on conceptual precision, reuse, validation, and continuous improvement.
 
-**Current repository inventory:** **42 Markdown specifications** (21 standalone specialists and 21 Construct modules) and **15 checked-in ZIP files** (seven topic archives in `blocks/`, seven GPT-named archives in `gpt/`, and one Grok archive in `grok/`). The previously documented five knowledge maps are **not present** on the current `main` branch.
+**Current repository inventory (October 18, 2026):** **42 Markdown specifications** (21 standalone specialists and 21 Construct modules) and **35 checked-in ZIP files** (26 topic archives in `blocks/`, eight GPT-named archives in `gpt/`, and one Grok archive in `grok/`). The previously documented five knowledge maps are **not present** on the current `main` branch. These numbers describe tracked files, not independently verified or import-tested packages.
 
 **Contact:** [@1arry1iu on X](https://x.com/1arry1iu)
 
@@ -38,7 +38,7 @@ The [`gpt/`](gpt), [`grok/`](grok), and [`blocks/`](blocks) directories contain 
 |---|---|---|---|
 | Reusable foundations | [`blocks/Construct/`](blocks/Construct) | 21 Markdown modules | Archetypes, knowledge, judgment, modeling, validation, and workflows |
 | Standalone specialists | [`blocks/`](blocks) | 21 Markdown modules | Discipline-specific concepts, research methods, and operational approaches |
-| Checked-in archives | [`blocks/`](blocks), [`gpt/`](gpt), [`grok/`](grok) | 15 ZIP files | Topic collections and distribution snapshots; compatibility varies |
+| Checked-in archives | [`blocks/`](blocks), [`gpt/`](gpt), [`grok/`](grok) | 35 ZIP files (26 topic, 8 GPT, 1 Grok) | Topic collections and distribution snapshots; compatibility varies |
 
 Construct supplies shared conceptual foundations. **Archetype (A-18)** examines patterns and symbolic structures, while **Construct (C-18)** explores generative identities and personas. Specialists extend these foundations into fields such as psychology, anthropology, law, research, aesthetics, and software engineering.
 
@@ -54,6 +54,7 @@ Archive versions below are taken from filenames. Listing a file does **not** cer
 | Cinematic Creativity | [`Cinematic_Creativity_v.0.1.3.zip`](gpt/Cinematic_Creativity_v.0.1.3.zip) | Checked in (5,352,028 bytes); archive contents and runtime compatibility not independently verified |
 | Citation V.0.1.1.zip | [`citation_v.0.1.1.zip`](gpt/citation_v.0.1.1.zip) | Snapshot; contents and runtime compatibility not independently verified |
 | Construct V.0.9.23.zip | [`construct_v.0.9.23.zip`](gpt/construct_v.0.9.23.zip) | Snapshot; contents and runtime compatibility not independently verified |
+| Postgraduate Application | [`post-graduate-application-v.1.0.1.zip`](gpt/post-graduate-application-v.1.0.1.zip) | Snapshot; contents and runtime compatibility not independently verified |
 | Systematic Review V.0.1.7.zip | [`systematic_review_v.0.1.7.zip`](gpt/systematic_review_v.0.1.7.zip) | Snapshot; contents and runtime compatibility not independently verified |
 | Visual Art V.0.1.1.zip | [`visual_art_v.0.1.1.zip`](gpt/visual_art_v.0.1.1.zip) | Snapshot; contents and runtime compatibility not independently verified |
 | Web Development V.1.0.20.zip | [`web_development_v.1.0.20.zip`](gpt/web_development_v.1.0.20.zip) | Snapshot; contents and runtime compatibility not independently verified |
@@ -66,17 +67,46 @@ Archive versions below are taken from filenames. Listing a file does **not** cer
 
 ### Topic archives in blocks
 
+The 26 tracked topic archives are listed below. They are snapshots rather than a documented, reproducible build output.
+
 | Subject | Tracked archive |
 |---|---|
+| Accounting | [`accounting.zip`](blocks/accounting.zip) |
 | Artificial Intelligence | [`artificial_intelligence.zip`](blocks/artificial_intelligence.zip) |
+| Authenticity | [`authenticity.zip`](blocks/authenticity.zip) |
+| Career Development | [`career-development.zip`](blocks/career-development.zip) |
 | Cinematic Creativity | [`cinematic_creativity.zip`](blocks/cinematic_creativity.zip) |
 | Creativity | [`creativity.zip`](blocks/creativity.zip) |
+| Differentiation | [`differentiation.zip`](blocks/differentiation.zip) |
 | Digital Storytelling | [`digital_storytelling.zip`](blocks/digital_storytelling.zip) |
+| Economics | [`economics.zip`](blocks/economics.zip) |
+| Evidence | [`evidence.zip`](blocks/evidence.zip) |
 | Filmmaking | [`filmmaking.zip`](blocks/filmmaking.zip) |
+| Finance | [`finance.zip`](blocks/finance.zip) |
+| Fintech | [`fintech.zip`](blocks/fintech.zip) |
+| Impact | [`impact.zip`](blocks/impact.zip) |
+| Master's in Finance Application | [`masters-in-finance-application.zip`](blocks/masters-in-finance-application.zip) |
+| Narration | [`narration.zip`](blocks/narration.zip) |
+| Personality Psychology | [`personality-psychology.zip`](blocks/personality-psychology.zip) |
+| Postgraduate Admission | [`postgraduate-admission.zip`](blocks/postgraduate-admission.zip) |
+| Postgraduate Application Essay | [`postgraduate-application-essay.zip`](blocks/postgraduate-application-essay.zip) |
+| Postgraduate Application | [`postgraduate-application.zip`](blocks/postgraduate-application.zip) |
+| Potential | [`potential.zip`](blocks/potential.zip) |
+| Program Fit | [`program-fit.zip`](blocks/program-fit.zip) |
+| Quantitative Analysis | [`quantitative-analysis.zip`](blocks/quantitative-analysis.zip) |
 | Research | [`research.zip`](blocks/research.zip) |
+| Strategy | [`strategy.zip`](blocks/strategy.zip) |
 | Systematic Review | [`systematic_review.zip`](blocks/systematic_review.zip) |
 
-**Archive integrity:** The [Cinematic Creativity GPT archive](gpt/Cinematic_Creativity_v.0.1.3.zip) replaces the former 2-byte placeholder and is now tracked at 5,352,028 bytes. The new archive's internal integrity and import compatibility have **not** been independently verified. Other archives are likewise inventoried by path and size rather than fully tested.
+**Archive integrity:** Listing an archive does not establish that it can be opened, imported, or run successfully. The [Cinematic Creativity GPT archive](gpt/Cinematic_Creativity_v.0.1.3.zip) replaced a former two-byte placeholder and is now tracked at 5,352,028 bytes, but its internal integrity and runtime compatibility have **not** been independently verified. The same verification limitation applies to the other archives.
+
+### Source and package versioning
+
+- Markdown specifications are the inspectable source/reference layer. ZIP files are independently checked-in snapshots and are **not automatically rebuilt** when a Markdown source changes.
+- Versions in archive filenames refer to those archives, not to the entire repository. Identically themed Markdown and ZIP files must not be assumed to contain the same revision.
+- No automated archive integrity checks, source-to-package consistency checks, platform-import smoke tests, or model-output evaluations are included in the current CI workflow.
+- For a basic local archive-integrity check, use `python -m zipfile -t path/to/archive.zip`. This checks ZIP readability and CRCs, **not** completeness, correctness, safety, platform compatibility, or equivalence to Markdown sources.
+
 
 ## Construct Modules
 
@@ -145,8 +175,8 @@ archetype/
 ├── blocks/
 │   ├── Construct/                    # 21 reusable Markdown modules
 │   ├── *.md                          # 21 standalone specialists
-│   └── *.zip                         # 7 topic archives
-├── gpt/                              # 7 checked-in GPT archives
+│   └── *.zip                         # 26 topic archives
+├── gpt/                              # 8 checked-in GPT archives
 ├── grok/                             # 1 archive
 ├── tests/test_readme.py              # README path and anchor check
 ├── .github/workflows/readme-check.yml
@@ -160,6 +190,19 @@ The former `Prompts/`, `GPT Plugins/`, `Grok Skills/`, and `Knowledge Maps/` dir
 
 ## Validation
 
-Run `python tests/test_readme.py` to check local links and anchors in this README. [GitHub Actions](.github/workflows/readme-check.yml) runs the same validator on pushes and pull requests. This documentation test **does not** verify archive integrity, packaged source completeness, plugin compatibility, or AI-model performance.
+Run `python tests/test_readme.py` to check recognized local links and README heading anchors. [GitHub Actions](.github/workflows/readme-check.yml) runs this validator on pushes and pull requests.
+
+**Scope of the current check:** The validator uses a regular expression to parse inline Markdown links in `README.md`. It checks whether their local paths exist and whether fragments targeting the README match detected headings. It does **not** validate every Markdown source, Markdown images, reference-style links, cross-file heading fragments, external URLs, ZIP integrity, archive contents, source-to-archive synchronization, installation compatibility, or AI-model performance. A green workflow therefore means **the limited README check passed**, not that the repository's packages or prompts were fully validated.
+
+### Maintainer release checklist
+
+Before describing an archive as validated or ready to install:
+
+1. Confirm the archive's contents, format, integrity, and target-platform import requirements.
+2. Confirm which exact source revision and configuration the archive contains; document the relationship explicitly.
+3. Update the README's inventory and archive lists, and run `python tests/test_readme.py`.
+4. Test representative model tasks and report the model, settings, evaluation method, known failure cases, and results when making quality claims.
+
+These steps are currently **manual recommendations**, not enforced repository checks.
 
 ![Archetype avatar](A_Avatar.png)
