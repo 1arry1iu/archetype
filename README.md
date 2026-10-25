@@ -26,8 +26,6 @@ Selected demo projects showcased alongside the Archetype knowledge architectures
 2. Open a Markdown source such as [Archetype](blocks/Construct/A.md), [Analytical Psychology](blocks/AP.md), [Citation](blocks/CT.md), [Research](blocks/RS.md), or [Visual Art](blocks/VA.md).
 3. Extract and adapt the relevant knowledge, instructions, and protocols to the target model, tools, task, and context window.
 
-These specifications can be very long. Conceptual breadth **does not demonstrate model performance**. For focused applications, use a compact, task-specific subset and evaluate it on representative tasks.
-
 ### Use a packaged archive
 
 The [`gpt/`](gpt), [`grok/`](grok), and [`blocks/`](blocks) directories contain checked-in ZIP archives. These are snapshots, not automatically regenerated when Markdown sources change. Check each archive's contents, integrity, and target-platform import requirements before installation. A file's presence or size alone does not establish ZIP integrity or target-platform compatibility.
@@ -99,16 +97,6 @@ The 26 tracked topic archives are listed below. They are snapshots rather than a
 | Research | [`research.zip`](blocks/research.zip) |
 | Strategy | [`strategy.zip`](blocks/strategy.zip) |
 | Systematic Review | [`systematic_review.zip`](blocks/systematic_review.zip) |
-
-**Archive integrity:** Listing an archive does not establish that it can be opened, imported, or run successfully. The [Cinematic Creativity GPT archive](gpt/Cinematic_Creativity_v.0.1.3.zip) replaced a former two-byte placeholder and is now tracked at 5,352,028 bytes, but its internal integrity and runtime compatibility have **not** been independently verified. The same verification limitation applies to the other archives.
-
-### Source and package versioning
-
-- Markdown specifications are the inspectable source/reference layer. ZIP files are independently checked-in snapshots and are **not automatically rebuilt** when a Markdown source changes.
-- Versions in archive filenames refer to those archives, not to the entire repository. Identically themed Markdown and ZIP files must not be assumed to contain the same revision.
-- No automated archive integrity checks, source-to-package consistency checks, platform-import smoke tests, or model-output evaluations are included in the current CI workflow.
-- No per-archive checksum manifest or machine-readable source-to-package provenance is checked in. A maintainable release record should identify the ZIP's SHA-256 hash, the source revision(s), build/configuration details, and the target platform.
-- For a basic local archive-integrity check, use `python -m zipfile -t path/to/archive.zip`. This checks ZIP readability and CRCs, **not** completeness, correctness, safety, platform compatibility, or equivalence to Markdown sources.
 
 
 ## Construct Modules
