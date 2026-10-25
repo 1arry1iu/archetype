@@ -2,7 +2,7 @@
 
 **Archetype** is an evolving library of LLM prompt architectures, reusable reasoning modules, specialist knowledge systems, and versioned plugin and skill archives. It brings together domain expertise, research methods, creative work, and software engineering with an emphasis on conceptual precision, reuse, validation, and continuous improvement.
 
-**Current repository inventory (October 18, 2026):** **42 Markdown specifications** (21 standalone specialists and 21 Construct modules) and **35 checked-in ZIP files** (26 topic archives in `blocks/`, eight GPT-named archives in `gpt/`, and one Grok archive in `grok/`). The previously documented five knowledge maps are **not present** on the current `main` branch. These numbers describe tracked files, not independently verified or import-tested packages.
+**Current repository inventory (October 25, 2026):** **42 Markdown specifications** (21 standalone specialists and 21 Construct modules) and **35 checked-in ZIP files** (26 topic archives in `blocks/`, eight GPT-named archives in `gpt/`, and one Grok archive in `grok/`). The previously documented five knowledge maps are **not present** on the current `main` branch. These numbers describe tracked files, not independently verified or import-tested packages.
 
 **Contact:** [@1arry1iu on X](https://x.com/1arry1iu)
 
@@ -53,11 +53,13 @@ Archive versions below are taken from filenames. Listing a file does **not** cer
 | Analytical Psychology V.0.1.2.zip | [`analytical_psychology_v.0.1.2.zip`](gpt/analytical_psychology_v.0.1.2.zip) | Snapshot; contents and runtime compatibility not independently verified |
 | Cinematic Creativity | [`Cinematic_Creativity_v.0.1.3.zip`](gpt/Cinematic_Creativity_v.0.1.3.zip) | Checked in (5,352,028 bytes); archive contents and runtime compatibility not independently verified |
 | Citation V.0.1.1.zip | [`citation_v.0.1.1.zip`](gpt/citation_v.0.1.1.zip) | Snapshot; contents and runtime compatibility not independently verified |
-| Construct V.0.9.23.zip | [`construct_v.0.9.23.zip`](gpt/construct_v.0.9.23.zip) | Snapshot; contents and runtime compatibility not independently verified |
+| Construct v1.0.0 | [`construct-v1.0.0.zip`](gpt/construct-v1.0.0.zip) | Checked in (18,621,169 bytes); contents and runtime compatibility not independently verified |
 | Postgraduate Application | [`post-graduate-application-v.1.0.1.zip`](gpt/post-graduate-application-v.1.0.1.zip) | Snapshot; contents and runtime compatibility not independently verified |
 | Systematic Review V.0.1.7.zip | [`systematic_review_v.0.1.7.zip`](gpt/systematic_review_v.0.1.7.zip) | Snapshot; contents and runtime compatibility not independently verified |
 | Visual Art V.0.1.1.zip | [`visual_art_v.0.1.1.zip`](gpt/visual_art_v.0.1.1.zip) | Snapshot; contents and runtime compatibility not independently verified |
 | Web Development V.1.0.20.zip | [`web_development_v.1.0.20.zip`](gpt/web_development_v.1.0.20.zip) | Snapshot; contents and runtime compatibility not independently verified |
+
+**Construct archive update (October 25, 2026):** `gpt/construct-v1.0.0.zip` replaces the previously tracked `gpt/construct_v.0.9.23.zip`, which is no longer available at its former path. This is a file inventory update, **not** a confirmation that the newer ZIP imports successfully or matches the current Markdown source modules.
 
 ### Grok archive
 
@@ -105,6 +107,7 @@ The 26 tracked topic archives are listed below. They are snapshots rather than a
 - Markdown specifications are the inspectable source/reference layer. ZIP files are independently checked-in snapshots and are **not automatically rebuilt** when a Markdown source changes.
 - Versions in archive filenames refer to those archives, not to the entire repository. Identically themed Markdown and ZIP files must not be assumed to contain the same revision.
 - No automated archive integrity checks, source-to-package consistency checks, platform-import smoke tests, or model-output evaluations are included in the current CI workflow.
+- No per-archive checksum manifest or machine-readable source-to-package provenance is checked in. A maintainable release record should identify the ZIP's SHA-256 hash, the source revision(s), build/configuration details, and the target platform.
 - For a basic local archive-integrity check, use `python -m zipfile -t path/to/archive.zip`. This checks ZIP readability and CRCs, **not** completeness, correctness, safety, platform compatibility, or equivalence to Markdown sources.
 
 
@@ -199,7 +202,7 @@ Run `python tests/test_readme.py` to check recognized local links and README hea
 Before describing an archive as validated or ready to install:
 
 1. Confirm the archive's contents, format, integrity, and target-platform import requirements.
-2. Confirm which exact source revision and configuration the archive contains; document the relationship explicitly.
+2. Record the archive's SHA-256 checksum, exact source revision(s), build/configuration details, and target-platform compatibility evidence; document the relationship explicitly.
 3. Update the README's inventory and archive lists, and run `python tests/test_readme.py`.
 4. Test representative model tasks and report the model, settings, evaluation method, known failure cases, and results when making quality claims.
 
