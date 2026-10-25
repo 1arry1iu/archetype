@@ -6,7 +6,7 @@
 
 **Contact:** [@1arry1iu on X](https://x.com/1arry1iu)
 
-[Archetype Projects](#archetype-projects) · [Get Started](#get-started) · [Architecture](#architecture) · [Packaged Distributions](#packaged-distributions) · [Construct Modules](#construct-modules) · [Standalone Specialists](#standalone-specialists) · [Repository Layout](#repository-layout) · [Validation](#validation)
+[Archetype Projects](#archetype-projects) · [Get Started](#get-started) · [Architecture](#architecture) · [Packaged Distributions](#packaged-distributions) · [Construct Modules](#construct-modules) · [Standalone Specialists](#standalone-specialists) · [Repository Layout](#repository-layout)
 
 ## Archetype Projects
 
@@ -188,24 +188,5 @@ archetype/
 ├── LICENSE                           # Apache License 2.0
 └── README.md
 ```
-
-The former `Prompts/`, `GPT Plugins/`, `Grok Skills/`, and `Knowledge Maps/` directories are not in the current repository tree.
-
-## Validation
-
-Run `python tests/test_readme.py` to check recognized local links and README heading anchors. [GitHub Actions](.github/workflows/readme-check.yml) runs this validator on pushes and pull requests.
-
-**Scope of the current check:** The validator uses a regular expression to parse inline Markdown links in `README.md`. It checks whether their local paths exist and whether fragments targeting the README match detected headings. It does **not** validate every Markdown source, Markdown images, reference-style links, cross-file heading fragments, external URLs, ZIP integrity, archive contents, source-to-archive synchronization, installation compatibility, or AI-model performance. A green workflow therefore means **the limited README check passed**, not that the repository's packages or prompts were fully validated.
-
-### Maintainer release checklist
-
-Before describing an archive as validated or ready to install:
-
-1. Confirm the archive's contents, format, integrity, and target-platform import requirements.
-2. Record the archive's SHA-256 checksum, exact source revision(s), build/configuration details, and target-platform compatibility evidence; document the relationship explicitly.
-3. Update the README's inventory and archive lists, and run `python tests/test_readme.py`.
-4. Test representative model tasks and report the model, settings, evaluation method, known failure cases, and results when making quality claims.
-
-These steps are currently **manual recommendations**, not enforced repository checks.
 
 ![Archetype avatar](A_Avatar.png)
