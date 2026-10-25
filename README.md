@@ -1,4 +1,4 @@
-# Archetype (A-19)
+# Archetype (A-20)
 
 **Archetype** is an evolving library of LLM prompt architectures, reusable reasoning modules, specialist knowledge systems, and versioned plugin and skill archives. It brings together domain expertise, research methods, creative work, and software engineering with an emphasis on conceptual precision, reuse, validation, and continuous improvement.
 
