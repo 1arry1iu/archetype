@@ -6,17 +6,7 @@ The **November 10, 2026 inventory** contains **89 ZIP archives** across four gro
 
 **Contact:** [@1arry1iu on X](https://x.com/1arry1iu)
 
-[Projects](#archetype-projects) · [Get Started](#get-started) · [Architecture](#architecture) · [Package Inventory](#package-inventory) · [Package Notes](#package-notes) · [Historical Source](#historical-source) · [Verification](#verification-and-release-status) · [Repository Layout](#repository-layout)
-
-## Archetype Projects
-
-Selected demo projects showcased alongside the Archetype knowledge architectures and prompt libraries:
-
-- [Schoolside · Chiang Mai](https://schoolside-chiang-mai.greenlake32.chatgpt.site)
-- [Thailand Fieldguide](https://thailand-fieldguide.greenlake32.chatgpt.site/)
-- [远见 · Atlas](https://yuanjian-atlas.greenlake32.chatgpt.site/)
-- [Little Days · Chiang Mai](https://little-days-chiang-mai.greenlake32.chatgpt.site/)
-- [Pause · Chiang Mai](https://pause-chiang-mai.greenlake32.chatgpt.site/)
+[Get Started](#get-started) · [Architecture](#architecture) · [Package Inventory](#package-inventory) · [Package Notes](#package-notes) · [Historical Source](#historical-source) · [Repository Layout](#repository-layout)
 
 ## Get Started
 
@@ -167,23 +157,6 @@ The repository previously tracked 21 standalone specialist Markdown files in `bl
 - [Standalone specialist Markdown removal commit](https://github.com/1arry1iu/archetype/commit/6cb53297f6a6a8dfe5a2be52253933733639c31c) (October 26, 2026).
 
 Historical files can be useful for reading, comparison, and restoration decisions. **They are not a verified source map for the currently distributed ZIPs.** The previously documented knowledge-map files are also absent from this branch.
-
-## Verification and Release Status
-
-The [README link checker](tests/test_readme.py) runs in [GitHub Actions](.github/workflows/readme-check.yml) on pushes and pull requests. It checks local paths named in standard inline Markdown links and anchors that point into this README. Inventory completeness, historical Git revisions, image and reference-style links, and archive contents require separate checks.
-
-A manual audit of the November 10 snapshot verified decompression and CRCs for all 89 tracked ZIPs and 301 nested ZIPs. All passed. Live platform imports and model behavior require separate verification.
-
-The following checks are recommended before distribution:
-
-1. **Archive integrity and safety:** test decompression and CRCs; reject absolute paths, traversal entries, unsafe symlinks, unexpected duplicates, and excessive expansion.
-2. **Package contracts:** validate expected manifest paths and schemas, references, platform-specific layout, and required assets (including nested archives).
-3. **Provenance:** record source commit, package version, target platform, and SHA-256 checksum for each artifact.
-4. **Runtime smoke tests:** import the archive into the actual target platform and verify the intended skill or plugin can be invoked.
-5. **Behavioral evaluation:** test representative use cases, regressions, groundedness, instruction adherence, security boundaries, and failures across target models.
-6. **Release management:** publish tagged, traceable distributions only after the relevant gates pass; update this inventory when packages are added, renamed, or removed.
-
-**Current limitation:** Checked-in archives are snapshots and are not demonstrably generated from a documented reproducible build pipeline. Presence in the repository is **not** a release certification.
 
 ## Repository Layout
 
