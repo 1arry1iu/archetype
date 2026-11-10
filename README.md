@@ -2,11 +2,11 @@
 
 **Archetype** is a library of LLM prompt architectures, reusable reasoning modules, specialist knowledge systems, and packaged skills and plugins. It brings together research methods, conceptual frameworks, creative practices, and software engineering with an emphasis on reuse, evidence, and continuous improvement.
 
-**Repository inventory (October 27, 2026):** **80 checked-in ZIP archives** — **21 Construct modules**, **49 topic/specialist packages**, **9 GPT packages**, and **1 Grok package**. The current `main` branch contains **no standalone or Construct Markdown source specifications**: `README.md` is the only tracked Markdown file. This is a snapshot of tracked files, **not** a claim that every archive has been checked, imported, or behaviorally evaluated.
+The **November 10, 2026 inventory** contains **89 ZIP archives** across four groups. It includes **21 Construct modules**, **57 topic and specialist packages**, **10 GPT packages**, and **1 Grok package**. `README.md` is the only Markdown file tracked outside the archives on `main`.
 
 **Contact:** [@1arry1iu on X](https://x.com/1arry1iu)
 
-[Projects](#archetype-projects) · [Get Started](#get-started) · [Architecture](#architecture) · [Package Inventory](#package-inventory) · [Historical Source](#historical-source) · [Verification](#verification-and-release-status) · [Repository Layout](#repository-layout)
+[Projects](#archetype-projects) · [Get Started](#get-started) · [Architecture](#architecture) · [Package Inventory](#package-inventory) · [Package Notes](#package-notes) · [Historical Source](#historical-source) · [Verification](#verification-and-release-status) · [Repository Layout](#repository-layout)
 
 ## Archetype Projects
 
@@ -21,7 +21,7 @@ Selected demo projects showcased alongside the Archetype knowledge architectures
 ## Get Started
 
 1. **Choose a package family.** Browse [Construct foundations](blocks/Construct), [topic and specialist packages](blocks), [GPT packages](gpt), or the [Grok package](grok).
-2. **Inspect the ZIP before importing.** Package layouts vary. Some archives contain a `SKILL.md` plus nested reference archives; others contain plugin manifests and multiple skills. Check the actual layout and the import requirements of your target platform.
+2. **Inspect the ZIP before importing.** Check its layout and metadata against the requirements of your target platform. The [package notes](#package-notes) list known issues in this snapshot.
 3. **Select and adapt carefully.** Use only the instructions and supporting material relevant to your task, tools, permissions, and context window. A checked-in ZIP is not evidence of runtime compatibility or prompt quality.
 4. **Need editable Markdown source?** The former source specifications are available in [Git history](#historical-source), not as standalone Markdown files on the current `main` branch.
 
@@ -32,8 +32,8 @@ The `blocks/` archives are not necessarily interchangeable with `gpt/` or `grok/
 | Layer | Current location | Tracked contents | Purpose |
 |---|---|---|---|
 | Reusable foundations | [`blocks/Construct/`](blocks/Construct) | 21 ZIP archives | General-purpose modules for reasoning, knowledge, judgment, models, validation, and workflows |
-| Specialist and topic packages | [`blocks/`](blocks) | 49 ZIP archives, excluding `Construct/` | Discipline-specific skills, methods, and reference assets |
-| GPT-oriented packages | [`gpt/`](gpt) | 9 ZIP archives | Packaged systems with platform-specific layouts and versioned filenames |
+| Specialist and topic packages | [`blocks/`](blocks) | 57 ZIP archives, excluding `Construct/` | Discipline-specific skills, methods, and reference assets |
+| GPT-oriented packages | [`gpt/`](gpt) | 10 ZIP archives | Packaged systems with platform-specific layouts and versioned filenames |
 | Grok-oriented packages | [`grok/`](grok) | 1 ZIP archive | Construct-oriented distribution snapshot |
 
 **Package identity is not source identity.** Module names, historical identifiers (such as `A-18`), and versioned ZIP filenames do not by themselves establish that a package corresponds to a specific source revision. Do not infer compatibility or feature parity from similar names.
@@ -68,7 +68,7 @@ The following is the complete tracked ZIP inventory for the snapshot above. File
 | Validity | [`validity.zip`](blocks/Construct/validity.zip) |
 | Workflow | [`workflow.zip`](blocks/Construct/workflow.zip) |
 
-### Topic and specialist packages — 49 archives
+### Topic and specialist packages — 57 archives
 
 | Package | Tracked archive |
 |---|---|
@@ -79,8 +79,15 @@ The following is the complete tracked ZIP inventory for the snapshot above. File
 | Application Essay Writing | [`application-essay-writing.zip`](blocks/application-essay-writing.zip) |
 | Artificial Intelligence | [`artificial_intelligence.zip`](blocks/artificial_intelligence.zip) |
 | Authenticity | [`authenticity.zip`](blocks/authenticity.zip) |
+| Bible | [`bible.zip`](blocks/bible.zip) |
+| Bible History | [`bible-history.zip`](blocks/bible-history.zip) |
+| Biblical Corpus | [`biblical-corpus.zip`](blocks/biblical-corpus.zip) |
+| Biblical Languages | [`biblical-languages.zip`](blocks/biblical-languages.zip) |
+| Biblical Scholarship | [`biblical-scholarship.zip`](blocks/biblical-scholarship.zip) |
+| Biblical World | [`biblical-world.zip`](blocks/biblical-world.zip) |
 | Business Analytics | [`business-analytics.zip`](blocks/business-analytics.zip) |
 | Career | [`career.zip`](blocks/career.zip) |
+| Christianity | [`christianity.zip`](blocks/christianity.zip) |
 | Cinematic Creativity | [`cinematic_creativity.zip`](blocks/cinematic_creativity.zip) |
 | College Admissions | [`college-admissions.zip`](blocks/college-admissions.zip) |
 | College Application | [`college-application.zip`](blocks/college-application.zip) |
@@ -90,7 +97,7 @@ The following is the complete tracked ZIP inventory for the snapshot above. File
 | Digital Storytelling | [`digital_storytelling.zip`](blocks/digital_storytelling.zip) |
 | Economics | [`economics.zip`](blocks/economics.zip) |
 | Educational Admissions And Application | [`educational-admissions-and-application.zip`](blocks/educational-admissions-and-application.zip) |
-| Educational Admissions | [`educational-admissions.zip`](blocks/educational-admissions.zip) |
+| Educational Admissions (reference atlas) | [`educational-admissions.zip`](blocks/educational-admissions.zip) |
 | Evidence | [`evidence.zip`](blocks/evidence.zip) |
 | Filmmaking | [`filmmaking.zip`](blocks/filmmaking.zip) |
 | Finance | [`finance.zip`](blocks/finance.zip) |
@@ -115,6 +122,7 @@ The following is the complete tracked ZIP inventory for the snapshot above. File
 | Scholarships and Financial Aid | [`scholarships-and-financial-aid.zip`](blocks/scholarships-and-financial-aid.zip) |
 | Strategy | [`strategy.zip`](blocks/strategy.zip) |
 | Systematic Review | [`systematic_review.zip`](blocks/systematic_review.zip) |
+| Theology | [`theology.zip`](blocks/theology.zip) |
 | Transfer and Alternative Pathways | [`transfer-and-alternative-pathways.zip`](blocks/transfer-and-alternative-pathways.zip) |
 | UK Graduate Education | [`uk-graduate-education.zip`](blocks/uk-graduate-education.zip) |
 | UK Undergraduate Education | [`uk-undergraduate-education.zip`](blocks/uk-undergraduate-education.zip) |
@@ -122,14 +130,15 @@ The following is the complete tracked ZIP inventory for the snapshot above. File
 | US Graduate Education | [`us-graduate-education.zip`](blocks/us-graduate-education.zip) |
 | US Undergraduate Education | [`us-undergraduate-education.zip`](blocks/us-undergraduate-education.zip) |
 
-### GPT packages — 9 archives
+### GPT packages — 10 archives
 
 | Package | Tracked archive |
 |---|---|
 | Cinematic Creativity V.0.1.3 | [`Cinematic_Creativity_v.0.1.3.zip`](gpt/Cinematic_Creativity_v.0.1.3.zip) |
 | Analytical Psychology V.0.1.2 | [`analytical_psychology_v.0.1.2.zip`](gpt/analytical_psychology_v.0.1.2.zip) |
+| Bible v1.1.1 | [`bible-v1.1.1.zip`](gpt/bible-v1.1.1.zip) |
 | Citation V.0.1.1 | [`citation_v.0.1.1.zip`](gpt/citation_v.0.1.1.zip) |
-| Construct V1.0.0 | [`construct-v1.0.0.zip`](gpt/construct-v1.0.0.zip) |
+| Construct v1.0.2 (Research only) | [`construct-v1.0.2.zip`](gpt/construct-v1.0.2.zip) |
 | Educational Admissions And Application V0.0.8 | [`educational-admissions-and-application-v0.0.8.zip`](gpt/educational-admissions-and-application-v0.0.8.zip) |
 | Post Graduate Application V.1.0.1 | [`post-graduate-application-v.1.0.1.zip`](gpt/post-graduate-application-v.1.0.1.zip) |
 | Systematic Review V.0.1.7 | [`systematic_review_v.0.1.7.zip`](gpt/systematic_review_v.0.1.7.zip) |
@@ -141,6 +150,13 @@ The following is the complete tracked ZIP inventory for the snapshot above. File
 | Package | Tracked archive |
 |---|---|
 | Construct Grok V0.9.21 | [`construct_grok_v0.9.21.zip`](grok/construct_grok_v0.9.21.zip) |
+
+## Package Notes
+
+- **Construct v1.0.2.** The GPT archive contains only the Research skill. Its manifests describe a 22-skill suite, and the archive lacks the two reference ZIPs listed by the Research skill and the icon declared in the manifests.
+- **Standalone skill format.** Of the 78 `blocks/` archives, 43 have a `SKILL.md` without YAML frontmatter, Digital Storytelling has a skill name that differs from its folder name, and Educational Admissions contains only a reference atlas. These 45 archives need packaging changes to meet the [Agent Skills format](https://agentskills.io/specification#skillmd-format).
+- **GPT submission metadata.** Cinematic Creativity's primary workflow lacks YAML frontmatter. Systematic Review's main skill description exceeds the 1,024-character limit, and 14 skills in Educational Admissions and Application exceed the 64-character limit for the combined plugin and skill name. See the [OpenAI submission requirements](https://developers.openai.com/plugins/deploy/submission-errors#skill-errors).
+- **Rebuild paths.** Some bundled rebuild scripts, including those for Admissions Interviews, Theology, Biblical World, and Taxonomy, use fixed `/mnt/data` paths. Review their input and output paths before running the rebuild commands.
 
 ## Historical Source
 
@@ -154,9 +170,11 @@ Historical files can be useful for reading, comparison, and restoration decision
 
 ## Verification and Release Status
 
-The tracked [README link checker](tests/test_readme.py) runs through [GitHub Actions](.github/workflows/readme-check.yml) on pushes and pull requests. It checks standard inline Markdown links against local paths and checks anchors that point into this README. It **does not** fully parse Markdown, validate image or reference-style links, exhaustively validate links to headings in other documents, inspect ZIP internals, check manifests, test platform imports, or evaluate LLM behavior.
+The [README link checker](tests/test_readme.py) runs in [GitHub Actions](.github/workflows/readme-check.yml) on pushes and pull requests. It checks local paths named in standard inline Markdown links and anchors that point into this README. Inventory completeness, historical Git revisions, image and reference-style links, and archive contents require separate checks.
 
-The repository currently has **no tracked automated tests** for ZIP integrity, package import compatibility, or model-response quality. The following checks are **recommended before distribution**; listing them does not imply they have been performed:
+A manual audit of the November 10 snapshot verified decompression and CRCs for all 89 tracked ZIPs and 301 nested ZIPs. All passed. Live platform imports and model behavior require separate verification.
+
+The following checks are recommended before distribution:
 
 1. **Archive integrity and safety:** test decompression and CRCs; reject absolute paths, traversal entries, unsafe symlinks, unexpected duplicates, and excessive expansion.
 2. **Package contracts:** validate expected manifest paths and schemas, references, platform-specific layout, and required assets (including nested archives).
@@ -173,8 +191,8 @@ The repository currently has **no tracked automated tests** for ZIP integrity, p
 archetype/
 ├── blocks/
 │   ├── Construct/                    # 21 Construct ZIP packages
-│   └── *.zip                         # 49 topic/specialist ZIP packages
-├── gpt/                              # 9 GPT ZIP packages
+│   └── *.zip                         # 57 topic and specialist ZIP packages
+├── gpt/                              # 10 GPT ZIP packages
 ├── grok/                             # 1 Grok ZIP package
 ├── tests/test_readme.py              # README local-link validation
 ├── .github/workflows/readme-check.yml
